@@ -1,0 +1,1506 @@
+[
+  {
+    "source": "/guides/general/m4a-vs-aac/",
+    "target": "/guides/general/aac-adts-vs-container-config/",
+    "anchor": "AAC framing: ADTS, LATM and a container configuration",
+    "heading": "Understand why the labels overlap",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[AAC framing: ADTS, LATM and a container configuration](/guides/general/aac-adts-vs-container-config/)”."
+  },
+  {
+    "source": "/guides/general/video-shortcut-vs-retained-file/",
+    "target": "/guides/general/account-video-bookmark-vs-retained-file/",
+    "anchor": "Saved entries, webpage copies and actual video files",
+    "heading": "Identify the object before treating it as media",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Saved entries, webpage copies and actual video files](/guides/general/account-video-bookmark-vs-retained-file/)”."
+  },
+  {
+    "source": "/guides/general/android-usb-file-transfer/",
+    "target": "/guides/general/android-sd-card-portable-vs-internal-video/",
+    "anchor": "Android video on an SD card: portable versus internal storage",
+    "heading": "Check the connection before searching for media",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Android video on an SD card: portable versus internal storage](/guides/general/android-sd-card-portable-vs-internal-video/)”."
+  },
+  {
+    "source": "/guides/general/image-sequence-versus-video-editing-handoff/",
+    "target": "/guides/general/animated-image-vs-video-handoff/",
+    "anchor": "An animated image is not the same handoff as a video",
+    "heading": "Test the receiving workflow before producing a large set",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[An animated image is not the same handoff as a video](/guides/general/animated-image-vs-video-handoff/)”."
+  },
+  {
+    "source": "/guides/general/photo-library-selected-video-access/",
+    "target": "/guides/general/apple-hidden-video-library-location/",
+    "anchor": "Find a video hidden in Apple Photos without treating it as deleted",
+    "heading": "Separate authorization from filtering and compatibility",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Find a video hidden in Apple Photos without treating it as deleted](/guides/general/apple-hidden-video-library-location/)”."
+  },
+  {
+    "source": "/guides/general/recover-recently-deleted-video/",
+    "target": "/guides/general/apple-photos-duplicate-video-merge-review/",
+    "anchor": "Review duplicate videos before merging them in Apple Photos",
+    "heading": "Choose Files or Photos on iPhone and iPad",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Review duplicate videos before merging them in Apple Photos](/guides/general/apple-photos-duplicate-video-merge-review/)”."
+  },
+  {
+    "source": "/guides/general/photos-video-export-original-vs-edited/",
+    "target": "/guides/general/apple-shared-album-video-copy/",
+    "anchor": "Save an Apple Shared Album video and check its version-dependent quality",
+    "heading": "Use the export controls appropriate to the device",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Save an Apple Shared Album video and check its version-dependent quality](/guides/general/apple-shared-album-video-copy/)”."
+  },
+  {
+    "source": "/guides/general/ass-override-tags-visible-text/",
+    "target": "/guides/general/ass-script-resolution-layout/",
+    "anchor": "ASS script resolution: verify caption coordinates after resizing video",
+    "heading": "Identify the script structure and rendered intention",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[ASS script resolution: verify caption coordinates after resizing video](/guides/general/ass-script-resolution-layout/)”."
+  },
+  {
+    "source": "/guides/general/audacity-project-vs-audio-export/",
+    "target": "/guides/general/audacity-destructive-vs-realtime-effect/",
+    "anchor": "Audacity realtime effects versus an applied waveform edit",
+    "heading": "Choose the artifact for the receiving task",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Audacity realtime effects versus an applied waveform edit](/guides/general/audacity-destructive-vs-realtime-effect/)”."
+  },
+  {
+    "source": "/guides/general/speech-dynamics-compressor-review/",
+    "target": "/guides/general/audacity-envelope-vs-amplify/",
+    "anchor": "Audacity envelopes versus Amplify: change level in the intended scope",
+    "heading": "Separate dynamics from a uniformly quiet soundtrack",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Audacity envelopes versus Amplify: change level in the intended scope](/guides/general/audacity-envelope-vs-amplify/)”."
+  },
+  {
+    "source": "/guides/general/audacity-selection-vs-entire-project-export/",
+    "target": "/guides/general/audacity-punch-roll-replacement-scope/",
+    "anchor": "Audacity Punch and Roll: check what the retake replaces",
+    "heading": "Identify the intended interval and contributions",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Audacity Punch and Roll: check what the retake replaces](/guides/general/audacity-punch-roll-replacement-scope/)”."
+  },
+  {
+    "source": "/guides/general/audacity-project-vs-audio-export/",
+    "target": "/guides/general/audacity-recover-project-crash/",
+    "anchor": "Audacity crash recovery: save and verify the recovered project",
+    "heading": "Save editing state without promising every prior action",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Audacity crash recovery: save and verify the recovered project](/guides/general/audacity-recover-project-crash/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-silenceremove-video-sync/",
+    "target": "/guides/general/audacity-truncate-silence-selection/",
+    "anchor": "Audacity Truncate Silence: protect pauses and picture timing",
+    "heading": "Use a paired video edit when that is the intended result",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Audacity Truncate Silence: protect pauses and picture timing](/guides/general/audacity-truncate-silence-selection/)”."
+  },
+  {
+    "source": "/guides/general/speech-reverb-reduction-limits/",
+    "target": "/guides/general/audio-comb-filter-vs-echo/",
+    "anchor": "Hollow audio: distinguish comb filtering from a separate echo",
+    "heading": "Listen to the source and locate overlapping reflections",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Hollow audio: distinguish comb filtering from a separate echo](/guides/general/audio-comb-filter-vs-echo/)”."
+  },
+  {
+    "source": "/guides/general/audio-click-at-edit-boundary/",
+    "target": "/guides/general/audio-crossfade-equal-power-vs-linear/",
+    "anchor": "Audio crossfades: curve choice, overlap and final duration",
+    "heading": "Choose a permitted transition when the join still needs work",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Audio crossfades: curve choice, overlap and final duration](/guides/general/audio-crossfade-equal-power-vs-linear/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-audio-dcshift-headroom/",
+    "target": "/guides/general/audio-dc-offset-before-editing/",
+    "anchor": "Check a soundtrack waveform shifted away from zero",
+    "heading": "Verify the offset and audible result after rendering",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Check a soundtrack waveform shifted away from zero](/guides/general/audio-dc-offset-before-editing/)”."
+  },
+  {
+    "source": "/guides/general/steady-audio-noise-profile-review/",
+    "target": "/guides/general/audio-hum-notch-harmonics/",
+    "anchor": "Identify hum and harmonics before applying a notch",
+    "heading": "Check that the problem fits steady-noise reduction",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Identify hum and harmonics before applying a notch](/guides/general/audio-hum-notch-harmonics/)”."
+  },
+  {
+    "source": "/guides/general/audio-dual-mono-vs-stereo-file/",
+    "target": "/guides/general/audio-mid-side-vs-left-right/",
+    "anchor": "Mid-side recordings: decode the microphone pair before judging stereo",
+    "heading": "Verify the mix without losing the source",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Mid-side recordings: decode the microphone pair before judging stereo](/guides/general/audio-mid-side-vs-left-right/)”."
+  },
+  {
+    "source": "/guides/general/pcm-bit-depth-vs-compressed-audio/",
+    "target": "/guides/general/audio-raw-pcm-no-header/",
+    "anchor": "Raw audio has no self-describing container metadata",
+    "heading": "Separate three numbers before comparing files",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Raw audio has no self-describing container metadata](/guides/general/audio-raw-pcm-no-header/)”."
+  },
+  {
+    "source": "/guides/general/blender-scene-frame-range-sequencer/",
+    "target": "/guides/general/blender-video-sequencer-project-media/",
+    "anchor": "Hand off a Blender video edit with its actual external media",
+    "heading": "Verify the completed receiving artifact",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Hand off a Blender video edit with its actual external media](/guides/general/blender-video-sequencer-project-media/)”."
+  },
+  {
+    "source": "/guides/general/video-page-vs-cdn-url/",
+    "target": "/guides/general/browser-blob-url-session-lifetime/",
+    "anchor": "Blob URLs, data URLs and supported video source links",
+    "heading": "Separate content identity from delivery identity",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Blob URLs, data URLs and supported video source links](/guides/general/browser-blob-url-session-lifetime/)”."
+  },
+  {
+    "source": "/guides/general/captive-wifi-video-download/",
+    "target": "/guides/general/browser-clock-certificate-media-error/",
+    "anchor": "Device time, certificate errors and expired download sessions",
+    "heading": "Verify connectivity before returning to the source",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Device time, certificate errors and expired download sessions](/guides/general/browser-clock-certificate-media-error/)”."
+  },
+  {
+    "source": "/guides/general/browser-customization-download-page-failure/",
+    "target": "/guides/general/browser-csp-console-media-request/",
+    "anchor": "CSP, mixed-content and CORS errors during video delivery",
+    "heading": "Keep safety warnings and source access separate",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[CSP, mixed-content and CORS errors during video delivery](/guides/general/browser-csp-console-media-request/)”."
+  },
+  {
+    "source": "/guides/general/captive-wifi-video-download/",
+    "target": "/guides/general/browser-dns-resolution-media-host/",
+    "anchor": "A media hostname will not resolve: identify the failing network",
+    "heading": "Use the network’s authorized joining workflow",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A media hostname will not resolve: identify the failing network](/guides/general/browser-dns-resolution-media-host/)”."
+  },
+  {
+    "source": "/guides/general/storage-space-check/",
+    "target": "/guides/general/browser-download-disk-quota-vs-web-storage/",
+    "anchor": "Browser storage quota is different from a full download disk",
+    "heading": "Inspect the real destination",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Browser storage quota is different from a full download disk](/guides/general/browser-download-disk-quota-vs-web-storage/)”."
+  },
+  {
+    "source": "/guides/general/safe-browser-download-warning/",
+    "target": "/guides/general/browser-managed-download-policy/",
+    "anchor": "Managed download settings and extension-controlled destinations",
+    "heading": "Verify trust without weakening protections",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Managed download settings and extension-controlled destinations](/guides/general/browser-managed-download-policy/)”."
+  },
+  {
+    "source": "/guides/general/photo-library-selected-video-access/",
+    "target": "/guides/general/browser-os-open-file-picker-permission/",
+    "anchor": "Selected-file access is not unrestricted filesystem permission",
+    "heading": "Verify the handoff and keep access deliberate",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Selected-file access is not unrestricted filesystem permission](/guides/general/browser-os-open-file-picker-permission/)”."
+  },
+  {
+    "source": "/guides/general/multiple-downloads-browser-permission/",
+    "target": "/guides/general/browser-user-gesture-download-trigger/",
+    "anchor": "User activation, popups and fullscreen are separate video actions",
+    "heading": "Use a narrow browser setting when the action is intended",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[User activation, popups and fullscreen are separate video actions](/guides/general/browser-user-gesture-download-trigger/)”."
+  },
+  {
+    "source": "/guides/general/ass-override-tags-visible-text/",
+    "target": "/guides/general/caption-karaoke-timing-vs-simple-cues/",
+    "anchor": "Karaoke captions: preserve word timing or label its loss",
+    "heading": "Identify the script structure and rendered intention",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Karaoke captions: preserve word timing or label its loss](/guides/general/caption-karaoke-timing-vs-simple-cues/)”."
+  },
+  {
+    "source": "/guides/general/language-tag-region-and-script/",
+    "target": "/guides/general/caption-language-script-transliteration/",
+    "anchor": "Caption translation versus transliteration: review the actual meaning",
+    "heading": "Read the parts without inventing an identity",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Caption translation versus transliteration: review the actual meaning](/guides/general/caption-language-script-transliteration/)”."
+  },
+  {
+    "source": "/guides/general/downloaded-video-without-captions/",
+    "target": "/guides/general/caption-owner-update-retained-sidecar/",
+    "anchor": "Updated creator captions: keep the archived text version identifiable",
+    "heading": "Check the local file independently",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Updated creator captions: keep the archived text version identifiable](/guides/general/caption-owner-update-retained-sidecar/)”."
+  },
+  {
+    "source": "/guides/general/caption-bidirectional-text-order/",
+    "target": "/guides/general/caption-vertical-writing-receiver/",
+    "anchor": "Vertical subtitles: verify writing mode in the receiving player",
+    "heading": "Check base direction and alignment separately",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Vertical subtitles: verify writing mode in the receiving player](/guides/general/caption-vertical-writing-receiver/)”."
+  },
+  {
+    "source": "/guides/general/embedded-subtitle-versus-sidecar-handoff/",
+    "target": "/guides/general/captions-separate-language-files/",
+    "anchor": "Deliver multiple caption languages as identified sidecars",
+    "heading": "Check companion files and the actual receiving player",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Deliver multiple caption languages as identified sidecars](/guides/general/captions-separate-language-files/)”."
+  },
+  {
+    "source": "/guides/general/phone-to-computer-video-transfer/",
+    "target": "/guides/general/cast-retained-video-vs-screen-mirroring/",
+    "anchor": "Cast a retained video versus mirroring your screen",
+    "heading": "Identify the file you intend to transfer",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Cast a retained video versus mirroring your screen](/guides/general/cast-retained-video-vs-screen-mirroring/)”."
+  },
+  {
+    "source": "/guides/general/chroma-subsampling/",
+    "target": "/guides/general/chroma-siting-color-edge-shift/",
+    "anchor": "Chroma siting: investigate shifted color at picture edges",
+    "heading": "Inspect the representation and compatibility",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Chroma siting: investigate shifted color at picture edges](/guides/general/chroma-siting-color-edge-shift/)”."
+  },
+  {
+    "source": "/guides/general/chrome-download-history/",
+    "target": "/guides/general/chromebook-local-files/",
+    "anchor": "Keep a Chromebook video copy separate from Drive and browser history",
+    "heading": "Read the entry before searching folders",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Keep a Chromebook video copy separate from Drive and browser history](/guides/general/chromebook-local-files/)”."
+  },
+  {
+    "source": "/guides/general/iphone-mac-video-transfer/",
+    "target": "/guides/general/cinematic-focus-editable-video-handoff/",
+    "anchor": "Keep Cinematic focus controls in an iPhone-to-Mac handoff",
+    "heading": "Understand Finder and storage alternatives",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Keep Cinematic focus controls in an iPhone-to-Mac handoff](/guides/general/cinematic-focus-editable-video-handoff/)”."
+  },
+  {
+    "source": "/guides/general/keyframes-and-seeking/",
+    "target": "/guides/general/closed-vs-open-gop-trim/",
+    "anchor": "Copied cuts: closed GOPs, random-access pictures and intra refresh",
+    "heading": "Understand dependent pictures without equating them to missing data",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Copied cuts: closed GOPs, random-access pictures and intra refresh](/guides/general/closed-vs-open-gop-trim/)”."
+  },
+  {
+    "source": "/guides/general/codec-profile-and-level/",
+    "target": "/guides/general/codec-parameter-change-midstream/",
+    "anchor": "A video changes parameters midstream: verify the receiver and handoff",
+    "heading": "Check stream information and documented support",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[A video changes parameters midstream: verify the receiver and handoff](/guides/general/codec-parameter-change-midstream/)”."
+  },
+  {
+    "source": "/guides/general/h264-avcc-vs-annex-b/",
+    "target": "/guides/general/codec-tag-vs-real-bitstream/",
+    "anchor": "Codec tags label a stream; they do not transcode its pictures",
+    "heading": "Identify the codec and required receiving representation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Codec tags label a stream; they do not transcode its pictures](/guides/general/codec-tag-vs-real-bitstream/)”."
+  },
+  {
+    "source": "/guides/general/source-timecode-vs-sequence-position/",
+    "target": "/guides/general/drop-frame-timecode-vs-dropped-pictures/",
+    "anchor": "Drop-frame timecode does not mean missing video pictures",
+    "heading": "Keep frame-based notation distinct from decimal seconds",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Drop-frame timecode does not mean missing video pictures](/guides/general/drop-frame-timecode-vs-dropped-pictures/)”."
+  },
+  {
+    "source": "/guides/general/windows-downloads-folder/",
+    "target": "/guides/general/edge-download-history/",
+    "anchor": "Find video downloads and their destination in Edge",
+    "heading": "Trace the path instead of guessing",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Find video downloads and their destination in Edge](/guides/general/edge-download-history/)”."
+  },
+  {
+    "source": "/guides/general/playback-speed-vs-retimed-video/",
+    "target": "/guides/general/ffmpeg-atempo-retiming-limit-review/",
+    "anchor": "Create a separately retimed soundtrack with FFmpeg",
+    "heading": "Understand the speed number",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Create a separately retimed soundtrack with FFmpeg](/guides/general/ffmpeg-atempo-retiming-limit-review/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-amerge-vs-amix/",
+    "target": "/guides/general/ffmpeg-audio-band-split-recombine/",
+    "anchor": "Split audio bands without calling them original stems",
+    "heading": "Identify input roles before selecting the operation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Split audio bands without calling them original stems](/guides/general/ffmpeg-audio-band-split-recombine/)”."
+  },
+  {
+    "source": "/guides/general/audio-out-of-sync/",
+    "target": "/guides/general/ffmpeg-audio-correlation-alignment/",
+    "anchor": "Audio correlation: verify matching content before choosing an offset",
+    "heading": "Troubleshoot the selected streams and limits",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Audio correlation: verify matching content before choosing an offset](/guides/general/ffmpeg-audio-correlation-alignment/)”."
+  },
+  {
+    "source": "/guides/general/audio-rumble-highpass-review/",
+    "target": "/guides/general/ffmpeg-audio-deemphasis-source-context/",
+    "anchor": "Audio de-emphasis: require the actual source convention",
+    "heading": "Make a controlled comparison around the affected passage",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Audio de-emphasis: require the actual source convention](/guides/general/ffmpeg-audio-deemphasis-source-context/)”."
+  },
+  {
+    "source": "/guides/general/speech-dynamics-compressor-review/",
+    "target": "/guides/general/ffmpeg-audio-dynamic-equalization/",
+    "anchor": "Dynamic equalization: separate the detector from the tonal change",
+    "heading": "Inspect level-dependent reduction and the separate gain control",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Dynamic equalization: separate the detector from the tonal change](/guides/general/ffmpeg-audio-dynamic-equalization/)”."
+  },
+  {
+    "source": "/guides/general/audio-resampling-aliasing-review/",
+    "target": "/guides/general/ffmpeg-audio-format-negotiation/",
+    "anchor": "An audio filter graph changes format: inspect rate, samples and layout",
+    "heading": "Make a controlled conversion with compatible representation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[An audio filter graph changes format: inspect rate, samples and layout](/guides/general/ffmpeg-audio-format-negotiation/)”."
+  },
+  {
+    "source": "/guides/general/audio-formant-shift-vs-note-pitch/",
+    "target": "/guides/general/ffmpeg-audio-frequency-shift-vs-pitch/",
+    "anchor": "Frequency shifting is not a musical pitch interval",
+    "heading": "Choose the intended change before selecting a processor",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Frequency shifting is not a musical pitch interval](/guides/general/ffmpeg-audio-frequency-shift-vs-pitch/)”."
+  },
+  {
+    "source": "/guides/general/audio-click-at-edit-boundary/",
+    "target": "/guides/general/ffmpeg-audio-impulse-click-review/",
+    "anchor": "Audio impulse removal: preserve wanted transients when testing adeclick",
+    "heading": "Check whether the click belongs to the source or the edit",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Audio impulse removal: preserve wanted transients when testing adeclick](/guides/general/ffmpeg-audio-impulse-click-review/)”."
+  },
+  {
+    "source": "/guides/general/true-peak-vs-sample-peak/",
+    "target": "/guides/general/ffmpeg-audio-soft-clipping-derivative/",
+    "anchor": "Soft clipping changes sound; it does not restore original peaks",
+    "heading": "Verify the actual encoded derivative",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Soft clipping changes sound; it does not restore original peaks](/guides/general/ffmpeg-audio-soft-clipping-derivative/)”."
+  },
+  {
+    "source": "/guides/general/inspect-local-video-with-ffprobe/",
+    "target": "/guides/general/ffmpeg-audio-waveform-picture/",
+    "anchor": "Waveform pictures and video scopes are diagnostic companions",
+    "heading": "Verify playback and sanitize a shared report",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Waveform pictures and video scopes are diagnostic companions](/guides/general/ffmpeg-audio-waveform-picture/)”."
+  },
+  {
+    "source": "/guides/general/join-compatible-retained-video-segments/",
+    "target": "/guides/general/ffmpeg-concat-demuxer-vs-filter/",
+    "anchor": "Concat demuxer versus decoded concatenation",
+    "heading": "Create a separate output and inspect the log",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Concat demuxer versus decoded concatenation](/guides/general/ffmpeg-concat-demuxer-vs-filter/)”."
+  },
+  {
+    "source": "/guides/general/speech-reverb-reduction-limits/",
+    "target": "/guides/general/ffmpeg-convolution-impulse-response-resource/",
+    "anchor": "Convolution audio: retain the actual impulse-response dependency",
+    "heading": "Choose a process appropriate to its actual target",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Convolution audio: retain the actual impulse-response dependency](/guides/general/ffmpeg-convolution-impulse-response-resource/)”."
+  },
+  {
+    "source": "/guides/general/inspect-video-metadata-before-sharing/",
+    "target": "/guides/general/ffmpeg-copy-metadata-scope/",
+    "anchor": "FFmpeg metadata copying: distinguish file, stream and chapter scope",
+    "heading": "Check supplied provenance and companion resources",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FFmpeg metadata copying: distinguish file, stream and chapter scope](/guides/general/ffmpeg-copy-metadata-scope/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-temporal-denoise-trailing-edges/",
+    "target": "/guides/general/ffmpeg-deflicker-meaningful-light-changes/",
+    "anchor": "Deflicker video without erasing meaningful lighting changes",
+    "heading": "Choose a passage containing both noise and wanted detail",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Deflicker video without erasing meaningful lighting changes](/guides/general/ffmpeg-deflicker-meaningful-light-changes/)”."
+  },
+  {
+    "source": "/guides/general/interlaced-vs-progressive/",
+    "target": "/guides/general/ffmpeg-detelecine-source-cadence/",
+    "anchor": "FFmpeg inverse telecine: verify the actual source cadence",
+    "heading": "Check moving detail at a known timestamp",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[FFmpeg inverse telecine: verify the actual source cadence](/guides/general/ffmpeg-detelecine-source-cadence/)”."
+  },
+  {
+    "source": "/guides/general/source-timecode-vs-sequence-position/",
+    "target": "/guides/general/ffmpeg-drawtext-timecode-reference/",
+    "anchor": "FFmpeg drawtext timecode: identify the clock you actually label",
+    "heading": "Understand why the source may not begin at zero",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[FFmpeg drawtext timecode: identify the clock you actually label](/guides/general/ffmpeg-drawtext-timecode-reference/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-trim-reset-timestamps/",
+    "target": "/guides/general/ffmpeg-fade-selected-interval/",
+    "anchor": "FFmpeg audio fades: choose the right time origin and wanted words",
+    "heading": "Separate selection from timeline placement",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FFmpeg audio fades: choose the right time origin and wanted words](/guides/general/ffmpeg-fade-selected-interval/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-filtergraph-error-versus-partial-file/",
+    "target": "/guides/general/ffmpeg-filter-threading-repeatability/",
+    "anchor": "FFmpeg graph threading: record the settings and verify repeatability",
+    "heading": "Treat command completion as evidence, not the filename",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FFmpeg graph threading: record the settings and verify repeatability](/guides/general/ffmpeg-filter-threading-repeatability/)”."
+  },
+  {
+    "source": "/guides/general/hardware-vs-software-decoding/",
+    "target": "/guides/general/ffmpeg-hardware-frame-transfer-filter/",
+    "anchor": "Hardware video frames: verify the CPU filter transfer boundary",
+    "heading": "Separate decoding from downloading and editing",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Hardware video frames: verify the CPU filter transfer boundary](/guides/general/ffmpeg-hardware-frame-transfer-filter/)”."
+  },
+  {
+    "source": "/guides/general/audio-click-at-edit-boundary/",
+    "target": "/guides/general/ffmpeg-loop-audio-boundary/",
+    "anchor": "Loop a soundtrack: verify seams, duration and repeated meaning",
+    "heading": "Choose a permitted transition when the join still needs work",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Loop a soundtrack: verify seams, duration and repeated meaning](/guides/general/ffmpeg-loop-audio-boundary/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-chroma-key-spill-review/",
+    "target": "/guides/general/ffmpeg-luma-key-picture-loss/",
+    "anchor": "FFmpeg luma key: distinguish selected brightness from background",
+    "heading": "Choose the screen reference and retain wanted colors",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FFmpeg luma key: distinguish selected brightness from background](/guides/general/ffmpeg-luma-key-picture-loss/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-camera-lut-vs-creative-look/",
+    "target": "/guides/general/ffmpeg-lut3d-source-context/",
+    "anchor": "Apply a 3D LUT only in its intended source context",
+    "heading": "Review the creative look and its place in the processing chain",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Apply a 3D LUT only in its intended source context](/guides/general/ffmpeg-lut3d-source-context/)”."
+  },
+  {
+    "source": "/guides/general/image-subtitles-vs-editable-text/",
+    "target": "/guides/general/ffmpeg-ocr-video-text-review/",
+    "anchor": "OCR from a video frame: verify the words against the picture",
+    "heading": "Choose a text-editing outcome explicitly",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[OCR from a video frame: verify the words against the picture](/guides/general/ffmpeg-ocr-video-text-review/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-overlay-time-origin/",
+    "target": "/guides/general/ffmpeg-overlay-input-duration/",
+    "anchor": "An overlay input ends before the base recording",
+    "heading": "Retain source roles and complete delivery requirements",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[An overlay input ends before the base recording](/guides/general/ffmpeg-overlay-input-duration/)”."
+  },
+  {
+    "source": "/guides/general/embedded-subtitle-versus-sidecar-handoff/",
+    "target": "/guides/general/ffmpeg-read-embedded-caption-data/",
+    "anchor": "Embedded broadcast caption data: inspect the actual FFmpeg path",
+    "heading": "Choose an arrangement the receiver supports",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Embedded broadcast caption data: inspect the actual FFmpeg path](/guides/general/ffmpeg-read-embedded-caption-data/)”."
+  },
+  {
+    "source": "/guides/general/playback-speed-vs-retimed-video/",
+    "target": "/guides/general/ffmpeg-reverse-video-memory-scope/",
+    "anchor": "Reverse a bounded video and soundtrack with FFmpeg",
+    "heading": "Keep timing-dependent material aligned",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Reverse a bounded video and soundtrack with FFmpeg](/guides/general/ffmpeg-reverse-video-memory-scope/)”."
+  },
+  {
+    "source": "/guides/general/steady-audio-noise-profile-review/",
+    "target": "/guides/general/ffmpeg-rnnoise-model-dependency/",
+    "anchor": "FFmpeg neural denoising: retain the model and verify speech",
+    "heading": "Export a labelled derivative and retain the source",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[FFmpeg neural denoising: retain the model and verify speech](/guides/general/ffmpeg-rnnoise-model-dependency/)”."
+  },
+  {
+    "source": "/guides/general/premiere-music-ducking-dialogue-review/",
+    "target": "/guides/general/ffmpeg-sidechain-dialogue-reference/",
+    "anchor": "FFmpeg sidechain control: choose the actual trigger resource",
+    "heading": "Verify the exported mix rather than only the timeline",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[FFmpeg sidechain control: choose the actual trigger resource](/guides/general/ffmpeg-sidechain-dialogue-reference/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-silenceremove-video-sync/",
+    "target": "/guides/general/ffmpeg-silencedetect-selected-ranges/",
+    "anchor": "Detect quiet intervals without automatically deleting narration",
+    "heading": "Use a paired video edit when that is the intended result",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Detect quiet intervals without automatically deleting narration](/guides/general/ffmpeg-silencedetect-selected-ranges/)”."
+  },
+  {
+    "source": "/guides/general/original-vs-default-audio/",
+    "target": "/guides/general/ffmpeg-stream-disposition-default/",
+    "anchor": "FFmpeg default-track flags: hints are not new audio or captions",
+    "heading": "Troubleshoot a player starting with the wrong track",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FFmpeg default-track flags: hints are not new audio or captions](/guides/general/ffmpeg-stream-disposition-default/)”."
+  },
+  {
+    "source": "/guides/general/open-vs-closed-captions/",
+    "target": "/guides/general/ffmpeg-subtitle-burn-version-match/",
+    "anchor": "Burn an authorized subtitle resource into the intended recording",
+    "heading": "Test the local file with text disabled",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Burn an authorized subtitle resource into the intended recording](/guides/general/ffmpeg-subtitle-burn-version-match/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-deband-detail-review/",
+    "target": "/guides/general/ffmpeg-temporal-denoise-trailing-edges/",
+    "anchor": "Temporal denoising: check moving edges before accepting cleaner video",
+    "heading": "Verify detail preservation and receiving appearance",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Temporal denoising: check moving edges before accepting cleaner video](/guides/general/ffmpeg-temporal-denoise-trailing-edges/)”."
+  },
+  {
+    "source": "/guides/general/stabilized-video-crop-and-warp-review/",
+    "target": "/guides/general/ffmpeg-video-stabilization-two-step-context/",
+    "anchor": "Two-step video stabilization: keep analysis tied to the source",
+    "heading": "Verify the receiving movie and retain the source",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Two-step video stabilization: keep analysis tied to the source](/guides/general/ffmpeg-video-stabilization-two-step-context/)”."
+  },
+  {
+    "source": "/guides/general/premiere-transition-insufficient-handles/",
+    "target": "/guides/general/ffmpeg-xfade-overlap-duration/",
+    "anchor": "Video crossfades: account for overlap and verify sound separately",
+    "heading": "Separate visible clip length from available surrounding footage",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Video crossfades: account for overlap and verify sound separately](/guides/general/ffmpeg-xfade-overlap-duration/)”."
+  },
+  {
+    "source": "/guides/general/lossy-vs-lossless-media/",
+    "target": "/guides/general/ffv1-archive-vs-viewing-copy/",
+    "anchor": "FFV1 archive derivatives versus convenient viewing copies",
+    "heading": "Check whether a later workflow re-encoded the media",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[FFV1 archive derivatives versus convenient viewing copies](/guides/general/ffv1-archive-vs-viewing-copy/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-match-audio-reference/",
+    "target": "/guides/general/final-cut-audio-effect-order/",
+    "anchor": "Final Cut audio effect order: inspect the processing chain",
+    "heading": "Verify the edited sequence and exported sound",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut audio effect order: inspect the processing chain](/guides/general/final-cut-audio-effect-order/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-voice-isolation-component-review/",
+    "target": "/guides/general/final-cut-audio-enhancement-analysis/",
+    "anchor": "Final Cut audio analysis: distinguish detected problems from applied fixes",
+    "heading": "Select the actual component and enable the intended enhancement",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut audio analysis: distinguish detected problems from applied fixes](/guides/general/final-cut-audio-enhancement-analysis/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-incomplete-camera-import/",
+    "target": "/guides/general/final-cut-camera-archive-vs-library/",
+    "anchor": "Final Cut camera archives: retain complete capture resources",
+    "heading": "Reconnect the correct original source",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut camera archives: retain complete capture resources](/guides/general/final-cut-camera-archive-vs-library/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-delete-generated-media-scope/",
+    "target": "/guides/general/final-cut-delete-event-source-scope/",
+    "anchor": "Delete a Final Cut event only after checking its source-media scope",
+    "heading": "Use the native generated-file command for the selected scope",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Delete a Final Cut event only after checking its source-media scope](/guides/general/final-cut-delete-event-source-scope/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-three-point-edit-range/",
+    "target": "/guides/general/final-cut-extend-edit-keyframe-scope/",
+    "anchor": "Extend a Final Cut edit: check source handles and effect boundaries",
+    "heading": "Perform the intended forward or backtimed edit",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Extend a Final Cut edit: check source handles and effect boundaries](/guides/general/final-cut-extend-edit-keyframe-scope/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-wide-gamut-library-output/",
+    "target": "/guides/general/final-cut-hdr-tools-tone-map-scope/",
+    "anchor": "Final Cut HDR Tools: avoid applying the same conversion twice",
+    "heading": "Check the effect of changing the processing context",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Final Cut HDR Tools: avoid applying the same conversion twice](/guides/general/final-cut-hdr-tools-tone-map-scope/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-library-media-handoff/",
+    "target": "/guides/general/final-cut-imovie-project-import/",
+    "anchor": "Send an iMovie Mac project to Final Cut with editable media",
+    "heading": "Define the library and media roles before copying",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Send an iMovie Mac project to Final Cut with editable media](/guides/general/final-cut-imovie-project-import/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-distort-vs-transform-shape/",
+    "target": "/guides/general/final-cut-keyframe-interpolation-motion/",
+    "anchor": "Final Cut position keyframes: inspect curved and linear paths",
+    "heading": "Check the shape against the actual subject",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Final Cut position keyframes: inspect curved and linear paths](/guides/general/final-cut-keyframe-interpolation-motion/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-multicam-angle-sync-review/",
+    "target": "/guides/general/final-cut-multicam-cut-vs-angle-editor/",
+    "anchor": "Final Cut multicam: choose angles without changing their sources",
+    "heading": "Create the clip with an appropriate synchronization choice",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut multicam: choose angles without changing their sources](/guides/general/final-cut-multicam-cut-vs-angle-editor/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-multichannel-component-mute/",
+    "target": "/guides/general/final-cut-pan-mode-surround-output/",
+    "anchor": "Final Cut pan modes: verify stereo and surround channel delivery",
+    "heading": "Verify the complete mix and role export scope",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Final Cut pan modes: verify stereo and surround channel delivery](/guides/general/final-cut-pan-mode-surround-output/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-native-convert-closed-captions-to-another-format/",
+    "target": "/guides/general/final-cut-share-captions-format/",
+    "anchor": "Export Final Cut captions: check language, time origin and receiver",
+    "heading": "Use native duplication when the original must remain",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Export Final Cut captions: check language, time origin and receiver](/guides/general/final-cut-share-captions-format/)”."
+  },
+  {
+    "source": "/guides/general/video-chapters-vs-separate-files/",
+    "target": "/guides/general/final-cut-share-chapter-markers/",
+    "anchor": "Export Final Cut chapters and verify real player navigation",
+    "heading": "Check chapter labels separately from spoken language",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Export Final Cut chapters and verify real player navigation](/guides/general/final-cut-share-chapter-markers/)”."
+  },
+  {
+    "source": "/guides/general/final-cut-library-media-handoff/",
+    "target": "/guides/general/final-cut-smart-collection-vs-folder-copy/",
+    "anchor": "Final Cut collections organize references; they do not copy movies",
+    "heading": "Define the library and media roles before copying",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut collections organize references; they do not copy movies](/guides/general/final-cut-smart-collection-vs-folder-copy/)”."
+  },
+  {
+    "source": "/guides/general/retimed-video-interpolation-artifacts/",
+    "target": "/guides/general/final-cut-speed-ramp-audio-transition/",
+    "anchor": "Final Cut speed ramps: check segment boundaries and sound",
+    "heading": "Verify timing, sound and the chosen derivative",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Final Cut speed ramps: check segment boundaries and sound](/guides/general/final-cut-speed-ramp-audio-transition/)”."
+  },
+  {
+    "source": "/guides/general/private-browsing-saved-video-files/",
+    "target": "/guides/general/firefox-container-account-video-context/",
+    "anchor": "Browser profiles and containers can change source access context",
+    "heading": "Verify the result after closing the session",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Browser profiles and containers can change source access context](/guides/general/firefox-container-account-video-context/)”."
+  },
+  {
+    "source": "/guides/general/browser-preview-vs-save/",
+    "target": "/guides/general/firefox-download-history/",
+    "anchor": "Locate downloaded videos in Firefox",
+    "heading": "Complete the separate save operation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Locate downloaded videos in Firefox](/guides/general/firefox-download-history/)”."
+  },
+  {
+    "source": "/guides/general/video-will-not-open/",
+    "target": "/guides/general/firefox-handler-system-default-video/",
+    "anchor": "Saving a movie and choosing the app that opens it",
+    "heading": "Confirm that you are opening a complete media file",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Saving a movie and choosing the app that opens it](/guides/general/firefox-handler-system-default-video/)”."
+  },
+  {
+    "source": "/guides/general/downloaded-video-without-captions/",
+    "target": "/guides/general/firefox-picture-in-picture-caption-handoff/",
+    "anchor": "Firefox Picture-in-Picture captions: check the actual text path",
+    "heading": "Check the local file independently",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Firefox Picture-in-Picture captions: check the actual text path](/guides/general/firefox-picture-in-picture-caption-handoff/)”."
+  },
+  {
+    "source": "/guides/general/verify-flac-audio-roundtrip/",
+    "target": "/guides/general/flac-channel-layout-metadata/",
+    "anchor": "FLAC channel layout: lossless samples still need correct speaker roles",
+    "heading": "Check decoded audio when whole-file hashes differ",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[FLAC channel layout: lossless samples still need correct speaker roles](/guides/general/flac-channel-layout-metadata/)”."
+  },
+  {
+    "source": "/guides/general/subtitle-language-vs-audio-language/",
+    "target": "/guides/general/forced-subtitles-vs-full-captions/",
+    "anchor": "Forced subtitles versus a full caption track",
+    "heading": "Distinguish selection from generation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Forced subtitles versus a full caption track](/guides/general/forced-subtitles-vs-full-captions/)”."
+  },
+  {
+    "source": "/guides/general/video-file-location-privacy/",
+    "target": "/guides/general/google-photos-stop-video-sharing/",
+    "anchor": "Stop Google Photos video sharing: access versus saved copies",
+    "heading": "Rename without breaking useful references",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Stop Google Photos video sharing: access versus saved copies](/guides/general/google-photos-stop-video-sharing/)”."
+  },
+  {
+    "source": "/guides/general/cloud-sync-vs-backup/",
+    "target": "/guides/general/google-photos-video-backup-quality/",
+    "anchor": "Google Photos video backup: Original quality versus Storage saver",
+    "heading": "Separate offline availability from recoverability",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Google Photos video backup: Original quality versus Storage saver](/guides/general/google-photos-video-backup-quality/)”."
+  },
+  {
+    "source": "/guides/general/container-chapters-versus-caption-navigation/",
+    "target": "/guides/general/handbrake-chapter-import-source-range/",
+    "anchor": "HandBrake chapters: match imported names to the selected source",
+    "heading": "Preserve chapters deliberately in a local handoff",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HandBrake chapters: match imported names to the selected source](/guides/general/handbrake-chapter-import-source-range/)”."
+  },
+  {
+    "source": "/guides/general/constant-quality-vs-target-bitrate/",
+    "target": "/guides/general/handbrake-constant-quality-target-size/",
+    "anchor": "HandBrake quality versus bitrate: verify the actual size constraint",
+    "heading": "Decide what the receiving task actually limits",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HandBrake quality versus bitrate: verify the actual size constraint](/guides/general/handbrake-constant-quality-target-size/)”."
+  },
+  {
+    "source": "/guides/general/variable-frame-rate-editor-drift/",
+    "target": "/guides/general/handbrake-framerate-peak-vs-constant/",
+    "anchor": "HandBrake frame rate: a peak limit is different from constant cadence",
+    "heading": "Create a controlled editing derivative if required",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HandBrake frame rate: a peak limit is different from constant cadence](/guides/general/handbrake-framerate-peak-vs-constant/)”."
+  },
+  {
+    "source": "/guides/general/video-aspect-ratio/",
+    "target": "/guides/general/handbrake-native-crop-auto-review/",
+    "anchor": "HandBrake auto crop: verify the actual picture boundaries",
+    "heading": "Prepare a deliberate derivative when a layout requires it",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HandBrake auto crop: verify the actual picture boundaries](/guides/general/handbrake-native-crop-auto-review/)”."
+  },
+  {
+    "source": "/guides/general/handbrake-queue-item-setting-snapshot/",
+    "target": "/guides/general/handbrake-native-custom-preset-version/",
+    "anchor": "HandBrake custom presets: retain settings without assuming track identity",
+    "heading": "Edit and retry a particular task deliberately",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HandBrake custom presets: retain settings without assuming track identity](/guides/general/handbrake-native-custom-preset-version/)”."
+  },
+  {
+    "source": "/guides/general/handbrake-source-scan-versus-encode/",
+    "target": "/guides/general/handbrake-native-hardware-encoder-unavailable/",
+    "anchor": "HandBrake hardware encoders: availability and saved output checks",
+    "heading": "Start the intended encode and inspect the error stage",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[HandBrake hardware encoders: availability and saved output checks](/guides/general/handbrake-native-hardware-encoder-unavailable/)”."
+  },
+  {
+    "source": "/guides/general/hls-vs-dash/",
+    "target": "/guides/general/hls-master-playlist-vs-variant/",
+    "anchor": "HLS playlist levels: variants, renditions and discontinuities",
+    "heading": "Recognize instructions separately from media",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HLS playlist levels: variants, renditions and discontinuities](/guides/general/hls-master-playlist-vs-variant/)”."
+  },
+  {
+    "source": "/guides/general/srt-vs-webvtt/",
+    "target": "/guides/general/hls-webvtt-timestamp-map-local-handoff/",
+    "anchor": "HLS WebVTT handoffs: timestamp maps and segment boundaries",
+    "heading": "Recognize the structural differences",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[HLS WebVTT handoffs: timestamp maps and segment boundaries](/guides/general/hls-webvtt-timestamp-map-local-handoff/)”."
+  },
+  {
+    "source": "/guides/general/iphone-files-vs-photos/",
+    "target": "/guides/general/iphone-external-drive-files-video-copy/",
+    "anchor": "Copy iPhone video to external storage: verify access and completion",
+    "heading": "Locate the completed download",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Copy iPhone video to external storage: verify access and completion](/guides/general/iphone-external-drive-files-video-copy/)”."
+  },
+  {
+    "source": "/guides/general/editing-project-relative-vs-absolute-paths/",
+    "target": "/guides/general/kdenlive-render-script-source-dependencies/",
+    "anchor": "Kdenlive render scripts and queued jobs still need their media",
+    "heading": "Verify independence without a destructive demonstration",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Kdenlive render scripts and queued jobs still need their media](/guides/general/kdenlive-render-script-source-dependencies/)”."
+  },
+  {
+    "source": "/guides/general/kdenlive-render-script-source-dependencies/",
+    "target": "/guides/general/kdenlive-render-zone-vs-project/",
+    "anchor": "Kdenlive render scope: full project, selected zone and marker exports",
+    "heading": "Identify the saved job and its actual inputs",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Kdenlive render scope: full project, selected zone and marker exports](/guides/general/kdenlive-render-zone-vs-project/)”."
+  },
+  {
+    "source": "/guides/general/linux-video-file-access-permissions/",
+    "target": "/guides/general/linux-open-file-deleted-still-playing/",
+    "anchor": "A deleted Linux video still plays: an open handle is not a backup",
+    "heading": "Verify the intended outcome and preserve boundaries",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[A deleted Linux video still plays: an open handle is not a backup](/guides/general/linux-open-file-deleted-still-playing/)”."
+  },
+  {
+    "source": "/guides/general/photo-library-selected-video-access/",
+    "target": "/guides/general/live-photo-save-as-video/",
+    "anchor": "Turn an iPhone Live Photo into a verified video copy",
+    "heading": "Establish that the video is in the expected library",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Turn an iPhone Live Photo into a verified video copy](/guides/general/live-photo-save-as-video/)”."
+  },
+  {
+    "source": "/guides/youtube/youtube-visibility-for-video-handoff/",
+    "target": "/guides/general/local-file-review-versus-hosted-review/",
+    "anchor": "Choosing a local movie or hosted link for review",
+    "heading": "Decide whether link possession is an acceptable boundary",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Choosing a local movie or hosted link for review](/guides/general/local-file-review-versus-hosted-review/)”."
+  },
+  {
+    "source": "/guides/general/h264-vs-hevc/",
+    "target": "/guides/general/local-h264-aac-review-transcode/",
+    "anchor": "Create a checked H.264 and AAC review copy from local SDR video",
+    "heading": "Compare actual source outputs",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Create a checked H.264 and AAC review copy from local SDR video](/guides/general/local-h264-aac-review-transcode/)”."
+  },
+  {
+    "source": "/guides/general/fat32-video-file-limit/",
+    "target": "/guides/general/long-wav-export-size-limit/",
+    "anchor": "A long WAV export reaches its container size limit",
+    "heading": "Keep storage compatibility separate from playback compatibility",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A long WAV export reaches its container size limit](/guides/general/long-wav-export-size-limit/)”."
+  },
+  {
+    "source": "/guides/general/copy-video-to-usb/",
+    "target": "/guides/general/mac-external-drive-video-read-only/",
+    "anchor": "Mac can read an external drive but cannot save a video to it",
+    "heading": "Check both storage and playback compatibility",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Mac can read an external drive but cannot save a video to it](/guides/general/mac-external-drive-video-read-only/)”."
+  },
+  {
+    "source": "/guides/general/keyframes-and-seeking/",
+    "target": "/guides/general/matroska-cues-seek-index/",
+    "anchor": "Matroska cues: seeking information is not picture decoding",
+    "heading": "Check seeking separately from file completion",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Matroska cues: seeking information is not picture decoding](/guides/general/matroska-cues-seek-index/)”."
+  },
+  {
+    "source": "/guides/general/container-chapters-versus-caption-navigation/",
+    "target": "/guides/general/matroska-ordered-chapters-editions/",
+    "anchor": "Matroska editions and linked segments: retain the presentation scope",
+    "heading": "Preserve chapters deliberately in a local handoff",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Matroska editions and linked segments: retain the presentation scope](/guides/general/matroska-ordered-chapters-editions/)”."
+  },
+  {
+    "source": "/guides/general/mp4-vs-mkv/",
+    "target": "/guides/general/matroska-reader-version-versus-document/",
+    "anchor": "Matroska reader versions: container requirements and optional roles",
+    "heading": "Identify what you need the container to retain",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Matroska reader versions: container requirements and optional roles](/guides/general/matroska-reader-version-versus-document/)”."
+  },
+  {
+    "source": "/guides/general/video-bitrate/",
+    "target": "/guides/general/media-bitrate-vs-download-throughput/",
+    "anchor": "Video bitrate versus download speed: estimate the right interval",
+    "heading": "Understand average and variable bitrate",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Video bitrate versus download speed: estimate the right interval](/guides/general/media-bitrate-vs-download-throughput/)”."
+  },
+  {
+    "source": "/guides/general/ass-subtitle-font-attachment-handoff/",
+    "target": "/guides/general/mkv-attachments-vs-subtitle-streams/",
+    "anchor": "Container attachments, subtitle fonts and other resources",
+    "heading": "Choose a complete permitted package instead of a loose text extract",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Container attachments, subtitle fonts and other resources](/guides/general/mkv-attachments-vs-subtitle-streams/)”."
+  },
+  {
+    "source": "/guides/general/video-inside-zip-archive/",
+    "target": "/guides/general/movie-archive-extraction-crc-error/",
+    "anchor": "A video archive reports a CRC error: do not trust partial extraction",
+    "heading": "Check archive integrity and media usability separately",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A video archive reports a CRC error: do not trust partial extraction](/guides/general/movie-archive-extraction-crc-error/)”."
+  },
+  {
+    "source": "/guides/general/cloud-sync-vs-backup/",
+    "target": "/guides/general/movie-cloud-conflict-two-versions/",
+    "anchor": "Two cloud-conflict movie versions: preserve both before choosing",
+    "heading": "Ask what changes propagate",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Two cloud-conflict movie versions: preserve both before choosing](/guides/general/movie-cloud-conflict-two-versions/)”."
+  },
+  {
+    "source": "/guides/general/aac-priming-vs-audio-timeline/",
+    "target": "/guides/general/mp3-gapless-delay-handoff/",
+    "anchor": "MP3 gapless handoffs: encoder delay, padding and seek headers",
+    "heading": "Inspect the beginning without changing the recording",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[MP3 gapless handoffs: encoder delay, padding and seek headers](/guides/general/mp3-gapless-delay-handoff/)”."
+  },
+  {
+    "source": "/guides/general/obs-monitor-output-routing-distinction/",
+    "target": "/guides/general/obs-application-audio-capture-source/",
+    "anchor": "OBS application audio: verify the selected source and platform path",
+    "heading": "Verify the actual file and its intended receiver",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[OBS application audio: verify the selected source and platform path](/guides/general/obs-application-audio-capture-source/)”."
+  },
+  {
+    "source": "/guides/general/mp4-faststart-index-placement/",
+    "target": "/guides/general/obs-hybrid-recording-finalization/",
+    "anchor": "OBS Hybrid MP4 and MOV: verify the finalized recording",
+    "heading": "Understand the limits of the faststart option",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[OBS Hybrid MP4 and MOV: verify the finalized recording](/guides/general/obs-hybrid-recording-finalization/)”."
+  },
+  {
+    "source": "/guides/general/obs-media-source-close-reopen-state/",
+    "target": "/guides/general/obs-image-source-file-update/",
+    "anchor": "OBS image changes: retain the exact referenced graphic version",
+    "heading": "Retain source identity and avoid false recovery claims",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[OBS image changes: retain the exact referenced graphic version](/guides/general/obs-image-source-file-update/)”."
+  },
+  {
+    "source": "/guides/general/encoder-preset-vs-quality-control/",
+    "target": "/guides/general/obs-recording-encoder-preset-receiver/",
+    "anchor": "OBS recording encoder presets: verify the actual receiving movie",
+    "heading": "Make a controlled local comparison",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[OBS recording encoder presets: verify the actual receiving movie](/guides/general/obs-recording-encoder-preset-receiver/)”."
+  },
+  {
+    "source": "/guides/general/frame-rate-vs-resolution/",
+    "target": "/guides/general/obs-video-capture-resolution-source/",
+    "anchor": "OBS capture resolution: inspect the input before judging the recording",
+    "heading": "Compare dimensions and motion separately",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[OBS capture resolution: inspect the input before judging the recording](/guides/general/obs-video-capture-resolution-source/)”."
+  },
+  {
+    "source": "/guides/general/audio-channel-downmix/",
+    "target": "/guides/general/opus-channel-mapping-surround/",
+    "anchor": "Opus channel mapping: verify surround roles in the receiver",
+    "heading": "Check the layout and the receiving path",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Opus channel mapping: verify surround roles in the receiver](/guides/general/opus-channel-mapping-surround/)”."
+  },
+  {
+    "source": "/guides/general/audio-raw-pcm-no-header/",
+    "target": "/guides/general/pcm-endianness-raw-import/",
+    "anchor": "Raw PCM import: supply the missing sample interpretation",
+    "heading": "Establish the complete input interpretation",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Raw PCM import: supply the missing sample interpretation](/guides/general/pcm-endianness-raw-import/)”."
+  },
+  {
+    "source": "/guides/general/premiere-collect-project-media/",
+    "target": "/guides/general/premiere-autosave-project-recovery/",
+    "anchor": "Premiere crash recovery: choose and verify the project version",
+    "heading": "Keep the handoff distinct from a backup claim",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Premiere crash recovery: choose and verify the project version](/guides/general/premiere-autosave-project-recovery/)”."
+  },
+  {
+    "source": "/guides/general/premiere-relink-moved-video/",
+    "target": "/guides/general/premiere-cache-cleanup-vs-source-delete/",
+    "anchor": "Premiere media cache: clean generated files, retain the source",
+    "heading": "Identify the missing reference before choosing a replacement",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Premiere media cache: clean generated files, retain the source](/guides/general/premiere-cache-cleanup-vs-source-delete/)”."
+  },
+  {
+    "source": "/guides/general/premiere-adjustment-layer-effect-scope/",
+    "target": "/guides/general/premiere-effect-order-picture-review/",
+    "anchor": "Premiere effect order: verify a controlled stack change",
+    "heading": "Review an actual render and retain editable context",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Premiere effect order: verify a controlled stack change](/guides/general/premiere-effect-order-picture-review/)”."
+  },
+  {
+    "source": "/guides/general/premiere-transition-insufficient-handles/",
+    "target": "/guides/general/premiere-frame-hold-selected-moment/",
+    "anchor": "Hold the intended Premiere frame throughout a timeline clip",
+    "heading": "Verify the output and any collected handoff",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Hold the intended Premiere frame throughout a timeline clip](/guides/general/premiere-frame-hold-selected-moment/)”."
+  },
+  {
+    "source": "/guides/general/premiere-clip-notes-vs-xmp-file/",
+    "target": "/guides/general/premiere-markers-comment-handoff/",
+    "anchor": "Premiere marker comments: retain source or sequence references",
+    "heading": "Keep the handoff truthful",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Premiere marker comments: retain source or sequence references](/guides/general/premiere-markers-comment-handoff/)”."
+  },
+  {
+    "source": "/guides/general/premiere-linked-selection-edit-scope/",
+    "target": "/guides/general/premiere-merge-clips-vs-multicam/",
+    "anchor": "Premiere Merge Clips versus multicam: choose the editing structure",
+    "heading": "Confirm the exported relationship and preserve the parent",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Premiere Merge Clips versus multicam: choose the editing structure](/guides/general/premiere-merge-clips-vs-multicam/)”."
+  },
+  {
+    "source": "/guides/general/premiere-nested-sequence-audio-handoff/",
+    "target": "/guides/general/premiere-render-replace-recovery/",
+    "anchor": "Premiere Render and Replace: retain the source for restoration",
+    "heading": "Verify the actual receiving render and describe what it retains",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Premiere Render and Replace: retain the source for restoration](/guides/general/premiere-render-replace-recovery/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-scene-change-threshold-review/",
+    "target": "/guides/general/premiere-scene-edit-detection-review/",
+    "anchor": "Review detected shot boundaries in a compiled video",
+    "heading": "Verify candidates and missing transitions against the movie",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Review detected shot boundaries in a compiled video](/guides/general/premiere-scene-edit-detection-review/)”."
+  },
+  {
+    "source": "/guides/general/premiere-ripple-vs-rolling-edit/",
+    "target": "/guides/general/premiere-slip-vs-slide-edit/",
+    "anchor": "Premiere slip versus slide: choose content or timeline position",
+    "heading": "Define whether the sequence interval should change",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Premiere slip versus slide: choose content or timeline position](/guides/general/premiere-slip-vs-slide-edit/)”."
+  },
+  {
+    "source": "/guides/general/premiere-import-authorized-srt/",
+    "target": "/guides/general/premiere-transcript-cut-vs-word-correction/",
+    "anchor": "Premiere transcripts: correct words or deliberately cut footage",
+    "heading": "Import the SRT and add it to the intended sequence",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Premiere transcripts: correct words or deliberately cut footage](/guides/general/premiere-transcript-cut-vs-word-correction/)”."
+  },
+  {
+    "source": "/guides/general/premiere-export-in-out-scope/",
+    "target": "/guides/general/premiere-video-track-enable-export/",
+    "anchor": "Premiere track output: check excluded picture before export",
+    "heading": "Identify the actual source or active sequence",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Premiere track output: check excluded picture before export](/guides/general/premiere-video-track-enable-export/)”."
+  },
+  {
+    "source": "/guides/general/video-file-location-privacy/",
+    "target": "/guides/general/private-browsing-saved-video-files/",
+    "anchor": "Private browsing does not erase a saved video file",
+    "heading": "Rename without breaking useful references",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Private browsing does not erase a saved video file](/guides/general/private-browsing-saved-video-files/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-trim-reset-timestamps/",
+    "target": "/guides/general/pts-vs-dts-video-timestamps/",
+    "anchor": "Video timestamps: PTS, DTS, time bases and frame counts",
+    "heading": "Identify the content interval first",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Video timestamps: PTS, DTS, time bases and frame counts](/guides/general/pts-vs-dts-video-timestamps/)”."
+  },
+  {
+    "source": "/guides/general/archive-source-vs-edit/",
+    "target": "/guides/general/published-remix-vs-editable-source/",
+    "anchor": "A published remix is not an editable production package",
+    "heading": "Define source by its role and known provenance",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A published remix is not an editable production package](/guides/general/published-remix-vs-editable-source/)”."
+  },
+  {
+    "source": "/guides/general/copy-selected-local-audio-stream/",
+    "target": "/guides/general/quicktime-export-audio-only-scope/",
+    "anchor": "QuickTime Audio Only export: verify the actual soundtrack",
+    "heading": "Inspect the local recording before selecting a soundtrack",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[QuickTime Audio Only export: verify the actual soundtrack](/guides/general/quicktime-export-audio-only-scope/)”."
+  },
+  {
+    "source": "/guides/general/keyframes-and-seeking/",
+    "target": "/guides/general/quicktime-trim-vs-split-rearrange/",
+    "anchor": "QuickTime edits: choose a trim or an actual clip rearrangement",
+    "heading": "Distinguish packet copying from exact editing",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[QuickTime edits: choose a trim or an actual clip rearrangement](/guides/general/quicktime-trim-vs-split-rearrange/)”."
+  },
+  {
+    "source": "/guides/general/audio-loudness-vs-peak/",
+    "target": "/guides/general/replaygain-tags-vs-normalized-audio/",
+    "anchor": "ReplayGain tags versus changing the stored audio samples",
+    "heading": "Distinguish peak normalization from loudness processing",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[ReplayGain tags versus changing the stored audio samples](/guides/general/replaygain-tags-vs-normalized-audio/)”."
+  },
+  {
+    "source": "/guides/general/editing-project-roundtrip-transition-loss/",
+    "target": "/guides/general/resolve-project-file-vs-media-archive/",
+    "anchor": "DaVinci Resolve DRP versus a media archive",
+    "heading": "Define the exchange and retain a reference",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[DaVinci Resolve DRP versus a media archive](/guides/general/resolve-project-file-vs-media-archive/)”."
+  },
+  {
+    "source": "/guides/general/safari-download-history/",
+    "target": "/guides/general/safari-reader-view-video-missing/",
+    "anchor": "Safari Reader omits a video: return to the actual source page",
+    "heading": "Locate the saved item on Mac",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Safari Reader omits a video: return to the actual source page](/guides/general/safari-reader-view-video-missing/)”."
+  },
+  {
+    "source": "/guides/general/android-downloads-folder/",
+    "target": "/guides/general/samsung-internet-download-location/",
+    "anchor": "Find a video saved with Samsung Internet",
+    "heading": "Distinguish a local file from an app collection",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Find a video saved with Samsung Internet](/guides/general/samsung-internet-download-location/)”."
+  },
+  {
+    "source": "/guides/general/google-photos-locked-folder-retention/",
+    "target": "/guides/general/samsung-secure-folder-video-handoff/",
+    "anchor": "Retain a Samsung Secure Folder video before changing devices",
+    "heading": "Check the separate backup decision",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Retain a Samsung Secure Folder video before changing devices](/guides/general/samsung-secure-folder-video-handoff/)”."
+  },
+  {
+    "source": "/guides/general/lossy-vs-lossless-media/",
+    "target": "/guides/general/screen-recording-vs-retained-media/",
+    "anchor": "Screen recording versus a retained source video file",
+    "heading": "Keep honest archive and derivative records",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Screen recording versus a retained source video file](/guides/general/screen-recording-vs-retained-media/)”."
+  },
+  {
+    "source": "/guides/general/http-429-rate-limits/",
+    "target": "/guides/general/service-maintenance-versus-provider-failure/",
+    "anchor": "Service unavailable or one source failed: identify the actual stage",
+    "heading": "Identify the responding service and scope",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Service unavailable or one source failed: identify the actual stage](/guides/general/service-maintenance-versus-provider-failure/)”."
+  },
+  {
+    "source": "/guides/general/spherical-video-vs-flat-playback/",
+    "target": "/guides/general/stereoscopic-video-vs-spherical-projection/",
+    "anchor": "Side-by-side stereo video versus a spherical panorama",
+    "heading": "Separate the encoded panorama from the viewed direction",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Side-by-side stereo video versus a spherical panorama](/guides/general/stereoscopic-video-vs-spherical-projection/)”."
+  },
+  {
+    "source": "/guides/general/video-caption-personal-data-review/",
+    "target": "/guides/general/tracked-video-blur-handoff-review/",
+    "anchor": "Check a moving blur mask throughout the delivered video",
+    "heading": "Verify a revised package without overclaiming",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Check a moving blur mask throughout the delivered video](/guides/general/tracked-video-blur-handoff-review/)”."
+  },
+  {
+    "source": "/guides/general/ttml-caption-handoff/",
+    "target": "/guides/general/ttml-external-font-image-resource-retention/",
+    "anchor": "TTML presentation handoffs: fonts, images and inherited styling",
+    "heading": "Understand profile and timing context before conversion",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[TTML presentation handoffs: fonts, images and inherited styling](/guides/general/ttml-external-font-image-resource-retention/)”."
+  },
+  {
+    "source": "/guides/general/caption-time-reference-wall-clock/",
+    "target": "/guides/general/ttml-relative-container-timing-handoff/",
+    "anchor": "TTML nested timing: resolve the containing timeline before export",
+    "heading": "Record the media identity and available clock evidence",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[TTML nested timing: resolve the containing timeline before export](/guides/general/ttml-relative-container-timing-handoff/)”."
+  },
+  {
+    "source": "/guides/general/archive-checksums/",
+    "target": "/guides/general/video-archive-audit-sampling-limits/",
+    "anchor": "Video archive audits: sampling is not complete verification",
+    "heading": "Keep verification useful over time",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Video archive audits: sampling is not complete verification](/guides/general/video-archive-audit-sampling-limits/)”."
+  },
+  {
+    "source": "/guides/general/archive-manifest/",
+    "target": "/guides/general/video-archive-missing-empty-folders/",
+    "anchor": "Empty folders missing from a video archive: verify membership separately",
+    "heading": "Record evidence rather than inferred specifications",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Empty folders missing from a video archive: verify membership separately](/guides/general/video-archive-missing-empty-folders/)”."
+  },
+  {
+    "source": "/guides/general/handbrake-queue-item-setting-snapshot/",
+    "target": "/guides/general/video-batch-download-one-failure-isolation/",
+    "anchor": "One video batch item failed: verify each result separately",
+    "heading": "Edit and retry a particular task deliberately",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[One video batch item failed: verify each result separately](/guides/general/video-batch-download-one-failure-isolation/)”."
+  },
+  {
+    "source": "/guides/general/caption-sidecar-not-showing/",
+    "target": "/guides/general/video-caption-cue-empty-after-export/",
+    "anchor": "Empty caption cues after export: compare the actual resources",
+    "heading": "Troubleshoot the form of the failure",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Empty caption cues after export: compare the actual resources](/guides/general/video-caption-cue-empty-after-export/)”."
+  },
+  {
+    "source": "/guides/general/inspect-video-metadata-before-sharing/",
+    "target": "/guides/general/video-capture-time-versus-file-time/",
+    "anchor": "Capture dates, embedded metadata and copied-file timestamps",
+    "heading": "Interpret absent or inconsistent fields carefully",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Capture dates, embedded metadata and copied-file timestamps](/guides/general/video-capture-time-versus-file-time/)”."
+  },
+  {
+    "source": "/guides/general/permissioned-video-archive/",
+    "target": "/guides/general/video-content-credentials-validation-scope/",
+    "anchor": "What validating video Content Credentials does and does not establish",
+    "heading": "Define the permitted purpose before saving",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[What validating video Content Credentials does and does not establish](/guides/general/video-content-credentials-validation-scope/)”."
+  },
+  {
+    "source": "/guides/general/ffmpeg-filtergraph-error-versus-partial-file/",
+    "target": "/guides/general/video-export-service-temporary-output-leftover/",
+    "anchor": "A failed export left a temporary file: identify the real output",
+    "heading": "Verify the accepted file in its receiving context",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[A failed export left a temporary file: identify the real output](/guides/general/video-export-service-temporary-output-leftover/)”."
+  },
+  {
+    "source": "/guides/general/public-url-vs-permission/",
+    "target": "/guides/general/video-permission-revocation-archive-plan/",
+    "anchor": "Respond to a video permission change without guessing its scope",
+    "heading": "Separate technical access from permitted use",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Respond to a video permission change without guessing its scope](/guides/general/video-permission-revocation-archive-plan/)”."
+  },
+  {
+    "source": "/guides/general/video-freezes-during-playback/",
+    "target": "/guides/general/video-player-network-share-stall/",
+    "anchor": "A video stalls on a network share: compare the same local copy",
+    "heading": "Compare the freeze with the source and another player",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A video stalls on a network share: compare the same local copy](/guides/general/video-player-network-share-stall/)”."
+  },
+  {
+    "source": "/guides/general/video-file-location-privacy/",
+    "target": "/guides/general/video-shared-folder-inherited-access/",
+    "anchor": "Review a shared folder audience before delivering a movie",
+    "heading": "Check sharing scope separately from local organization",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Review a shared folder audience before delivering a movie](/guides/general/video-shared-folder-inherited-access/)”."
+  },
+  {
+    "source": "/guides/general/hdr-video-washed-out/",
+    "target": "/guides/general/video-tone-map-highlight-review/",
+    "anchor": "Tone-mapped video: review highlights, gamut and SDR white",
+    "heading": "Choose a safe result and know when to escalate",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Tone-mapped video: review highlights, gamut and SDR white](/guides/general/video-tone-map-highlight-review/)”."
+  },
+  {
+    "source": "/guides/general/copy-video-to-usb/",
+    "target": "/guides/general/video-usb-exfat-repair-first-copy/",
+    "anchor": "Before repairing a video drive: preserve the recoverable files",
+    "heading": "Check both storage and playback compatibility",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Before repairing a video drive: preserve the recoverable files](/guides/general/video-usb-exfat-repair-first-copy/)”."
+  },
+  {
+    "source": "/guides/general/multiple-audio-track-player/",
+    "target": "/guides/general/vlc-native-external-audio-playback/",
+    "anchor": "Play external audio in VLC without claiming it is embedded",
+    "heading": "Open the local file and inspect its track menu",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Play external audio in VLC without claiming it is embedded](/guides/general/vlc-native-external-audio-playback/)”."
+  },
+  {
+    "source": "/guides/general/multiple-audio-track-player/",
+    "target": "/guides/general/vlc-native-multiple-instances-review/",
+    "anchor": "Compare movies in separate VLC instances without mixing playback",
+    "heading": "Open the local file and inspect its track menu",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Compare movies in separate VLC instances without mixing playback](/guides/general/vlc-native-multiple-instances-review/)”."
+  },
+  {
+    "source": "/guides/general/muxing-vs-transcoding/",
+    "target": "/guides/general/vlc-native-transcode-save-destination/",
+    "anchor": "VLC output routing: save a derivative to the intended file",
+    "heading": "Recognize when re-encoding is a different operation",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[VLC output routing: save a derivative to the intended file](/guides/general/vlc-native-transcode-save-destination/)”."
+  },
+  {
+    "source": "/guides/general/audacity-project-vs-audio-export/",
+    "target": "/guides/general/voice-memos-editable-narration-handoff/",
+    "anchor": "Export Voice Memos narration without confusing a mix with editable layers",
+    "heading": "Export and inspect the required audio delivery",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Export Voice Memos narration without confusing a mix with editable layers](/guides/general/voice-memos-editable-narration-handoff/)”."
+  },
+  {
+    "source": "/guides/general/source-timecode-vs-sequence-position/",
+    "target": "/guides/general/wav-broadcast-time-reference/",
+    "anchor": "Broadcast WAV time reference: retain the sample-clock context",
+    "heading": "Understand why the source may not begin at zero",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Broadcast WAV time reference: retain the sample-clock context](/guides/general/wav-broadcast-time-reference/)”."
+  },
+  {
+    "source": "/guides/general/webvtt-voice-annotation-vs-speaker-label/",
+    "target": "/guides/general/webvtt-ruby-pronunciation-handoff/",
+    "anchor": "WebVTT ruby annotations: retain reading text without changing dialogue",
+    "heading": "Verify the actual caption display after the handoff",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[WebVTT ruby annotations: retain reading text without changing dialogue](/guides/general/webvtt-ruby-pronunciation-handoff/)”."
+  },
+  {
+    "source": "/guides/general/video-will-not-open/",
+    "target": "/guides/general/windows-n-media-feature-pack/",
+    "anchor": "Video playback on Windows N: check missing media features",
+    "heading": "Compare the container and codecs with the player",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Video playback on Windows N: check missing media features](/guides/general/windows-n-media-feature-pack/)”."
+  },
+  {
+    "source": "/guides/general/windows-downloads-folder/",
+    "target": "/guides/general/windows-protected-folder-video-save/",
+    "anchor": "Windows blocks a video save in a protected folder",
+    "heading": "Troubleshoot a completed entry with no usable file",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Windows blocks a video save in a protected folder](/guides/general/windows-protected-folder-video-save/)”."
+  },
+  {
+    "source": "/guides/instagram/instagram-trial-reel-sharing-state/",
+    "target": "/guides/instagram/instagram-highlight-viewer-explained/",
+    "anchor": "Instagram Highlight Viewer",
+    "heading": "Separate link retrieval from owner publishing controls",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Instagram Highlight Viewer](/guides/instagram/instagram-highlight-viewer-explained/)”."
+  },
+  {
+    "source": "/guides/instagram/instagram-repost-vs-retained-video/",
+    "target": "/guides/instagram/instagram-post-caption-edit-vs-video-version/",
+    "anchor": "Post captions and movie versions: keep separate change records",
+    "heading": "Choose source sharing or independent retention deliberately",
+    "paragraph": 2,
+    "sentence": " For further guidance, read “[Post captions and movie versions: keep separate change records](/guides/instagram/instagram-post-caption-edit-vs-video-version/)”."
+  },
+  {
+    "source": "/guides/tiktok/tiktok-data-export-vs-video-backup/",
+    "target": "/guides/tiktok/tiktok-recover-own-deleted-post/",
+    "anchor": "Recover your own deleted TikTok post through Activity center",
+    "heading": "Request the owner data through TikTok",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[Recover your own deleted TikTok post through Activity center](/guides/tiktok/tiktok-recover-own-deleted-post/)”."
+  },
+  {
+    "source": "/guides/whatsapp/whatsapp-status-visibility-and-expiry/",
+    "target": "/guides/whatsapp/whatsapp-disappearing-chat-video-retention/",
+    "anchor": "WhatsApp disappearing messages are not a video backup",
+    "heading": "Separate visibility, expiry and possession",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[WhatsApp disappearing messages are not a video backup](/guides/whatsapp/whatsapp-disappearing-chat-video-retention/)”."
+  },
+  {
+    "source": "/guides/youtube/youtube-video-temporary-provider-failure/",
+    "target": "/guides/youtube/youtube-age-restriction-vs-made-for-kids/",
+    "anchor": "YouTube age restriction versus made-for-kids audience settings",
+    "heading": "Confirm the video rather than a collection",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[YouTube age restriction versus made-for-kids audience settings](/guides/youtube/youtube-age-restriction-vs-made-for-kids/)”."
+  },
+  {
+    "source": "/guides/youtube/youtube-viewer-transcript-navigation/",
+    "target": "/guides/youtube/youtube-automatic-chapter-review/",
+    "anchor": "Review automatic YouTube chapters on your own upload",
+    "heading": "Check the recording and caption availability",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[Review automatic YouTube chapters on your own upload](/guides/youtube/youtube-automatic-chapter-review/)”."
+  },
+  {
+    "source": "/guides/general/account-video-bookmark-vs-retained-file/",
+    "target": "/guides/youtube/youtube-clip-vs-source-video/",
+    "anchor": "A YouTube Clip is a selection from its source video",
+    "heading": "Separate the movie from the surrounding interface",
+    "paragraph": 1,
+    "sentence": " For further guidance, read “[A YouTube Clip is a selection from its source video](/guides/youtube/youtube-clip-vs-source-video/)”."
+  },
+  {
+    "source": "/guides/general/android-downloads-folder/",
+    "target": "/guides/youtube/youtube-offline-download-vs-media-file/",
+    "anchor": "YouTube offline viewing versus an exported media file",
+    "heading": "Distinguish a local file from an app collection",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[YouTube offline viewing versus an exported media file](/guides/youtube/youtube-offline-download-vs-media-file/)”."
+  },
+  {
+    "source": "/guides/youtube/youtube-upload-quality-processing/",
+    "target": "/guides/youtube/youtube-playback-enhancement-vs-source/",
+    "anchor": "YouTube playback enhancements versus a retained source file",
+    "heading": "Check the watch-page quality menu",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[YouTube playback enhancements versus a retained source file](/guides/youtube/youtube-playback-enhancement-vs-source/)”."
+  },
+  {
+    "source": "/guides/youtube/youtube-visibility-for-video-handoff/",
+    "target": "/guides/youtube/youtube-scheduled-publication-access/",
+    "anchor": "A scheduled YouTube upload is private before publication",
+    "heading": "Viewing access does not establish a file handoff",
+    "paragraph": 0,
+    "sentence": " For further guidance, read “[A scheduled YouTube upload is private before publication](/guides/youtube/youtube-scheduled-publication-access/)”."
+  }
+]

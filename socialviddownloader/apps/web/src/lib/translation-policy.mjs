@@ -1,0 +1,8 @@
+import { createHash } from 'node:crypto';
+export const corePaths = ['/', '/facebook/', '/facebook-video-downloader/', '/facebook-reels-downloader/', '/instagram/', '/instagram-video-downloader/', '/instagram-reels-downloader/', '/youtube/', '/youtube-video-downloader/', '/youtube-shorts-downloader/', '/tiktok/', '/tiktok-video-downloader/', '/snapchat-downloader/', '/snapchat-spotlight-downloader/', '/guides/', '/faq/'];
+export function translationDigest(dictionary) { return createHash('sha256').update(JSON.stringify(dictionary)).digest('hex'); }
+const requiredMessages = ["name", "tools", "guides", "resources", "choose", "title", "notice", "home", "faq", "paste", "analyze", "download", "clear", "quality", "original", "dual", "audio", "primary", "secondary", "preparing", "ready", "retry", "available", "beta", "unsupported", "about", "privacy", "terms", "copyright", "contact", "help", "save", "preview", "thumbnail", "unknownSize", "silent", "withAudio", "merge", "noAudio", "queued", "error", "invalid", "expired", "noPassword", "intro", "instructions", "chooseFormat", "limitations", "audioHelp", "faqQuestion", "faqAnswer", "independent", "notFound", "back", "guidesIntro", "video", "reels", "shorts", "spotlight", "single", "output", "temporary", "mkv", "dualHelp", "clipboard", "sourceError"];
+export function eligibleTranslation(record, dictionary) {
+ if (!requiredMessages.every(key => typeof dictionary[key] === "string" && dictionary[key].trim())) return false;
+ return record.status === 'PUBLISHED_TRANSLATION' && record.complete === true && record.reviewApproved === true && record.approvalDigest === translationDigest(dictionary);
+}

@@ -1,0 +1,19 @@
+# Apply LAST, after base, production and ingress configurations.
+# Starting budget for a 4 GB host; real media/load acceptance remains required.
+# Runtime ceilings do not constrain Docker image builds.
+services:
+  postgres:
+    mem_limit: 512m
+  migrate:
+    mem_limit: 256m
+    pids_limit: 128
+  api:
+    mem_limit: 1536m
+    cpus: 1.5
+    environment:
+      MAX_CONCURRENT_JOBS: "1"
+  web:
+    mem_limit: 768m
+# Redis inherits the production 256 MiB limit and 128 MB noeviction policy.
+# Steady-state container ceilings total 3 GiB, excluding one-shot migrations.
+# Preserve the remaining host memory; swap is emergency headroom only.

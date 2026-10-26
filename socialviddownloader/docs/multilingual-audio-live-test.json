@@ -1,0 +1,352 @@
+{
+  "testedSource": "https://www.youtube.com/watch?v=0e3GPea1Tyg",
+  "title": "$456,000 Squid Game In Real Life!",
+  "liveExtractionSucceeded": true,
+  "exposedAudioTrackCount": 24,
+  "audioTracks": [
+    {
+      "id": "d404a393806e405df61a",
+      "language_code": "en-us",
+      "language_name": "English",
+      "is_default": true,
+      "is_original": true,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "English (en-us) \u00b7 Original, Default",
+      "codec": "mp4a.40.2",
+      "bitrate": 129475
+    },
+    {
+      "id": "88d3d45b33e1cc9fc570",
+      "language_code": "vi",
+      "language_name": "Vietnamese",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Vietnamese",
+      "codec": "mp4a.40.2",
+      "bitrate": 129475
+    },
+    {
+      "id": "0833787ee7ecdbb8cc8d",
+      "language_code": "ml",
+      "language_name": "Malayalam",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Malayalam",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "0e7ad8cbbb6cb5b41dac",
+      "language_code": "zh-hans",
+      "language_name": "Chinese",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Chinese (Simplified)",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "1f733789bf687a7cadbd",
+      "language_code": "zh-hant",
+      "language_name": "Chinese",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Chinese (Traditional)",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "115a903206e217cf253a",
+      "language_code": "de",
+      "language_name": "German",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "German",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "393eb813ad6b3a7d2155",
+      "language_code": "pa",
+      "language_name": "Punjabi",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Punjabi",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "50e54e244cc68c348bbb",
+      "language_code": "id",
+      "language_name": "Indonesian",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Indonesian",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "f1f882705114d694dc2e",
+      "language_code": "mr",
+      "language_name": "Marathi",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Marathi",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "a359406ce9571fe8c7b0",
+      "language_code": "es",
+      "language_name": "Spanish",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Spanish",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "06d5f34f6434e7f0b10a",
+      "language_code": "fr",
+      "language_name": "French",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "French",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "717963199f587bacbc10",
+      "language_code": "pt",
+      "language_name": "Portuguese",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Portuguese",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "dd4d641e88fb864cfff8",
+      "language_code": "ja",
+      "language_name": "Japanese",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Japanese",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "1c4ed881326f684219f7",
+      "language_code": "bn",
+      "language_name": "Bengali",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Bengali",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "5474839fb142cd5874a6",
+      "language_code": "ko",
+      "language_name": "Korean",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Korean",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "dc1d8f7fe77043ed7906",
+      "language_code": "ru",
+      "language_name": "Russian",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Russian",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "e6bed8831d16e7e1c989",
+      "language_code": "ta",
+      "language_name": "Tamil",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Tamil",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "0a99aa0e810723c37fbb",
+      "language_code": "te",
+      "language_name": "Telugu",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Telugu",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "26b1caf31c741bd5c8bc",
+      "language_code": "pl",
+      "language_name": "Polish",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Polish",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    },
+    {
+      "id": "99ff1136d11199842da1",
+      "language_code": "it",
+      "language_name": "Italian",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Italian",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "62d9f40bb94178a80c8c",
+      "language_code": "ar",
+      "language_name": "Arabic",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Arabic",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "08236f9137406b26b7bb",
+      "language_code": "th",
+      "language_name": "Thai",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Thai",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "77122a608854de1ef154",
+      "language_code": "hi",
+      "language_name": "Hindi",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Hindi",
+      "codec": "mp4a.40.2",
+      "bitrate": 129477
+    },
+    {
+      "id": "634c25ac51c6d0105019",
+      "language_code": "tr",
+      "language_name": "Turkish",
+      "is_default": false,
+      "is_original": false,
+      "is_descriptive": false,
+      "is_dubbed": false,
+      "label": "Turkish",
+      "codec": "mp4a.40.2",
+      "bitrate": 129478
+    }
+  ],
+  "liveDualAudioFileVerified": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "result": "FAILED",
+      "reason": "Download preparation took too long.",
+      "errorCode": "processing_timeout"
+    },
+    {
+      "attempt": 2,
+      "result": "FAILED",
+      "reason": "Download preparation took too long.",
+      "errorCode": "processing_timeout"
+    }
+  ],
+  "notes": "Both full-download attempts exceeded the unchanged 180-second processing budget. Neither produced a ready file. The second attempt preferred smaller combined source files for alternate audio. No live dual-audio success is claimed.",
+  "ordinarySingleAudioRegression": {
+    "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+    "success": true,
+    "title": "Me at the zoo",
+    "result": {
+      "path": "/tmp/socialvid-live-single-audio/Me-at-the-zoo-144p-default-socialviddownloader.mp4",
+      "filename": "Me-at-the-zoo-144p-default-socialviddownloader.mp4",
+      "filesize": 506033,
+      "extension": "mp4",
+      "audio_mode": "single",
+      "audio_tracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original \u00b7 Default",
+          "codec": "mp4a.40.2",
+          "bitrate": 129796,
+          "source_is_default": false
+        }
+      ]
+    },
+    "streams": [
+      {
+        "codec_type": "video",
+        "codec_name": "h264",
+        "language": "und"
+      },
+      {
+        "codec_type": "audio",
+        "codec_name": "aac",
+        "language": "und"
+      }
+    ]
+  }
+}

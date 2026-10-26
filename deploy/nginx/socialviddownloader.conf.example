@@ -1,0 +1,72 @@
+# Replace certificate placeholders after obtaining your certificate.
+# Keep application ports reachable only by this ingress.
+# Capability tokens and submitted query strings must not enter access logs.
+# Use structured API events and private health checks for launch monitoring.
+server {
+    access_log off;
+    listen 80 default_server;
+    server_name _;
+    return 444;
+}
+server {
+    access_log off;
+    listen 443 ssl default_server;
+    server_name _;
+    ssl_reject_handshake on;
+}
+server {
+    access_log off;
+    listen 80;
+    server_name socialviddownloader.com www.socialviddownloader.com;
+    return 301 https://socialviddownloader.com$request_uri;
+}
+server {
+    access_log off;
+    listen 443 ssl;
+    server_name www.socialviddownloader.com;
+    ssl_certificate /REPLACE/WITH/fullchain.pem;
+    ssl_certificate_key /REPLACE/WITH/privkey.pem;
+    return 301 https://socialviddownloader.com$request_uri;
+}
+server {
+    access_log off;
+    listen 443 ssl;
+    server_name socialviddownloader.com;
+    ssl_certificate /REPLACE/WITH/fullchain.pem;
+    ssl_certificate_key /REPLACE/WITH/privkey.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    client_max_body_size 8k;
+    # Next proxies only the supported API routes, preserving application headers.
+    location / {
+        proxy_pass http://127.0.0.1:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Host socialviddownloader.com;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For "";
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_read_timeout 650s;
+        proxy_send_timeout 650s;
+        proxy_buffering off;
+    }
+    # Stream bounded uploads and outputs through the same-origin application proxy.
+    location ^~ /api/processing/ {
+        client_max_body_size 200m;
+        proxy_pass http://127.0.0.1:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Host socialviddownloader.com;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For "";
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_request_buffering off;
+        proxy_buffering off;
+        proxy_read_timeout 650s;
+        proxy_send_timeout 650s;
+        access_log off;
+    }
+    # Dependency health and diagnostics are private; use the loopback API directly.
+    location = /health { return 404; }
+    location = /ready { return 404; }
+}
+# For Cloudflare, separately configure real_ip_header CF-Connecting-IP and ONLY
+# Cloudflare's current exact networks as set_real_ip_from. Do not trust all IPs.
+# Keep the default TLS vhost rejecting unknown hosts in your global configuration.

@@ -1,0 +1,19 @@
+{
+  "articlesReviewed": 66,
+  "reviewType": "Agent editorial review plus automated copy screening; not an independent human certification",
+  "checks": [
+    "Answer-first introductions",
+    "Topic-specific diagnostic and decision outcomes",
+    "Capitalization and natural wording",
+    "Spelling, punctuation, and grammar review",
+    "No repeated body sentences of 15 or more words",
+    "Examples labelled illustrative unless historical live evidence is explicitly described",
+    "Source-provided audio distinguished from generated dubbing",
+    "Public-access and unsupported-content limits",
+    "Archived facets checked against their answer owner"
+  ],
+  "spellingGrammarFailuresFound": 0,
+  "unresolvedEditorialFailures": 0,
+  "sourceEvidence": "Article-level primary sources in content/editorial/articles.json",
+  "freshLiveProviderTests": false
+}

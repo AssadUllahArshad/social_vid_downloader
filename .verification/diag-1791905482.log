@@ -1,0 +1,6 @@
+=== RUN: 2026-10-13T15:31:24Z ===
+Command: bash -lc echo STDOUT_TEST; echo STDERR_TEST >&2; exit 17
+
+STDOUT_TEST
+STDERR_TEST
+=== EXIT: 17 ===

@@ -1,0 +1,430 @@
+[
+  {
+    "path": "/",
+    "type": "home",
+    "title": "SocialVidDownloader - Download Social Media Videos Online",
+    "description": "Use a URL video downloader for supported public YouTube, Facebook, Instagram, TikTok and Snapchat Spotlight links. Check genuine source formats and access limits.",
+    "indexable": true,
+    "reason": "Completed public tool directory."
+  },
+  {
+    "path": "/youtube-video-downloader/",
+    "type": "tool",
+    "title": "YouTube Video Downloader",
+    "description": "Analyze a public YouTube video link and choose available source formats, including genuine 4K when exposed. Access and processing limits apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/youtube-shorts-downloader/",
+    "type": "tool",
+    "title": "YouTube Shorts Downloader",
+    "description": "Use the YouTube Shorts Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/instagram-video-downloader/",
+    "type": "tool",
+    "title": "Instagram Video Downloader",
+    "description": "Use the Instagram Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/instagram-reels-downloader/",
+    "type": "tool",
+    "title": "Instagram Reels Downloader",
+    "description": "Use the Instagram Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/instagram-story-downloader/",
+    "type": "tool",
+    "title": "Instagram Story Downloader",
+    "description": "Instagram Story Downloader is currently unavailable. Learn about Story access limitations and Instagram\u2019s own options for saving your content.",
+    "indexable": false,
+    "reason": "Unsupported downloading; limitation page remains noindex."
+  },
+  {
+    "path": "/facebook-video-downloader/",
+    "type": "tool",
+    "title": "Facebook Video Downloader",
+    "description": "Use the Facebook Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/facebook-reels-downloader/",
+    "type": "tool",
+    "title": "Facebook Reels Downloader",
+    "description": "Use the Facebook Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/tiktok-video-downloader/",
+    "type": "tool",
+    "title": "TikTok Video Downloader",
+    "description": "Use the TikTok Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/snapchat-spotlight-downloader/",
+    "type": "tool",
+    "title": "Snapchat Spotlight Downloader",
+    "description": "Snapchat Spotlight Downloader beta: check public share links, preview a video, choose an available quality, and save a verified video file.",
+    "indexable": true,
+    "reason": "Enabled public-link tool with source-dependent access."
+  },
+  {
+    "path": "/whatsapp-status-downloader/",
+    "type": "tool",
+    "title": "WhatsApp Status Downloader",
+    "description": "WhatsApp Status Downloader is currently unavailable. Learn about Status access limitations and options for saving your own content.",
+    "indexable": false,
+    "reason": "Unsupported downloading; limitation page remains noindex."
+  },
+  {
+    "path": "/youtube/",
+    "type": "hub",
+    "title": "YouTube Video and Shorts Tools",
+    "description": "Choose a YouTube watch-video or Shorts downloader. Check a public link, select source-provided quality and audio, and save content you have permission to keep.",
+    "introduction": "Watch links identify ordinary YouTube videos; /shorts/ links identify individual Shorts. Choose the matching tool below. Playlists and channel pages are not supported. Source restrictions, including age or account requirements, may prevent access.",
+    "indexable": true,
+    "reason": "Useful supported-tool selection and platform-specific access guidance."
+  },
+  {
+    "path": "/facebook/",
+    "type": "hub",
+    "title": "Facebook Video and Reels Tools",
+    "description": "Choose the Facebook Video or Reels downloader for authorized public clips. Compare supported link types and check available formats without account credentials.",
+    "introduction": "Use the Video tool for watch links, video-post links and fb.watch shares. Use the Reels tool for an individual /reel/ link. Group permissions and login restrictions can prevent processing; a shareable link does not guarantee public access.",
+    "indexable": true,
+    "reason": "Useful supported-tool selection and platform-specific access guidance."
+  },
+  {
+    "path": "/instagram/",
+    "type": "hub",
+    "title": "Instagram Video and Reels Tools",
+    "description": "Find tools for public Instagram video posts and Reels. Check source formats and access limits; Instagram Story downloads are currently unavailable.",
+    "introduction": "Choose Video for an individual /p/ post or Reels for a /reel/ link. Profile pages and collections do not identify one downloadable video. Private posts and authentication-only content cannot be accessed here. Story downloading is not currently supported.",
+    "indexable": true,
+    "reason": "Useful supported-tool selection and platform-specific access guidance."
+  },
+  {
+    "path": "/tiktok/",
+    "type": "hub",
+    "title": "TikTok Video Tools \u2014 Beta",
+    "description": "Use the TikTok video downloader beta for authorized public clips. Review supported share links, real quality choices and source restrictions before saving.",
+    "introduction": "The beta tool accepts individual creator-video links and short vm.tiktok.com or vt.tiktok.com shares that resolve to a public clip. It does not promise watermark removal or bypass creator restrictions. A profile or feed URL is not a video link.",
+    "indexable": true,
+    "reason": "Useful supported-tool selection and platform-specific access guidance."
+  },
+  {
+    "path": "/snapchat-downloader/",
+    "type": "hub",
+    "title": "Snapchat Downloader \u2014 Public Spotlight Videos",
+    "description": "Find supported public Snapchat video downloads. Use the Snapchat Spotlight beta tool to choose an available quality and save a verified file.",
+    "introduction": "Currently supported Snapchat media depends on the content type. Public Spotlight clips are supported in beta. Use a /spotlight/ link or a share link that resolves to Spotlight. Private and account-only content cannot be downloaded; Story downloading is not currently supported.",
+    "indexable": true,
+    "reason": "Useful supported-tool selection and platform-specific access guidance."
+  },
+  {
+    "path": "/whatsapp/",
+    "type": "hub",
+    "title": "WhatsApp Status Access Limitations",
+    "description": "Review why WhatsApp Status downloads are unavailable here and use the sender\u2019s original file or WhatsApp\u2019s own controls.",
+    "introduction": "WhatsApp Status is shared with selected contacts and has no supported public download link in this service.",
+    "indexable": false,
+    "reason": "No supported public tool; limited access guidance only."
+  },
+  {
+    "path": "/about/",
+    "type": "trust",
+    "title": "About SocialVidDownloader",
+    "description": "Learn how SocialVidDownloader checks authorized public video links, presents source formats and audio tracks, and respects private-content access limits.",
+    "indexable": true,
+    "reason": "Completed factual service explanation."
+  },
+  {
+    "path": "/guides/",
+    "type": "guides",
+    "title": "Guides",
+    "description": "Browse reviewed video guides for YouTube, Instagram, Facebook, TikTok and Snapchat Spotlight, plus practical source audio, format and file-saving help.",
+    "indexable": true,
+    "reason": "Completed guide directory with reviewed published content and platform navigation."
+  },
+  {
+    "path": "/blog/",
+    "type": "blog",
+    "title": "Product journal",
+    "description": "The SocialVidDownloader product journal has no published articles yet.",
+    "indexable": false,
+    "reason": "Empty landing page; no published articles."
+  },
+  {
+    "path": "/contact/",
+    "type": "trust",
+    "title": "Contact",
+    "description": "Contact details and support channels for SocialVidDownloader are not yet configured.",
+    "indexable": false,
+    "reason": "Operator and support contacts are placeholders."
+  },
+  {
+    "path": "/copyright/",
+    "type": "trust",
+    "title": "Copyright and takedown policy",
+    "description": "Read current content-permission guidance and the status of the SocialVidDownloader copyright reporting process.",
+    "indexable": false,
+    "reason": "Launch contact and takedown process are unfinished."
+  },
+  {
+    "path": "/privacy-policy/",
+    "type": "trust",
+    "title": "Privacy policy",
+    "description": "Read how submitted links and temporary download sessions are handled in the current SocialVidDownloader release.",
+    "indexable": false,
+    "reason": "Production retention and operator details need review."
+  },
+  {
+    "path": "/terms/",
+    "type": "trust",
+    "title": "Terms of use",
+    "description": "Read permission requirements, access restrictions and source-dependent availability for SocialVidDownloader.",
+    "indexable": false,
+    "reason": "Brief draft terms require operator and editorial review."
+  },
+  {
+    "path": "/video-tools/",
+    "type": "utility",
+    "title": "Video tools | Process your own media",
+    "h1": "Video tools",
+    "description": "Video tools: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-converter/",
+    "type": "utility",
+    "title": "Video Converter | Process your own media",
+    "h1": "Video Converter",
+    "description": "Video Converter: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-compressor/",
+    "type": "utility",
+    "title": "Video Compressor | Process your own media",
+    "h1": "Video Compressor",
+    "description": "Video Compressor: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/trim-video/",
+    "type": "utility",
+    "title": "Video Trimmer | Process your own media",
+    "h1": "Video Trimmer",
+    "description": "Video Trimmer: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/split-video/",
+    "type": "utility",
+    "title": "Video Splitter | Process your own media",
+    "h1": "Video Splitter",
+    "description": "Video Splitter: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/merge-videos/",
+    "type": "utility",
+    "title": "Video Merger | Process your own media",
+    "h1": "Video Merger",
+    "description": "Video Merger: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-to-gif/",
+    "type": "utility",
+    "title": "Video to GIF | Process your own media",
+    "h1": "Video to GIF",
+    "description": "Video to GIF: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/gif-to-video/",
+    "type": "utility",
+    "title": "GIF to Video | Process your own media",
+    "h1": "GIF to Video",
+    "description": "GIF to Video: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-thumbnail-extractor/",
+    "type": "utility",
+    "title": "Thumbnail Extractor | Process your own media",
+    "h1": "Thumbnail Extractor",
+    "description": "Thumbnail Extractor: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/thumbnail-grid-generator/",
+    "type": "utility",
+    "title": "Thumbnail Grid | Process your own media",
+    "h1": "Thumbnail Grid",
+    "description": "Thumbnail Grid: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-to-mp3/",
+    "type": "utility",
+    "title": "MP3 Audio Extractor | Process your own media",
+    "h1": "MP3 Audio Extractor",
+    "description": "MP3 Audio Extractor: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/remove-audio-from-video/",
+    "type": "utility",
+    "title": "Remove Audio | Process your own media",
+    "h1": "Remove Audio",
+    "description": "Remove Audio: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/images-to-video/",
+    "type": "utility",
+    "title": "Images to Video | Process your own media",
+    "h1": "Images to Video",
+    "description": "Images to Video: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/add-image-watermark/",
+    "type": "utility",
+    "title": "Image Watermark | Process your own media",
+    "h1": "Image Watermark",
+    "description": "Image Watermark: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/add-text-watermark/",
+    "type": "utility",
+    "title": "Text Watermark | Process your own media",
+    "h1": "Text Watermark",
+    "description": "Text Watermark: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/burn-subtitles-into-video/",
+    "type": "utility",
+    "title": "Burn Subtitles | Process your own media",
+    "h1": "Burn Subtitles",
+    "description": "Burn Subtitles: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/extract-video-subtitles/",
+    "type": "utility",
+    "title": "Extract Subtitles | Process your own media",
+    "h1": "Extract Subtitles",
+    "description": "Extract Subtitles: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-metadata-viewer/",
+    "type": "utility",
+    "title": "Video Information | Process your own media",
+    "h1": "Video Information",
+    "description": "Video Information: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-filters/",
+    "type": "utility",
+    "title": "Video Filters | Process your own media",
+    "h1": "Video Filters",
+    "description": "Video Filters: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/stabilize-video/",
+    "type": "utility",
+    "title": "Video Stabilizer | Process your own media",
+    "h1": "Video Stabilizer",
+    "description": "Video Stabilizer: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/remove-silence-from-video/",
+    "type": "utility",
+    "title": "Trim Silence | Process your own media",
+    "h1": "Trim Silence",
+    "description": "Trim Silence: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/video-storyboard-generator/",
+    "type": "utility",
+    "title": "Storyboard Creator | Process your own media",
+    "h1": "Storyboard Creator",
+    "description": "Storyboard Creator: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  },
+  {
+    "path": "/change-video-speed/",
+    "type": "utility",
+    "title": "Change Video Speed | Process your own media",
+    "h1": "Change Video Speed",
+    "description": "Change Video Speed: process authorized uploaded media, choose operation settings, inspect real file information and save a verified output before expiry.",
+    "indexable": true,
+    "reason": "Real output verified through browser upload, proxy, backend and downloaded file inspection; resource/security checks pass.",
+    "lastUpdated": "2026-10-12"
+  }
+]

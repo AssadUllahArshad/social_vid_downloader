@@ -1,0 +1,27 @@
+{
+  "reviewedAt": "2026-10-08",
+  "scope": "Local synthetic two-audio-stream fixture; external FFmpeg recipe verification, not a provider or camera-source test",
+  "ffmpegVersion": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "checks": [
+    {
+      "inputAudioOrdinal": 0,
+      "language": "eng",
+      "outputAudioStreams": 1,
+      "outputVideoStreams": 0,
+      "codec": "aac",
+      "packetPayloadHashesMatch": true,
+      "packetCount": 48,
+      "noOverwriteGuardPreservedFile": true
+    },
+    {
+      "inputAudioOrdinal": 1,
+      "language": "fra",
+      "outputAudioStreams": 1,
+      "outputVideoStreams": 0,
+      "codec": "aac",
+      "packetPayloadHashesMatch": true,
+      "packetCount": 48,
+      "noOverwriteGuardPreservedFile": true
+    }
+  ]
+}

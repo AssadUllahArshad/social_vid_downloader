@@ -1,0 +1,13 @@
+# Resumable SEO authoring checkpoint — 12 October 2026
+
+The mission is not complete. This continuation started with 1,049 remaining records and completed 97 in two batches (52 and 45): 31 individually authored and published guides, 66 body-reviewed intent merges, zero rejections. Exactly 952 original IDs remain nonpublic in seoCompletion.remainingIDs. Across both SEO continuations, 110 of the original 1,062 records are complete (41 published, 69 merged). Do not conflate lifetime and latest-run totals.
+
+The inexpensive grouping examined every starting ID, found zero exact duplicates, and saved family groups and comparison suggestions in the existing execution state. Suggestions never authorized publication. Authored consolidated guides address the actual overlapping questions and retain specific limitations, examples, references and relevant links. All 306 published articles pass the unchanged quality gate. Existing completed IDs are skipped on replay.
+
+Verified release: 861 public pages, 801 indexable/sitemap URLs, 60 noindex. Full production HTTP metadata, canonical, schema, link, orphan and sitemap checks have zero errors. All 1,821 nonpublic Stage A URLs return 404. Thirty-two older merge-owner lifecycle records were corrected (15 chains retargeted to ultimate owners), preserving history; these are not counted as new queue completion.
+
+Publication tests: 26 PASS. TypeScript: PASS. Lint: PASS. One production Webpack build: PASS. Full browser/provider suites were not repeated because tooling, styles and languages did not change. Existing multilingual verification remains applicable. The existing Semrush ownership mapping remains: YouTube general/conditional 4K at /youtube-video-downloader/; supported URL/link intent at /. No new keyword inventory or competing keyword landing page was made.
+
+Resume scripts/resume-deferred-content.mjs with new individually authored bodies only for saved pending IDs. Authored bodies are preserved in content/editorial/deferred-authored-batch.json. The two explicit merge scripts hold completed ownership decisions and skip IDs already finished. Both original checkpoints contain exact completed and remaining IDs and batch counts.
+
+Use the current Webpack development runtime for reliable order-sensitive publication fingerprints, as documented at the preceding checkpoint. No Next configuration, styling/layouts, provider/backend, video tool, language implementation or publication gate was modified in this continuation. The temporary production verification server is stopped after audits to avoid rebuilding its live artifacts later.

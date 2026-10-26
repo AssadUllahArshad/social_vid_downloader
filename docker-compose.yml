@@ -1,0 +1,75 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: socialvid
+      POSTGRES_DB: socialvid
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-localdevelopment}
+    ports: ["127.0.0.1:5432:5432"]
+    volumes: ["postgres-data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U socialvid"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  redis:
+    image: redis:7-alpine
+    ports: ["127.0.0.1:6379:6379"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  migrate:
+    build: {context: ., dockerfile: apps/api/Dockerfile}
+    environment: &api-env
+      DATABASE_URL: postgresql+psycopg://socialvid:${POSTGRES_PASSWORD:-localdevelopment}@postgres:5432/socialvid
+      REDIS_URL: redis://redis:6379/0
+      ADMIN_PROVIDER_TOKEN: ${ADMIN_PROVIDER_TOKEN:-}
+      PROCESSING_ENABLED: ${PROCESSING_ENABLED:-1}
+      STATE_BACKEND: redis
+      ENVIRONMENT: ${ENVIRONMENT:-development}
+      TRUSTED_PROXY_IPS: ${TRUSTED_PROXY_IPS:-127.0.0.1,::1}
+      ALLOWED_HOSTS: ${ALLOWED_HOSTS:-socialviddownloader.com,127.0.0.1,localhost,api}
+      CORS_ORIGINS: ${CORS_ORIGINS:-https://socialviddownloader.com}
+      RATE_LIMIT_PER_MINUTE: ${RATE_LIMIT_PER_MINUTE:-20}
+      MAX_CONCURRENT_JOBS: ${MAX_CONCURRENT_JOBS:-2}
+      MAX_FILE_BYTES: ${MAX_FILE_BYTES:-209715200}
+      MAX_STORAGE_BYTES: ${MAX_STORAGE_BYTES:-1073741824}
+      MAX_DURATION_SECONDS: ${MAX_DURATION_SECONDS:-1800}
+      EXTRACT_TIMEOUT_SECONDS: ${EXTRACT_TIMEOUT_SECONDS:-90}
+      DOWNLOAD_TIMEOUT_SECONDS: ${DOWNLOAD_TIMEOUT_SECONDS:-180}
+      SESSION_TTL_SECONDS: ${SESSION_TTL_SECONDS:-600}
+      FILE_TTL_SECONDS: ${FILE_TTL_SECONDS:-600}
+      METADATA_CACHE_TTL_SECONDS: ${METADATA_CACHE_TTL_SECONDS:-120}
+      FFMPEG_PATH: ${FFMPEG_PATH:-ffmpeg}
+      FFPROBE_PATH: ${FFPROBE_PATH:-ffprobe}
+      MEDIA_ROOT: /tmp/socialvid-media
+      IP_HASH_SECRET: ${IP_HASH_SECRET:?Set IP_HASH_SECRET in .env}
+    command: ["alembic", "upgrade", "head"]
+    depends_on:
+      postgres: {condition: service_healthy}
+  api:
+    build: {context: ., dockerfile: apps/api/Dockerfile}
+    environment: *api-env
+    volumes: ["media-data:/tmp/socialvid-media"]
+    ports: ["127.0.0.1:8000:8000"]
+    depends_on:
+      migrate: {condition: service_completed_successfully}
+      redis: {condition: service_healthy}
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+      args:
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL:-https://socialviddownloader.com}
+        ENABLE_HSTS: ${ENABLE_HSTS:-0}
+    environment:
+      API_INTERNAL_URL: http://api:8000
+      PROCESSING_MAX_UPLOAD_BYTES: ${PROCESSING_MAX_UPLOAD_BYTES:-209715200}
+      TRUSTED_CLIENT_IP_HEADER: ${TRUSTED_CLIENT_IP_HEADER:-}
+    ports: ["127.0.0.1:3000:3000"]
+    depends_on: [api]
+volumes:
+  postgres-data:
+  media-data:

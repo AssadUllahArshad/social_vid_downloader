@@ -1,0 +1,1325 @@
+{
+  "checkedAt": "2026-10-09T05:31:34.965630+00:00",
+  "sampleCount": 14,
+  "results": [
+    {
+      "tool": "YouTube Video",
+      "platform": "youtube",
+      "contentType": "video",
+      "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "checkedAt": "2026-10-09T05:27:39.237854+00:00",
+      "status": "PASS",
+      "title": "Me at the zoo",
+      "creator": "jawed",
+      "duration": 19,
+      "formatCount": 2,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "mp4a.40.2",
+          "bitrate": 129796
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 20969,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "0122088ccdfbb27f9d57",
+        "quality": "144p",
+        "height": 144,
+        "width": 192,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": 504566,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": true,
+        "videoCodec": "avc1.4D400B",
+        "audioCodec": "mp4a.40.2",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 506033,
+      "reportedBytes": 506033,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 192,
+          "height": 144,
+          "tags": {
+            "language": "und",
+            "handler_name": "ISO Media file produced by Google Inc.",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Original \u00b7 Default",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "19.063583",
+      "durationSeconds": 36.87
+    },
+    {
+      "tool": "YouTube Video",
+      "platform": "youtube",
+      "contentType": "video",
+      "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "checkedAt": "2026-10-09T05:27:39.240730+00:00",
+      "status": "FAIL",
+      "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+      "creator": "Blender",
+      "duration": 635,
+      "formatCount": 6,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "mp4a.40.2",
+          "bitrate": 129481
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 108323,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "4772503881eaef506822",
+        "quality": "144p",
+        "height": 144,
+        "width": 256,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": 14595389,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": true,
+        "videoCodec": "avc1.4D400C",
+        "audioCodec": "mp4a.40.2",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "preparation",
+      "error": {
+        "code": "processing_timeout",
+        "message": "Download preparation took too long."
+      },
+      "jobStatus": "error",
+      "durationSeconds": 212.2
+    },
+    {
+      "tool": "YouTube Shorts",
+      "platform": "youtube",
+      "contentType": "shorts",
+      "url": "https://www.youtube.com/shorts/BGQWPY4IigY",
+      "checkedAt": "2026-10-09T05:28:16.104006+00:00",
+      "status": "PASS",
+      "title": "MET THE LOVE OF MY LIFE ON AN AIRPLANE *caught on camera*",
+      "creator": "Allie Schnacky",
+      "duration": 14,
+      "formatCount": 11,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "mp4a.40.2",
+          "bitrate": 129878
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 49266,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "4772503881eaef506822",
+        "quality": "144p",
+        "height": 144,
+        "width": 82,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": 296920,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": true,
+        "videoCodec": "avc1.4D400B",
+        "audioCodec": "mp4a.40.2",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 303618,
+      "reportedBytes": 303618,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 82,
+          "height": 144,
+          "tags": {
+            "language": "und",
+            "handler_name": "ISO Media file produced by Google Inc.",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Original \u00b7 Default",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "14.396372",
+      "durationSeconds": 25.34
+    },
+    {
+      "tool": "Facebook Video",
+      "platform": "facebook",
+      "contentType": "video",
+      "url": "https://www.facebook.com/watch/?v=647537299265662",
+      "checkedAt": "2026-10-09T05:28:41.463933+00:00",
+      "status": "PASS",
+      "title": "19M views \u00b7 691K reactions | Padre ense\u00f1a a su hijo a c\u00f3mo ba\u00f1ar un reci\u00e9n nacido junto con su gato y se hace viral, mir\u00e1 el video \ud83d\ude0d | InfoPico",
+      "creator": "InfoPico",
+      "duration": 136.208005,
+      "formatCount": 2,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original \u00b7 Default",
+          "codec": "aac",
+          "bitrate": 44254
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 82703,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "7cee8e0dfdac9f4b81d9",
+        "quality": "400p",
+        "height": 400,
+        "width": 224,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 4469831,
+      "reportedBytes": 4469831,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 224,
+          "height": 400,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "136.208005",
+      "durationSeconds": 67.86
+    },
+    {
+      "tool": "Facebook Reels",
+      "platform": "facebook",
+      "contentType": "reels",
+      "url": "https://www.facebook.com/reel/1195289147628387",
+      "checkedAt": "2026-10-09T05:29:49.326206+00:00",
+      "status": "PASS",
+      "title": "9.8K views \u00b7 341 reactions | When your trying to help your partner out with an arrest and #FAAFO games begin. Let the \u201cSlapathon\u201d commence!! \ud83d\udc4a\ud83d\udc4b | Beast Camp Training",
+      "creator": null,
+      "duration": 9.566667,
+      "formatCount": 1,
+      "audioTracks": [],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 43336,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "640p",
+        "height": 640,
+        "width": 362,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": false,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "none",
+        "audio_track_ids": [],
+        "default_audio_track_id": null,
+        "audio_containers": {},
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 352915,
+      "reportedBytes": 352915,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 362,
+          "height": 640,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc61.3.100 libx264"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "9.566667",
+      "durationSeconds": 9.01
+    },
+    {
+      "tool": "Instagram Video",
+      "platform": "instagram",
+      "contentType": "video",
+      "url": "https://www.instagram.com/p/aye83DjauH/",
+      "checkedAt": "2026-10-09T05:29:58.336112+00:00",
+      "status": "PASS",
+      "title": "B E A U T Y  F O R  A S H E S on Instagram: \"If Abel was a booger, Luke would definitely pick him. See it in action by playing this video. Yes! That's right, folks. This is a video and Instagram made that possible! Read about this new capability and check out the promo video (with our cameo appearance) by clicking on the link in my profile. Also, be sure to download the latest version of Instagram and start sharing your videos!\"",
+      "creator": "naomipq",
+      "duration": 8.742075,
+      "formatCount": 1,
+      "audioTracks": [],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 59900,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "640p",
+        "height": 640,
+        "width": 640,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": false,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "none",
+        "audio_track_ids": [],
+        "default_audio_track_id": null,
+        "audio_containers": {},
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 1017460,
+      "reportedBytes": 1017460,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 640,
+          "height": 640,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "8.742075",
+      "durationSeconds": 9.75
+    },
+    {
+      "tool": "Instagram Reels",
+      "platform": "instagram",
+      "contentType": "reels",
+      "url": "https://www.instagram.com/reel/Chunk8-jurw/",
+      "checkedAt": "2026-10-09T05:30:08.119084+00:00",
+      "status": "PASS",
+      "title": "Instagram on Instagram: \"\u201cGingerton\u201d\n\n@august_thegingercat (August) loves dressing up and posing for the camera. \u201cMost of her clothes are made by her grandmother, who designs all her outfits,\u201d says Imlinenla, August\u2019s human. \u201cWe always try to get inspiration from movies or actresses, even though the designs are not that accurate.\u201d \ud83d\ude38\n\n#WeeklyFluff\n\nReel by @august_thegingercat\nMusic by @amaria_bb\"",
+      "creator": "instagram",
+      "duration": 4.966667,
+      "formatCount": 1,
+      "audioTracks": [],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 36155,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "854p",
+        "height": 854,
+        "width": 480,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": false,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "none",
+        "audio_track_ids": [],
+        "default_audio_track_id": null,
+        "audio_containers": {},
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 918120,
+      "reportedBytes": 918120,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 480,
+          "height": 854,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.966667",
+      "durationSeconds": 9.72
+    },
+    {
+      "tool": "TikTok",
+      "platform": "tiktok",
+      "contentType": "video",
+      "url": "https://www.tiktok.com/@scout2015/video/6718335390845095173",
+      "checkedAt": "2026-10-09T05:30:17.928567+00:00",
+      "status": "PASS",
+      "title": "Scramble up ur name & I\u2019ll try to guess it\ud83d\ude0d\u2764\ufe0f #foryoupage #petsoftikt...",
+      "creator": "scout2015",
+      "duration": 10,
+      "formatCount": 2,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "aac",
+          "bitrate": null
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 53728,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "372a61f52f43a310b501",
+        "quality": "1024p",
+        "height": 1024,
+        "width": 576,
+        "extension": "mp4",
+        "filesize": 2953029,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 2953029,
+      "reportedBytes": 2953029,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 576,
+          "height": 1024,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "10.495011",
+      "durationSeconds": 8.99
+    },
+    {
+      "tool": "Snapchat Spotlight",
+      "platform": "snapchat",
+      "contentType": "spotlight",
+      "url": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWtidGhudGZpAX1TKn0JAX1TKnXJAAAAAA",
+      "checkedAt": "2026-10-09T05:30:26.923634+00:00",
+      "status": "PASS",
+      "title": "Views \ud83d\udc95",
+      "creator": "shreypatel57",
+      "duration": 4.665,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original \u00b7 Default",
+          "codec": "aac",
+          "bitrate": 121723
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 23634,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "5feceb66ffc86f38d952",
+        "quality": "880p",
+        "height": 880,
+        "width": 480,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 583698,
+      "reportedBytes": 583698,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 480,
+          "height": 880,
+          "tags": {
+            "language": "und",
+            "handler_name": "Core Media Audio",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Core Media Audio",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.641995",
+      "durationSeconds": 12.33
+    },
+    {
+      "tool": "Facebook Video",
+      "platform": "facebook",
+      "contentType": "video",
+      "url": "https://www.facebook.com/video.php?v=274175099429670",
+      "checkedAt": "2026-10-09T05:30:39.254061+00:00",
+      "status": "PASS",
+      "title": "119 reactions \u00b7 1.4K shares | Asif Nawab Butt on Reels",
+      "creator": "Asif Nawab Butt",
+      "duration": 131.030204,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original \u00b7 Default",
+          "codec": "aac",
+          "bitrate": 3101
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 15120,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "300p",
+        "height": 300,
+        "width": 400,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 4472703,
+      "reportedBytes": 4472703,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 400,
+          "height": 300,
+          "tags": {
+            "creation_time": "2014-05-06T17:56:30.000000Z",
+            "language": "und",
+            "handler_name": "/tmp/Zvl92w_video.264 - Imported with GPAC 0.4.6-DEV-rev3544",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "creation_time": "2014-05-06T17:56:30.000000Z",
+            "language": "und",
+            "handler_name": "/tmp/Zvl92w_audio.aac - Imported with GPAC 0.4.6-DEV-rev3544",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "131.030204",
+      "durationSeconds": 21.05
+    },
+    {
+      "tool": "Instagram Video",
+      "platform": "instagram",
+      "contentType": "video",
+      "url": "https://www.instagram.com/p/BQ0eAlwhDrw/",
+      "checkedAt": "2026-10-09T05:31:00.305132+00:00",
+      "status": "PASS",
+      "title": "Instagram on Instagram: \"Surprise! \ud83c\udf89 Swipe left on the post above to see more.\nStarting today, you can share up to 10 photos and videos in one post on Instagram. With this update, you no longer have to choose the single best photo or video from an experience you want to remember.\nWhen uploading to your feed, you\u2019ll see a new icon to select multiple photos and videos. It\u2019s easy to control exactly how your post will look. You can tap and hold to change the order, apply a filter to everything at once or edit one by one. These posts have a single caption and are square-only for now.\nOn a profile grid, you\u2019ll notice the first photo or video of a post has a little icon, which means there\u2019s more to see. And in feed, you\u2019ll see blue dots at the bottom of these posts to let you know you can swipe to see more. You can like and comment on them just like a regular post.\nThis update is available as part of Instagram version 10.9 for iOS in the Apple App Store and for Android on Google Play. To learn more, check out help.instagram.com.\"",
+      "creator": "instagram",
+      "duration": 6.506507,
+      "formatCount": 1,
+      "audioTracks": [],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 23656,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "640p",
+        "height": 640,
+        "width": 640,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": false,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "none",
+        "audio_track_ids": [],
+        "default_audio_track_id": null,
+        "audio_containers": {},
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 960036,
+      "reportedBytes": 960036,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 640,
+          "height": 640,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "6.506507",
+      "durationSeconds": 11.04
+    },
+    {
+      "tool": "Instagram Reels",
+      "platform": "instagram",
+      "contentType": "reels",
+      "url": "https://www.instagram.com/reel/CDUMkliABpa/",
+      "checkedAt": "2026-10-09T05:31:11.345229+00:00",
+      "status": "PASS",
+      "title": "Alina Ja\u0308ger on Instagram: \"I definitely need a mountain lake  close by to practice SUP \ud83c\udfd4\ud83d\ude0d\n\n#standuppaddleboarding #damestravel #citizenfemme #nomadgirls #globelletravels #girlsvsglobe #finditliveit #agameoftones #letsgosomewhere #liveauthentic #theoutbound #speechlessplaces #meettheworld #cyclinggirl #surfgirl#mountainlake #darlingescapes #ladiesgoneglobal #outdoorwomen #journeysofgirls\"",
+      "creator": "clippedinandfree",
+      "duration": 13.546667,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original \u00b7 Default",
+          "codec": "aac",
+          "bitrate": 128332
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 36222,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "1280p",
+        "height": 1280,
+        "width": 720,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 3257414,
+      "reportedBytes": 3257414,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "13.546667",
+      "durationSeconds": 23.62
+    },
+    {
+      "tool": "TikTok",
+      "platform": "tiktok",
+      "contentType": "video",
+      "url": "https://www.tiktok.com/@patroxofficial/video/6742501081818877190",
+      "checkedAt": "2026-10-09T05:31:11.528674+00:00",
+      "status": "FAIL",
+      "title": "Tag 1 Friend reverse this Video and look what happens \ud83e\udd29\ud83d\ude31 @skyandtami ...",
+      "creator": "patrox",
+      "duration": 27,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "aac",
+          "bitrate": null
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 55904,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "8037d4c5b2269d2ccd7d",
+        "quality": "1024p",
+        "height": 1024,
+        "width": 576,
+        "extension": "mp4",
+        "filesize": 2748647,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "preparation",
+      "error": {
+        "code": "format_changed",
+        "message": "The source format changed. Analyze this link again."
+      },
+      "jobStatus": "error",
+      "durationSeconds": 12.71
+    },
+    {
+      "tool": "Snapchat Spotlight",
+      "platform": "snapchat",
+      "contentType": "spotlight",
+      "url": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYcnVjYWdwcGV1AZEaIYn5AZEaIYnrAAAAAQ",
+      "checkedAt": "2026-10-09T05:31:24.254936+00:00",
+      "status": "FAIL",
+      "stage": "extraction",
+      "httpStatus": 422,
+      "error": {
+        "code": "video_unavailable",
+        "message": "This Snapchat video is unavailable, removed, or restricted."
+      },
+      "durationSeconds": 5.63
+    }
+  ],
+  "scope": "Real anonymous public URL -> production Next proxy -> API -> final downloaded media -> FFprobe. One or two samples do not establish broad provider reliability. Temporary client copies removed; server files expire through configured cleanup."
+}

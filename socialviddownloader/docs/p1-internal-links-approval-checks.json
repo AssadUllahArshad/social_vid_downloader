@@ -1,0 +1,1370 @@
+[
+  {
+    "path": "/guides/general/original-vs-default-audio/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "bc767ceec5f24771a1c4bb6b8ab7cc05868c782e069f6473eaf8a5b7a0925060"
+  },
+  {
+    "path": "/guides/general/subtitle-language-vs-audio-language/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0462b4ae4eace4f38b9d476cf715ac435f72fe3be14fea438fcfec802a69af76"
+  },
+  {
+    "path": "/guides/general/iphone-files-vs-photos/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b139bcfedce3ebab541db2545cb2e76fc59387c5c3d8f34e5e7ca6e46b1ec7cb"
+  },
+  {
+    "path": "/guides/general/browser-preview-vs-save/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a0f23d88073dbcc0cc0fe6e5d59271e8f735928f8bea16060a12dd0df5febd1e"
+  },
+  {
+    "path": "/guides/general/android-downloads-folder/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "f0dbbe04397e22ec2595ceed994f9a4b8ebb5a37e0661aebf76a7d23b60ef9fe"
+  },
+  {
+    "path": "/guides/general/windows-downloads-folder/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "df52557cf2b1b74c9f9d9de72c61a4de7baabd6e6736f5489e2bc406e6753cdf"
+  },
+  {
+    "path": "/guides/general/copy-video-to-usb/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "9269407437cdc1c9485e61cbbeb7c29f6d3ad6f6183336c8d885367dfcea07c6"
+  },
+  {
+    "path": "/guides/general/storage-space-check/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "650eddf6e4f3fe9a2e0166616eb33f7c79c7741d165e68793beaf2797db317fa"
+  },
+  {
+    "path": "/guides/general/chrome-download-history/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0e1a6ac54c6db50a871c00c4a3668136700e3ae9dac8017f3ec9b3ed15c20ded"
+  },
+  {
+    "path": "/guides/general/safari-download-history/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "54030397cdf777b70bbced9bc57de5e897b1bad797f04889185620864eb9937a"
+  },
+  {
+    "path": "/guides/general/safe-browser-download-warning/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ec3ee5656b87ea21208f555a54359b72425d8a58a297c114e816c64c25b3c4d0"
+  },
+  {
+    "path": "/guides/general/video-will-not-open/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c2252659e6751d6f94fb7435713ebdfe441a6f5bbaac471aaff9b5e6c43ece18"
+  },
+  {
+    "path": "/guides/general/video-freezes-during-playback/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b323aca597f5533a77d06f2582009a287b4c2b8c8f7262289e778cf7a67b8ebc"
+  },
+  {
+    "path": "/guides/general/audio-out-of-sync/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "7f5954663ea1b8ae3be22f3bc993ef25b8056ab4f50a5a75abede164714d0dd7"
+  },
+  {
+    "path": "/guides/general/multiple-audio-track-player/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "538285af0221708b997110dffe29b5f5bd7d76fe2c7c51df2b7003959acac757"
+  },
+  {
+    "path": "/guides/general/video-bitrate/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "87cf75d59d4eb4a3c54122cd73dd5e6a88dd1f553dab2f3ee9ce60a473607706"
+  },
+  {
+    "path": "/guides/general/frame-rate-vs-resolution/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "2bdf4e2c9bc4024837ee7360c6ec7860a1c549beed9ec8e8fedf1ba2abf4dcbc"
+  },
+  {
+    "path": "/guides/general/muxing-vs-transcoding/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "06c46d7cc9efb4a552251b2bbb1c963bfcc70064a472c92e2133bbbdd372e2db"
+  },
+  {
+    "path": "/guides/general/mp4-vs-mkv/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "544b5ac25a2574d204701343091e9dbd1df0da4bc9e155e1734330a01e379908"
+  },
+  {
+    "path": "/guides/general/h264-vs-hevc/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "32586d2c91fc34cf993d30a83d28ace2e3fef04518e188015539e1e530efa6bc"
+  },
+  {
+    "path": "/guides/general/permissioned-video-archive/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b4da1d42b81fd761cb6021f5feb3a24507d0e50b12550695efb2c9d2a07db631"
+  },
+  {
+    "path": "/guides/youtube/youtube-video-temporary-provider-failure/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "d814e0dc76c7d5afbeb01d512257c398ed7fd960f8093c8585da25aef5aadbdc"
+  },
+  {
+    "path": "/guides/general/open-vs-closed-captions/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "20e676949748a5d3a3ad058782db7271eff668b1358d2b031bfd8abfbf936b9b"
+  },
+  {
+    "path": "/guides/general/srt-vs-webvtt/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "db0878b044ece5a9d5d94d08ade171921f9a237776b6380547310ec95575da27"
+  },
+  {
+    "path": "/guides/general/caption-sidecar-not-showing/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5e0a6c650d0c5734aaf47c69e4511a30be444f758310d11e05dacc8ea881b80e"
+  },
+  {
+    "path": "/guides/general/downloaded-video-without-captions/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "3a7906cd6bcadda6f32531323df386833f1e9e0f0cb16bc0fe592f2e9bf7c776"
+  },
+  {
+    "path": "/guides/general/hdr-video-washed-out/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "414a3fa4323aca25951486822bf208e73fcd07608b2b441f901c64efe995a337"
+  },
+  {
+    "path": "/guides/general/video-aspect-ratio/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8581758fad1645ec0c4a51048ae4a8ebec0602c4f4e823071534351d00684632"
+  },
+  {
+    "path": "/guides/general/interlaced-vs-progressive/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c70ffee04ea122cae99676ab4b54b7d2b94cf96c1d1ea00c7948ef30ffade236"
+  },
+  {
+    "path": "/guides/general/variable-frame-rate-editor-drift/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5f5409b130a39e239619c4cc9a78583aa9a613fdd7b12ca7568df45e28a39453"
+  },
+  {
+    "path": "/guides/general/keyframes-and-seeking/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e38cbf6b05465be986cf4bf224c79092c3e948cf9cbc7af2273cf70dc2ca4e51"
+  },
+  {
+    "path": "/guides/general/codec-profile-and-level/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "edea2d7d3b084c2b23c2e03e6b1d6c50f73d5b3478750650d7baddab26fbb64d"
+  },
+  {
+    "path": "/guides/general/hardware-vs-software-decoding/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c1d36a52f5bac0f6b204c30f96d211939b6ed3fe5dcd3e6a894c98f86778629d"
+  },
+  {
+    "path": "/guides/general/lossy-vs-lossless-media/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6eccf97bf032cbfd1c0afff1e1d803530410a6b4615da4036b1ed132ff7f27c9"
+  },
+  {
+    "path": "/guides/general/m4a-vs-aac/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5a050a4d03ec56362bfa274ef827401d973921b8861bfa762b0d83c8413b8171"
+  },
+  {
+    "path": "/guides/general/audio-channel-downmix/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "371f7ff6dc58201aa58520513b0480d0285e84fb3c1965a464cf72b8cdf2560c"
+  },
+  {
+    "path": "/guides/general/audio-loudness-vs-peak/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e6400a213598b366e726ab89daf1b604828a2c842915f42fc62ba8550d8dae3c"
+  },
+  {
+    "path": "/guides/general/hls-vs-dash/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "65d263c5244d5d8c960ec4f0e48bd0b7d72bd3ea27e6d32284039d5642a53689"
+  },
+  {
+    "path": "/guides/general/video-page-vs-cdn-url/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "05acff36c7798ed4d3efb404678a829e4dacac7b8e1d35564db4523fa7c088bb"
+  },
+  {
+    "path": "/guides/general/http-429-rate-limits/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ef4644f01c5d315bda2db0e0adc878cac2adbcc12bd8c205cdf33de376e673fd"
+  },
+  {
+    "path": "/guides/general/multiple-downloads-browser-permission/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "00126000bf52ce08cf23d329c77720739f4280b0de273e425d316c178a55d435"
+  },
+  {
+    "path": "/guides/general/phone-to-computer-video-transfer/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a26abab90d90fb0fcb965d38060c53844306c8c1e2d7878307c75425e57b9e30"
+  },
+  {
+    "path": "/guides/general/android-usb-file-transfer/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a159a757d2d5b337e9dec66e4b2a3184e975a218b39453e6e77dce3312ef4046"
+  },
+  {
+    "path": "/guides/general/iphone-mac-video-transfer/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "59d73560b3f6ebbdfa49df5eb19ccaa148a1a110a33d8c65463418e06de6bdd3"
+  },
+  {
+    "path": "/guides/general/archive-checksums/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5feaf2815f2f01eb38726865c513be834d773b8738f012908dc92ec4a1dfab15"
+  },
+  {
+    "path": "/guides/general/archive-manifest/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "d2a3f64244b22dd0a342c4e903341f9d988f995a5f258219b225797ac91254f7"
+  },
+  {
+    "path": "/guides/general/cloud-sync-vs-backup/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "d229125f5fc6b70b4a6d685b9009493677567db2b65c751aed944107a62ab7e5"
+  },
+  {
+    "path": "/guides/general/archive-source-vs-edit/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b366891a41c504c384a6c6ec792ae0877788cb99837c1780c15c5563619e73b8"
+  },
+  {
+    "path": "/guides/general/public-url-vs-permission/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5cddb9a750050bf6d7d2c023ee455ddaf93fa0606c5f2c42fc0a097fa1547fa3"
+  },
+  {
+    "path": "/guides/general/video-file-location-privacy/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "82854381ec8b91995d7f53ff4d84347d2cffa2f7efc8a432019452c6015aefd8"
+  },
+  {
+    "path": "/guides/general/chroma-subsampling/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "7f6613435c7f3095edd94a6c54515ae1ec423d02072fd298655131e2b8cf84cc"
+  },
+  {
+    "path": "/guides/whatsapp/whatsapp-status-visibility-and-expiry/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "3723368ad9ce59f5f928172d93b3302544ba6e879df4d573fd0cc89c1e7bbbd4"
+  },
+  {
+    "path": "/guides/general/language-tag-region-and-script/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "3a6d97d237ce59eb485360facfb4f4fd79810e79ac268d9e81a7850339c49712"
+  },
+  {
+    "path": "/guides/general/pcm-bit-depth-vs-compressed-audio/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6d929e5cbb0f41f48d9478aaf1520a4aee8f0ced7fb089e71449e7f986e86a50"
+  },
+  {
+    "path": "/guides/general/fat32-video-file-limit/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0bf222f1b99bd435bef7cf26ec3f159851ded07179bffedbc4480051492b40c7"
+  },
+  {
+    "path": "/guides/general/inspect-local-video-with-ffprobe/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e7bb620485837b715bf4661353da765532659a08e38102e4b83ee7aab5e5b474"
+  },
+  {
+    "path": "/guides/general/premiere-import-authorized-srt/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "66d795e857745fdb0d455f48a9cb5e7a5ece7b3e1e90a9a929977472e17ec44d"
+  },
+  {
+    "path": "/guides/general/premiere-relink-moved-video/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b6d05a542b901bb422701f0350f639c0241ed1e6b66037679b8b1c74a4bb76ff"
+  },
+  {
+    "path": "/guides/tiktok/tiktok-data-export-vs-video-backup/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e11ba0364ee73d722e7c68345af3e1c55b895644f52c01d9eafb30d686d6a686"
+  },
+  {
+    "path": "/guides/general/inspect-video-metadata-before-sharing/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "d70db69dca841bd010cb4256077051088d27f2ae0634683a19d99ec7498829f7"
+  },
+  {
+    "path": "/guides/general/mp4-faststart-index-placement/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c293992002cd7d0957312a01e5a28f3e7402bb2d61ddf14aa09961110eb9510d"
+  },
+  {
+    "path": "/guides/general/video-chapters-vs-separate-files/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "bd906cc44b2e62186a920aa94b0bc03577820553070acc7b57fa0c81c02a8d8f"
+  },
+  {
+    "path": "/guides/general/photos-video-export-original-vs-edited/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8a37eb9000fc41913ff5c52f5f147ba0d2e989b070829fe87e96812115f3e6d6"
+  },
+  {
+    "path": "/guides/general/ttml-caption-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "72529bcfcc9691967b0ff6a092d46f15c8fe86a95da39d2dd210e309f9b8449e"
+  },
+  {
+    "path": "/guides/general/image-subtitles-vs-editable-text/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "bc43d447c2fcdeec3db2c294ac06c9baec437d0cddbe3b6509dbf9867c64746b"
+  },
+  {
+    "path": "/guides/general/private-browsing-saved-video-files/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e29e6c2660a85097c6a2fc958e13e2d5a3fada9c4138c6f4002604d62bf467b0"
+  },
+  {
+    "path": "/guides/general/playback-speed-vs-retimed-video/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8a7e26a3387c7af3d931cc8eab4a9a1e0e556e193987f2fffed1991e44fc0897"
+  },
+  {
+    "path": "/guides/general/google-photos-locked-folder-retention/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c3bfde0996d57d0810e6213059de1e83b4efcc179b1b71f14ac570d446a1eac1"
+  },
+  {
+    "path": "/guides/general/premiere-collect-project-media/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8008d6cb70de9bcc04aa706ae405ba3f4b422520f453c80dec4ee3968de41efc"
+  },
+  {
+    "path": "/guides/general/spherical-video-vs-flat-playback/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0c6a0cdd420dd0b7106b5a196d285f03f5dd1bd14b848a998409fa42949d29fc"
+  },
+  {
+    "path": "/guides/general/source-timecode-vs-sequence-position/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "958a55c9945a16ff821ccd76d2808feb7600919d2510adb8e33b862071f3c9de"
+  },
+  {
+    "path": "/guides/general/photo-library-selected-video-access/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "66f87dd005446d22185ce5b1cffc65a48da8f4ea8cc0cabd63106eee9a299294"
+  },
+  {
+    "path": "/guides/general/recover-recently-deleted-video/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c0794bc927c023c58c8ac628482fbc2d49bfcc0f88cdffdd8accc8771d2623fd"
+  },
+  {
+    "path": "/guides/youtube/youtube-visibility-for-video-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a8d2d6aecde0e7d606cb6da6c2f8aff015adf64aa8caf901556a42c4a48a5bd2"
+  },
+  {
+    "path": "/guides/general/video-shortcut-vs-retained-file/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6ee4c93998dd506fc1fd586d709ce4c038ee96cc5a4b9d9ce4b9a717e1d69864"
+  },
+  {
+    "path": "/guides/general/video-inside-zip-archive/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "f9d7d1e42b322c5a576330e85230c799588378dbbecbc480478b7cc8f8f02cff"
+  },
+  {
+    "path": "/guides/general/browser-customization-download-page-failure/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6994e93230c9fe52aca1892889675b1f681dc829e8cb6a404de5fb552a9a7edc"
+  },
+  {
+    "path": "/guides/general/captive-wifi-video-download/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "faf805549a75378819d077b61a9171789711d248cceef9b0e4434a7a144526a1"
+  },
+  {
+    "path": "/guides/general/linux-video-file-access-permissions/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b567efa6ea34a08093cbc41bcc64714846a5ed4a2fed4dc1f0336910d00f6c2b"
+  },
+  {
+    "path": "/guides/youtube/youtube-upload-quality-processing/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b140d66ef8966d92b1a7732d2254dc3da69753b03380bbb95ba9642526629383"
+  },
+  {
+    "path": "/guides/general/final-cut-library-media-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "324aba6328bfb8c87d4de79ce3b1d1d4aa1df5f04c86208cbe0cad493575c6b8"
+  },
+  {
+    "path": "/guides/general/audacity-project-vs-audio-export/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "793905dd51b218bfe8aeef257c3115a972a7024cf59f962da9090699673501af"
+  },
+  {
+    "path": "/guides/general/retimed-video-interpolation-artifacts/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b0b6d54c5bd7ced8c59aa7d1327358c312af2bd517d7555dd7d5a297213be4a0"
+  },
+  {
+    "path": "/guides/general/caption-bidirectional-text-order/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c94d2c6af15a8eff1e0fc6bf2f7adee6b926a9842e504fe5f836e99d9da78bb7"
+  },
+  {
+    "path": "/guides/general/copy-selected-local-audio-stream/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a4392764932ce28777e79a13ecdf57dc06106176febe581ed6aa00e38329bafd"
+  },
+  {
+    "path": "/guides/general/premiere-clip-notes-vs-xmp-file/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "bedc3afdaba83d576f6035a52d1a46d26bffc95d1d1d61dd6263824c319cd34f"
+  },
+  {
+    "path": "/guides/general/join-compatible-retained-video-segments/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "a24779762b8ad6b0d6ad8734458fb4c85d2b0074234560477fb055c7335f596b"
+  },
+  {
+    "path": "/guides/youtube/youtube-viewer-transcript-navigation/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "22cfce7addfecf7533754921779f7af2a1958d945c80a4c74baf719dcf87e2f6"
+  },
+  {
+    "path": "/guides/general/final-cut-incomplete-camera-import/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "4b8a01904d2b1e31c4f78a512d9dab91bdde354fc9a3d013a6b45afa1d3625a7"
+  },
+  {
+    "path": "/guides/general/audio-click-at-edit-boundary/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "aa8507e659eda5fb079a4413b17c877a7581859899f5a95fd4ec0f1ee3a34070"
+  },
+  {
+    "path": "/guides/general/steady-audio-noise-profile-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "34b9d7275217bb0c4ba8429f89cc1a1abc2cb42d57b0ddc6b00c39153488b7a3"
+  },
+  {
+    "path": "/guides/general/stabilized-video-crop-and-warp-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8827a2254a87bf0794f90a0ce80d44fc35afdb3f391b61709ee5ad3f7b6f16be"
+  },
+  {
+    "path": "/guides/general/premiere-music-ducking-dialogue-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "1648d9c995a62a260c1efd993f43574608c7096e90b2a4fe4f625ac6b74f0174"
+  },
+  {
+    "path": "/guides/general/verify-flac-audio-roundtrip/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "75e1e0fc2a93c6cdd09f568ef8f2203223dc2df5781d1f8b1fda578991fd134e"
+  },
+  {
+    "path": "/guides/general/final-cut-multicam-angle-sync-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "fd439134cfed88bbee10830fbd7cb15cd45e39b3287aa994c0b7f32075893383"
+  },
+  {
+    "path": "/guides/general/speech-dynamics-compressor-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "3c425cc2572349031b8dc15c9cc065d2bd524470fda60dd0a71f38f51ca2e1a6"
+  },
+  {
+    "path": "/guides/general/final-cut-voice-isolation-component-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "9dadf406698ff92812ec2e5ac30a9db064351b9f194b23266dbcad02077a510c"
+  },
+  {
+    "path": "/guides/general/final-cut-camera-lut-vs-creative-look/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "dd54be95e4540a548efa619686472a26a66e052d2f9219b5fc4a183f189c6d51"
+  },
+  {
+    "path": "/guides/general/webvtt-voice-annotation-vs-speaker-label/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "4c5d9ec056a2339ee40cce158477765ccb308e378558a89d1e6d8ef9be51a5e6"
+  },
+  {
+    "path": "/guides/general/aac-priming-vs-audio-timeline/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "f43117f809bbef7d02660338bae237cff491062be89cae323d1ec132ed274cb7"
+  },
+  {
+    "path": "/guides/instagram/instagram-repost-vs-retained-video/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e834f096422a3c16cb6f1c2bc4ea7f26f8868a161a2b3ec0d78f078fcbb955a0"
+  },
+  {
+    "path": "/guides/general/premiere-transition-insufficient-handles/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "9d623e090752f0b042740973cc9987fec1cd02ca5f54bc2ed0e3ea5b2161b070"
+  },
+  {
+    "path": "/guides/instagram/instagram-trial-reel-sharing-state/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5cd991db0ed3775d3e150e58ff80ce366020892eb1ba1666e2ebbbe7ceb7d029"
+  },
+  {
+    "path": "/guides/general/ass-subtitle-font-attachment-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8cd6aebef0c02b9e340516dc4497fe578bd609c606211c707aef83e9dceaa510"
+  },
+  {
+    "path": "/guides/general/audio-rumble-highpass-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "53592f78cfafef09effeb31eb862223809a470cd8af1d57df9cbaaeaa025c621"
+  },
+  {
+    "path": "/guides/general/ffmpeg-trim-reset-timestamps/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "206b59b6eedae7f3d313b1ad395f7ad64da72c0cdd6a657d93d44d6aca6801ee"
+  },
+  {
+    "path": "/guides/general/ffmpeg-filtergraph-error-versus-partial-file/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "3086223f8eae11fb38323badc110d76024ed69654495233bc4d3aeb2e9e08002"
+  },
+  {
+    "path": "/guides/general/constant-quality-vs-target-bitrate/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ff651ea971121b73f33cdd067535cee61a88506610303f778bc4c54255718fcf"
+  },
+  {
+    "path": "/guides/general/encoder-preset-vs-quality-control/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6ebfccc5911fb7c705c0131d8d825d0925611c23ddfa670aed85fcbb1855bd0c"
+  },
+  {
+    "path": "/guides/general/ffmpeg-silenceremove-video-sync/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "687178476a5756c0e280061790630108bb118357b4865f86ae5856bc0db8f800"
+  },
+  {
+    "path": "/guides/general/account-video-bookmark-vs-retained-file/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "71c4a1c4d04195ef07300d10df4ba2bf16eca5425423413157b624d22765975f"
+  },
+  {
+    "path": "/guides/general/image-sequence-versus-video-editing-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "cb09a7760ec3e892c1b1468cb20c41320e904e9612e124d1c964369420efc9be"
+  },
+  {
+    "path": "/guides/general/embedded-subtitle-versus-sidecar-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0673c75890b6f232ea857d986f80ddd1769f47a497c7dd4bf2026414464d7db7"
+  },
+  {
+    "path": "/guides/general/container-chapters-versus-caption-navigation/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "219184c5136a515ce953ef6ae12b8e4bb82f7488e096cbfe86ea2aa72db0ad2c"
+  },
+  {
+    "path": "/guides/general/audio-raw-pcm-no-header/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "1e53b0e8088ebc5b11c93ddbd1e4b519ab8975605c0d8d6dc61632d68d2f33ec"
+  },
+  {
+    "path": "/guides/general/audio-dual-mono-vs-stereo-file/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "77e8446d9a42657c77b5a4d9be1c3a64cb45fac244059a9f52820a3f8e7b0157"
+  },
+  {
+    "path": "/guides/general/true-peak-vs-sample-peak/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "45320c86f73c95b83dcada7345ef5f609ef92f5c616219979424b62bcd6c1484"
+  },
+  {
+    "path": "/guides/general/h264-avcc-vs-annex-b/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "0c91714916b15e4be5aab904e0bd555950823739a13bbd0cae353fcc80a18180"
+  },
+  {
+    "path": "/guides/general/editing-project-relative-vs-absolute-paths/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c923e62954bc59589b2aeb2313debba31277111b0c157f103f1acd2ddf4de184"
+  },
+  {
+    "path": "/guides/general/editing-project-roundtrip-transition-loss/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5a21672864a5c32e84cfa85cd5649e5f12b102c4bf91f90e5dcb68ceec03be8d"
+  },
+  {
+    "path": "/guides/general/kdenlive-render-script-source-dependencies/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c32a20bb2699ffca9d89be737b6c735fd2c08dad8102c47f56ecede58ca12da7"
+  },
+  {
+    "path": "/guides/general/ass-override-tags-visible-text/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5b3d4bc68c8f325d066a940831f1af8a3d44c1ff4032c710440f1e0483d35c4f"
+  },
+  {
+    "path": "/guides/general/ffmpeg-amerge-vs-amix/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "65a36b60f7c61cb62cf52eb8d170b776b2042834244c0290771ec4625104f573"
+  },
+  {
+    "path": "/guides/general/video-caption-personal-data-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6158f3edac615f9b16ca1c3b5aaaf4e1e3a7636975776fa99e055734901ed35d"
+  },
+  {
+    "path": "/guides/general/blender-scene-frame-range-sequencer/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "6dda52dfa550454e196b4db7bf1bd399fca4e78b43591f42805b88a84446e232"
+  },
+  {
+    "path": "/guides/general/audacity-selection-vs-entire-project-export/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8f6db5f96cff05119638ffad30f12bf7d7215c883fc5b7e027eb2551ddd85c55"
+  },
+  {
+    "path": "/guides/general/speech-reverb-reduction-limits/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "58dd8eafc577fe18bc055ee8da9d3cc67bbeefb2d622a3fc8e6fce5d0153076a"
+  },
+  {
+    "path": "/guides/general/audio-resampling-aliasing-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "de14a6e65f11b30cc27f613b455c4372f2f76fbf27500625340d7419b80d5839"
+  },
+  {
+    "path": "/guides/general/handbrake-queue-item-setting-snapshot/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "834c38089620e2ed842a20896c7c05812f9e3c9ced78192c55cd926d600a9471"
+  },
+  {
+    "path": "/guides/general/obs-monitor-output-routing-distinction/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "08c46a77cabae0bdaa5f2af9a4e2703febb5023c3c9d8c2aef4f533cd967707c"
+  },
+  {
+    "path": "/guides/general/audio-formant-shift-vs-note-pitch/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5c1eb1fcd74025014b1f1479174c4e41ee70b5c6d63e29a29a9e846aac2d76f9"
+  },
+  {
+    "path": "/guides/general/caption-time-reference-wall-clock/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "83f20963ec05d12bd01f3cd3b9cdcc7f745c5bd2ebc5fd67df2977a96398e1c3"
+  },
+  {
+    "path": "/guides/general/ffmpeg-audio-dcshift-headroom/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "cf312b41c8d9dc52ca630f72250496f1d2d4afe6ef3efd122ae4e122518547e1"
+  },
+  {
+    "path": "/guides/general/final-cut-delete-generated-media-scope/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c4eeaec621f715127434bbf3e2e83fb8997317cbc36d039d4f435526f60cd55c"
+  },
+  {
+    "path": "/guides/general/handbrake-source-scan-versus-encode/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b03b9333e4a179cd9b7ce100d5f7f65c1d3038ac1d93f05cc3a8fc44c2728855"
+  },
+  {
+    "path": "/guides/general/ffmpeg-scene-change-threshold-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "4dbee47025e47cae613d11bf56942bda832d35859635670883ceb445fd7af5c9"
+  },
+  {
+    "path": "/guides/general/final-cut-native-convert-closed-captions-to-another-format/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "4d0562f7a6eaf7bef97d780de9b32adc2286ad8e3dd8ce45ea8098fd09cc756e"
+  },
+  {
+    "path": "/guides/general/ffmpeg-deband-detail-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "7f73712e0031af8512ca00a98ca7dc09934ff0486edb268d0b67a868ef438838"
+  },
+  {
+    "path": "/guides/general/ffmpeg-overlay-time-origin/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ed2d658a3c536a3c5d2d0e9d407cc03ff11a6594d383d3e3dfcbd21ffdd7a5cc"
+  },
+  {
+    "path": "/guides/general/premiere-export-in-out-scope/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "8ccaf691919423987d4d1bf85dd093b82048935cd10e0b107b12d182c8c69dae"
+  },
+  {
+    "path": "/guides/general/ffmpeg-temporal-denoise-trailing-edges/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5eb14a0e82bb6154a7616a1c5d840f666ed212d122e79c87382a6a7c2477f052"
+  },
+  {
+    "path": "/guides/general/ffmpeg-chroma-key-spill-review/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "7cc9f72372539ce79d07701c807044d7d2d79d65a87fbfe2e9fcb8e67038214d"
+  },
+  {
+    "path": "/guides/general/obs-media-source-close-reopen-state/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "5a1aa6f6c594c07dd043ee797c700276f0dc9aceebd7370a414ec8a8c1f06041"
+  },
+  {
+    "path": "/guides/general/premiere-linked-selection-edit-scope/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "b37ecfebc35315e7ab0339bd4f71e4d4d1c0719b215a7177b17139fdbe82a61f"
+  },
+  {
+    "path": "/guides/general/premiere-adjustment-layer-effect-scope/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "bbdfd35bc675d5ecfd1fda5eaba8e549c7b0eeb0b2a385ba117a42adcac7be4e"
+  },
+  {
+    "path": "/guides/general/premiere-ripple-vs-rolling-edit/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "601a5fe41185128e552c76d1ca3e21821950ddc5a0fc701ebd5cc6e9e7303a30"
+  },
+  {
+    "path": "/guides/general/premiere-nested-sequence-audio-handoff/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "395613b0d4837dab59e103cbd4aaacc786ecc00447934aa4968a33bd58acc12f"
+  },
+  {
+    "path": "/guides/general/final-cut-multichannel-component-mute/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "333f3148553c642e804a848eba048e442c343183d12e45ad004b369820b5a98e"
+  },
+  {
+    "path": "/guides/general/final-cut-three-point-edit-range/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "e5b63305a64a298f37c0dac6fd5cdefd839e37e891271c079181bd8c92641c60"
+  },
+  {
+    "path": "/guides/general/final-cut-match-audio-reference/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "c971b241585b03e32b357576939744632b8aa3c5737e0ef374e5c0feb84d26cf"
+  },
+  {
+    "path": "/guides/general/final-cut-distort-vs-transform-shape/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ee317535e25fa1ed2541bc6f83fcd710f32f62a1c9380321af279eb451f82013"
+  },
+  {
+    "path": "/guides/general/final-cut-wide-gamut-library-output/",
+    "quality": {
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    "digest": "ecfb48ca2c97c62abef4bb618502c881a1304846dfc8cc78b4b2a6dc447dcbd4"
+  }
+]

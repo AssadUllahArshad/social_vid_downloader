@@ -1,0 +1,191 @@
+{
+  "origin": "http://127.0.0.1:3000",
+  "verifiedAt": "2026-10-13T18:23:10.919Z",
+  "results": [
+    {
+      "operation": "converter",
+      "name": "Video Converter",
+      "route": "/video-converter/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "compressor",
+      "name": "Video Compressor",
+      "route": "/video-compressor/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "trimmer",
+      "name": "Video Trimmer",
+      "route": "/trim-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "splitter",
+      "name": "Video Splitter",
+      "route": "/split-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "merger",
+      "name": "Video Merger",
+      "route": "/merge-videos/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "video-to-gif",
+      "name": "Video to GIF",
+      "route": "/video-to-gif/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "gif-to-video",
+      "name": "GIF to Video",
+      "route": "/gif-to-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "thumbnail",
+      "name": "Thumbnail Extractor",
+      "route": "/video-thumbnail-extractor/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "thumbnail-grid",
+      "name": "Thumbnail Grid",
+      "route": "/thumbnail-grid-generator/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "mp3",
+      "name": "MP3 Audio Extractor",
+      "route": "/video-to-mp3/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "remove-audio",
+      "name": "Remove Audio",
+      "route": "/remove-audio-from-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "images",
+      "name": "Images to Video",
+      "route": "/images-to-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "image-watermark",
+      "name": "Image Watermark",
+      "route": "/add-image-watermark/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "text-watermark",
+      "name": "Text Watermark",
+      "route": "/add-text-watermark/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "burn-subtitles",
+      "name": "Burn Subtitles",
+      "route": "/burn-subtitles-into-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "extract-subtitles",
+      "name": "Extract Subtitles",
+      "route": "/extract-video-subtitles/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "information",
+      "name": "Video Information",
+      "route": "/video-metadata-viewer/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "filters",
+      "name": "Video Filters",
+      "route": "/video-filters/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "stabilizer",
+      "name": "Video Stabilizer",
+      "route": "/stabilize-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "trim-silence",
+      "name": "Trim Silence",
+      "route": "/remove-silence-from-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "storyboard",
+      "name": "Storyboard Creator",
+      "route": "/video-storyboard-generator/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "speed",
+      "name": "Change Video Speed",
+      "route": "/change-video-speed/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    }
+  ],
+  "evidence": {
+    "log": "video-tools-verification.log",
+    "playwrightStatus": {
+      "status": "passed",
+      "failedTests": []
+    },
+    "passed": 44,
+    "exporterCorrection": "Initial exporter only read the first project suite. All 44 real browser tests passed. Both project results recovered from their named execution entries and the zero-failure Playwright result; exporter now aggregates both suites and retains raw JSON."
+  }
+}

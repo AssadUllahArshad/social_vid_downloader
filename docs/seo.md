@@ -1,0 +1,9 @@
+# SEO and editorial policy
+
+One dominant URL per primary intent. Tool variants are mapped to the relevant tool page; no keyword-permutation doorway routes. Reviewed publication decisions live in `content/pages/publication.json`. The homepage, eight enabled tools, five supported-platform hubs, and About are indexable. Unsupported tools and WhatsApp hub, unfinished legal/contact pages, empty blog/guides, and admin remain noindex. Metadata and sitemap use the same reviewed inventory; the sitemap contains 15 canonical public pages. See `docs/indexability-repair.md` for the review and CMS/database boundary. No fake FAQ eligibility, ratings, dates, testimonials, authors, or unsupported application schema.
+
+The homepage uses WebSite schema; tools have visible-content-matching BreadcrumbList. All pages have canonical metadata. Future guide publication requires unique intent/title/description, useful answer-first content, legitimate author data, meaningful internal links, reference checks, accurate schema, and approval. Automated QA scores measure editorial completeness, not Google rankings. Split XML sitemaps by content family and paginate when published volume warrants it; no empty sitemap shards now. Draft pages must never enter a sitemap.
+
+Search Console setup: verify the real domain through DNS, submit /sitemap.xml, inspect canonical/index status of sample routes, and monitor Core Web Vitals. Real translations must use self-canonicals and reciprocal hreflang; no locale routes exist in this release. Parameter/search pages must stay noindex when introduced.
+
+The eventual CMS lifecycle is idea → keyword assigned → draft → review → approved → published → updated. Store created/published/updated/reviewed dates, but only change visible updated dates after meaningful edits. Operator contacts and legal text require review before launch.

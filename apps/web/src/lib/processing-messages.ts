@@ -1,0 +1,15 @@
+import m0 from "@/locales/processing/en.json";
+import m1 from "@/locales/processing/hi.json";
+import m2 from "@/locales/processing/ur.json";
+import m3 from "@/locales/processing/ar.json";
+import m4 from "@/locales/processing/bn.json";
+import m5 from "@/locales/processing/id.json";
+import m6 from "@/locales/processing/vi.json";
+import m7 from "@/locales/processing/th.json";
+import m8 from "@/locales/processing/pt-br.json";
+import m9 from "@/locales/processing/es.json";
+import m10 from "@/locales/processing/fr.json";
+import m11 from "@/locales/processing/de.json";
+import m12 from "@/locales/processing/tr.json";
+import type { Locale } from "./i18n";
+export const processingMessages: Record<Locale,Record<string,string>> = {"en":m0,"hi":m1,"ur":m2,"ar":m3,"bn":m4,"id":m5,"vi":m6,"th":m7,"pt-br":m8,"es":m9,"fr":m10,"de":m11,"tr":m12};

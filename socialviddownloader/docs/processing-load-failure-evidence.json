@@ -1,0 +1,232 @@
+{
+  "historicalRun": "2026-10-13T15:54:50Z",
+  "results": [
+    {
+      "operation": "converter",
+      "name": "Video Converter",
+      "route": "/video-converter/",
+      "status": "VERIFIED",
+      "filesize": 26670779,
+      "metadata": {
+        "duration": "126.293000",
+        "streams": [
+          {
+            "type": "video",
+            "codec": "h264"
+          },
+          {
+            "type": "audio",
+            "codec": "aac"
+          }
+        ]
+      }
+    },
+    {
+      "operation": "compressor",
+      "name": "Video Compressor",
+      "route": "/video-compressor/",
+      "status": "VERIFIED",
+      "filesize": 26670779,
+      "metadata": {
+        "duration": "126.293000",
+        "streams": [
+          {
+            "type": "video",
+            "codec": "h264"
+          },
+          {
+            "type": "audio",
+            "codec": "aac"
+          }
+        ]
+      }
+    },
+    {
+      "operation": "trimmer",
+      "name": "Video Trimmer",
+      "route": "/trim-video/",
+      "status": "VERIFIED",
+      "filesize": 26670787,
+      "metadata": {
+        "duration": "126.293000",
+        "streams": [
+          {
+            "type": "video",
+            "codec": "h264"
+          },
+          {
+            "type": "audio",
+            "codec": "aac"
+          }
+        ]
+      }
+    },
+    {
+      "operation": "splitter",
+      "name": "Video Splitter",
+      "route": "/split-video/",
+      "status": "ERROR",
+      "error": "job failed: {\"status\":\"error\",\"error\":{\"code\":\"processing_timeout\",\"message\":\"Processing took too long. Try a shorter file.\"}}"
+    },
+    {
+      "operation": "merger",
+      "name": "Video Merger",
+      "route": "/merge-videos/",
+      "status": "VERIFIED",
+      "filesize": 11038610,
+      "metadata": {
+        "duration": "126.300000",
+        "streams": [
+          {
+            "type": "video",
+            "codec": "h264"
+          },
+          {
+            "type": "audio",
+            "codec": "aac"
+          }
+        ]
+      }
+    },
+    {
+      "operation": "video-to-gif",
+      "name": "Video to GIF",
+      "route": "/video-to-gif/",
+      "status": "VERIFIED",
+      "filesize": 191630668,
+      "metadata": {
+        "duration": "126.300000",
+        "streams": [
+          {
+            "type": "video",
+            "codec": "gif"
+          }
+        ]
+      }
+    },
+    {
+      "operation": "gif-to-video",
+      "name": "GIF to Video",
+      "route": "/gif-to-video/",
+      "status": "ERROR",
+      "error": "fetch failed"
+    },
+    {
+      "operation": "thumbnail",
+      "name": "Thumbnail Extractor",
+      "route": "/video-thumbnail-extractor/",
+      "status": "ERROR",
+      "error": "job creation failed 503"
+    },
+    {
+      "operation": "thumbnail-grid",
+      "name": "Thumbnail Grid",
+      "route": "/thumbnail-grid-generator/",
+      "status": "ERROR",
+      "error": "job creation failed 503"
+    },
+    {
+      "operation": "mp3",
+      "name": "MP3 Audio Extractor",
+      "route": "/video-to-mp3/",
+      "status": "ERROR",
+      "error": "job creation failed 503"
+    },
+    {
+      "operation": "remove-audio",
+      "name": "Remove Audio",
+      "route": "/remove-audio-from-video/",
+      "status": "ERROR",
+      "error": "job creation failed 503"
+    },
+    {
+      "operation": "images",
+      "name": "Images to Video",
+      "route": "/images-to-video/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "image-watermark",
+      "name": "Image Watermark",
+      "route": "/add-image-watermark/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "text-watermark",
+      "name": "Text Watermark",
+      "route": "/add-text-watermark/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "burn-subtitles",
+      "name": "Burn Subtitles",
+      "route": "/burn-subtitles-into-video/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "extract-subtitles",
+      "name": "Extract Subtitles",
+      "route": "/extract-video-subtitles/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "information",
+      "name": "Video Information",
+      "route": "/video-metadata-viewer/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "filters",
+      "name": "Video Filters",
+      "route": "/video-filters/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "stabilizer",
+      "name": "Video Stabilizer",
+      "route": "/stabilize-video/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "trim-silence",
+      "name": "Trim Silence",
+      "route": "/remove-silence-from-video/",
+      "status": "ERROR",
+      "error": "upload failed 503"
+    },
+    {
+      "operation": "storyboard",
+      "name": "Storyboard Creator",
+      "route": "/video-storyboard-generator/",
+      "status": "ERROR",
+      "error": "upload failed 429"
+    },
+    {
+      "operation": "speed",
+      "name": "Change Video Speed",
+      "route": "/change-video-speed/",
+      "status": "ERROR",
+      "error": "upload failed 429"
+    }
+  ],
+  "httpFailures": {
+    "503": 16,
+    "429": 2
+  },
+  "retainedMediaBytesAtInvestigation": 790898637,
+  "findings": [
+    "Old script submitted the same full trailer to all operations without auxiliary files or settings; its VERIFIED flags do not establish each operation-specific behavior.",
+    "Upload/job 503 bodies were discarded by the old script. Retained storage plus reservations exceeded the configured 1 GiB budget; capacity attribution is supported by disk usage and admission code, not recovered historical response bodies.",
+    "Two final rapid upload retries received 429 from the processing write-rate guard.",
+    "Current frontend initially returned service_unavailable because no API was listening; restart restored service.",
+    "Full-length default splitter returned processing_timeout under the unchanged processing budget. New operation-specific real-footage output verification is separate."
+  ]
+}

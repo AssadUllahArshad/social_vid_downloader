@@ -1,0 +1,21 @@
+import {test,expect} from '@playwright/test';
+import {execFileSync} from 'node:child_process';
+import {statSync} from 'node:fs';
+test.skip(!process.env.PROCESSING_TRAILER_INPUT,'Explicit authorized realistic input required.');
+for(const operation of ['remove-audio','compressor'])test(`realistic full-length ${operation}`,async({page},info)=>{
+ test.setTimeout(240000);
+ await page.goto(operation==='remove-audio'?'/remove-audio-from-video/':'/video-compressor/');
+ await expect(page.locator('.processing-card fieldset')).toBeEnabled();
+ await page.locator('input[type=file]').setInputFiles(process.env.PROCESSING_TRAILER_INPUT!);
+ await page.getByRole('button',{name:'Process files',exact:true}).click();
+ const link=page.getByRole('link',{name:'Save file',exact:true});
+ await expect(link).toBeVisible({timeout:210000});
+ const pending=page.waitForEvent('download');await link.click();const download=await pending;const file=await download.path();
+ expect(statSync(file!).size).toBeGreaterThan(0);
+ const probe=JSON.parse(execFileSync('ffprobe',['-v','error','-show_streams','-show_format','-of','json',file!],{encoding:'utf8'}));
+ expect(Number(probe.format.duration)).toBeCloseTo(126.293,0);
+ expect(probe.streams.some((s:{codec_type:string})=>s.codec_type==='audio')).toBe(operation!=='remove-audio');
+ execFileSync('ffmpeg',['-v','error','-i',file!,'-f','null','-'],{timeout:120000});
+ await page.screenshot({path:info.outputPath('realistic-output.png'),fullPage:true});
+ await info.attach('verified-output',{body:JSON.stringify({operation,inputBytes:statSync(process.env.PROCESSING_TRAILER_INPUT!).size,outputBytes:statSync(file!).size,duration:probe.format.duration,streams:probe.streams.map((s:{codec_type:string;codec_name:string})=>({type:s.codec_type,codec:s.codec_name}))}),contentType:'application/json'});
+});

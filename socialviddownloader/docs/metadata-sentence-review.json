@@ -1,0 +1,731 @@
+{
+  "date": "2026-10-08",
+  "method": "Reviewed complete answer sentences replace word-truncated drafting-helper descriptions; unchanged manually authored descriptions retained.",
+  "changes": [
+    {
+      "path": "/guides/youtube/youtube-shorts-copy-direct-link/",
+      "before": "Use the individual Short’s share link, then check that it identifies a /shorts/ video rather than a channel or playlist. The Shorts tool has a specific content-type check; a.",
+      "after": "Use the individual Short’s share link, then check that it identifies a /shorts/ video rather than a channel or playlist."
+    },
+    {
+      "path": "/guides/instagram/instagram-video-copy-direct-link/",
+      "before": "For an Instagram video post, copy the specific /p/ post link and inspect whether it contains a usable video. A profile address does not identify one post, and a syntactically.",
+      "after": "For an Instagram video post, copy the specific /p/ post link and inspect whether it contains a usable video."
+    },
+    {
+      "path": "/guides/instagram/instagram-reels-copy-direct-link/",
+      "before": "Copy the link to one Reel and use its /reel/ or /reels/ route. A profile, feed or ordinary post page has a different role. The dedicated Reels tool checks content type and.",
+      "after": "Copy the link to one Reel and use its /reel/ or /reels/ route. A profile, feed or ordinary post page has a different role."
+    },
+    {
+      "path": "/guides/facebook/facebook-video-copy-direct-link/",
+      "before": "Use a Facebook link that identifies one video, such as a watch URL with a video parameter, a supported videos path, or an official share redirect. A profile or group page is.",
+      "after": "Use a Facebook link that identifies one video, such as a watch URL with a video parameter, a supported videos path, or an official share redirect."
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-copy-direct-link/",
+      "before": "TikTok accepts individual creator-video URLs and official short share links, but a profile or feed is not a single clip. In this project the provider remains beta. A link.",
+      "after": "TikTok accepts individual creator-video URLs and official short share links, but a profile or feed is not a single clip."
+    },
+    {
+      "path": "/guides/snapchat/snapchat-spotlight-copy-direct-link/",
+      "before": "The Snapchat tool supports public Spotlight clips in beta. Use a /spotlight/ media link or an official share that genuinely resolves to Spotlight. A Story, profile or.",
+      "after": "The Snapchat tool supports public Spotlight clips in beta. Use a /spotlight/ media link or an official share that genuinely resolves to Spotlight."
+    },
+    {
+      "path": "/guides/general/android-downloads-folder/",
+      "before": "Check your browser’s completed downloads and then your device’s Files app. A saved video does not have to appear in Gallery to be present. Android file managers and media.",
+      "after": "Check your browser’s completed downloads and then your device’s Files app."
+    },
+    {
+      "path": "/guides/general/windows-downloads-folder/",
+      "before": "Use the browser’s completed-download entry to identify the saved path, then open that location in File Explorer. Downloads is a common destination, but a custom browser.",
+      "after": "Use the browser’s completed-download entry to identify the saved path, then open that location in File Explorer."
+    },
+    {
+      "path": "/guides/general/mac-downloads-folder/",
+      "before": "Follow the completed browser download into Finder and verify the local file there. Safari’s download list describes a transfer; Finder describes the retained object and its.",
+      "after": "Follow the completed browser download into Finder and verify the local file there."
+    },
+    {
+      "path": "/guides/general/chromebook-local-files/",
+      "before": "Open the Chromebook Files app and check the actual storage location selected for the download. My files and Google Drive serve different storage roles. A completed local file.",
+      "after": "Open the Chromebook Files app and check the actual storage location selected for the download."
+    },
+    {
+      "path": "/guides/general/icloud-drive-vs-local-storage/",
+      "before": "A video listed in iCloud Drive can be different from a file whose bytes are retained locally. Locate the completed download, identify whether its folder is local or.",
+      "after": "A video listed in iCloud Drive can be different from a file whose bytes are retained locally."
+    },
+    {
+      "path": "/guides/general/windows-cloud-vs-local-file/",
+      "before": "Check OneDrive’s file availability state before treating a visible Windows video as an offline copy. Files On-Demand can show an object whose bytes are still online. Obtain.",
+      "after": "Check OneDrive’s file availability state before treating a visible Windows video as an offline copy."
+    },
+    {
+      "path": "/guides/general/copy-video-to-usb/",
+      "before": "Finish and verify the local download before copying it to USB storage. A successful copy creates another media file; it does not convert its container or codecs for a.",
+      "after": "Finish and verify the local download before copying it to USB storage."
+    },
+    {
+      "path": "/guides/general/storage-space-check/",
+      "before": "Check the selected destination’s free space when a browser cannot retain a completed video. That is different from the service rejecting a source for its file-size budget. A.",
+      "after": "Check the selected destination’s free space when a browser cannot retain a completed video."
+    },
+    {
+      "path": "/guides/general/chrome-download-history/",
+      "before": "Open Chrome's Downloads list to distinguish a finished transfer from a failed one, then reveal the completed file in its folder. A thumbnail on the downloader page does not.",
+      "after": "Open Chrome's Downloads list to distinguish a finished transfer from a failed one, then reveal the completed file in its folder."
+    },
+    {
+      "path": "/guides/general/firefox-download-history/",
+      "before": "Firefox's Downloads panel and download history help you locate a saved video or identify an interrupted transfer. Inspect the matching entry and its location before.",
+      "after": "Firefox's Downloads panel and download history help you locate a saved video or identify an interrupted transfer."
+    },
+    {
+      "path": "/guides/general/edge-download-history/",
+      "before": "Use Microsoft Edge's Downloads view to check whether a video transfer finished and to locate its saved copy. If the folder differs from your expectation, inspect Edge's.",
+      "after": "Use Microsoft Edge's Downloads view to check whether a video transfer finished and to locate its saved copy."
+    },
+    {
+      "path": "/guides/general/safari-download-history/",
+      "before": "Safari can display a video in a tab or save it as a file. Check its downloads view and the destination in Finder or Files to tell which happened. The controls differ between.",
+      "after": "Safari can display a video in a tab or save it as a file. Check its downloads view and the destination in Finder or Files to tell which happened."
+    },
+    {
+      "path": "/guides/general/in-app-browser-vs-external-browser/",
+      "before": "An in-app browser may have different file and navigation controls from your regular browser. If a save action disappears or returns to the social app, open the downloader.",
+      "after": "An in-app browser may have different file and navigation controls from your regular browser."
+    },
+    {
+      "path": "/guides/general/safe-browser-download-warning/",
+      "before": "Read the exact warning before trying another download. A malware warning, an insecure-transfer restriction, and an interrupted connection are different problems. Keep.",
+      "after": "Read the exact warning before trying another download. A malware warning, an insecure-transfer restriction, and an interrupted connection are different problems."
+    },
+    {
+      "path": "/guides/general/downloaded-file-has-no-sound/",
+      "before": "First check player volume, the selected audio track, and whether the saved file contains audio at all. A video-only source format cannot play sound until a compatible audio.",
+      "after": "First check player volume, the selected audio track, and whether the saved file contains audio at all."
+    },
+    {
+      "path": "/guides/general/video-will-not-open/",
+      "before": "Check whether the transfer completed before changing formats. A complete file may still use a container or codec that your player cannot handle. Confirm the actual media.",
+      "after": "Check whether the transfer completed before changing formats. A complete file may still use a container or codec that your player cannot handle."
+    },
+    {
+      "path": "/guides/general/zero-byte-download/",
+      "before": "A zero-byte file contains no usable video data. Do not treat its filename as proof of a successful download. Check the browser's transfer status, available storage, and.",
+      "after": "A zero-byte file contains no usable video data. Do not treat its filename as proof of a successful download."
+    },
+    {
+      "path": "/guides/general/incomplete-video-file/",
+      "before": "An incomplete transfer can play its opening section yet fail later. Check the browser's completion state, local duration, and playback near the end. If data is missing.",
+      "after": "An incomplete transfer can play its opening section yet fail later."
+    },
+    {
+      "path": "/guides/general/video-freezes-during-playback/",
+      "before": "Test the same saved file at the same position in a compatible player. Freezing can come from an incomplete file, difficult decoding, slow storage, or the recording itself.",
+      "after": "Test the same saved file at the same position in a compatible player."
+    },
+    {
+      "path": "/guides/general/audio-out-of-sync/",
+      "before": "Compare the source and local file at several timestamps. A constant audio offset, steadily increasing drift, and occasional playback stutter suggest different causes. Check a.",
+      "after": "Compare the source and local file at several timestamps. A constant audio offset, steadily increasing drift, and occasional playback stutter suggest different causes."
+    },
+    {
+      "path": "/guides/general/downloaded-file-is-html/",
+      "before": "An HTML file is a web document, not a video container. You may have saved the page, a login screen, or an error response instead of media. Check the actual filename and.",
+      "after": "An HTML file is a web document, not a video container. You may have saved the page, a login screen, or an error response instead of media."
+    },
+    {
+      "path": "/guides/general/multiple-audio-track-player/",
+      "before": "Use a player's audio-track selector to switch between streams that are actually inside the saved file. A language label in the source player does not prove that every.",
+      "after": "Use a player's audio-track selector to switch between streams that are actually inside the saved file."
+    },
+    {
+      "path": "/guides/general/av1-video-codec/",
+      "before": "AV1 describes video compression, not a resolution or a guarantee that every device can play the file. An available AV1 stream can preserve source quality efficiently, but.",
+      "after": "AV1 describes video compression, not a resolution or a guarantee that every device can play the file."
+    },
+    {
+      "path": "/guides/general/vp9-video-codec/",
+      "before": "VP9 is a video codec often encountered in WebM media; WebM is the container around the streams. Check your player's support for both, plus the audio codec. A VP9 option can.",
+      "after": "VP9 is a video codec often encountered in WebM media; WebM is the container around the streams."
+    },
+    {
+      "path": "/guides/general/video-bitrate/",
+      "before": "Video bitrate measures encoded video data per second. Higher bitrate can increase file size, but it does not by itself establish sharper pictures. Codec, source detail.",
+      "after": "Video bitrate measures encoded video data per second. Higher bitrate can increase file size, but it does not by itself establish sharper pictures."
+    },
+    {
+      "path": "/guides/general/audio-bitrate/",
+      "before": "Audio bitrate is the encoded data rate of an audio stream. Compare it alongside codec, channels, duration, and source quality. A larger number does not guarantee better sound.",
+      "after": "Audio bitrate is the encoded data rate of an audio stream. Compare it alongside codec, channels, duration, and source quality."
+    },
+    {
+      "path": "/guides/general/frame-rate-vs-resolution/",
+      "before": "Resolution describes pixel dimensions; frame rate describes how often images are presented. They solve different viewing needs. More pixels do not automatically mean smoother.",
+      "after": "Resolution describes pixel dimensions; frame rate describes how often images are presented."
+    },
+    {
+      "path": "/guides/general/muxing-vs-transcoding/",
+      "before": "Muxing packages encoded streams into a container; transcoding decodes and re-encodes media. Merging separate source video and audio can use muxing without improving or.",
+      "after": "Muxing packages encoded streams into a container; transcoding decodes and re-encodes media."
+    },
+    {
+      "path": "/guides/general/audio-sample-rate/",
+      "before": "Sample rate describes the number of audio samples represented per second. It differs from encoded bitrate, channel count, and the number of language tracks. A higher.",
+      "after": "Sample rate describes the number of audio samples represented per second."
+    },
+    {
+      "path": "/guides/general/drm-access-boundary/",
+      "before": "A public-looking URL does not guarantee that its media is available to this downloader. Login requirements, private permissions, regional restrictions, and DRM can prevent.",
+      "after": "A public-looking URL does not guarantee that its media is available to this downloader."
+    },
+    {
+      "path": "/guides/general/source-audio-language-selection/",
+      "before": "Choose an audio language only when analysis returns a corresponding source stream. A translated title, subtitle option, or browser language preference does not establish that.",
+      "after": "Choose an audio language only when analysis returns a corresponding source stream."
+    },
+    {
+      "path": "/guides/general/descriptive-audio/",
+      "before": "Audio description adds spoken information about visual action or other important visual details. It is not simply another language or a stereo channel. If a source exposes a.",
+      "after": "Audio description adds spoken information about visual action or other important visual details."
+    },
+    {
+      "path": "/guides/general/dubbed-source-audio/",
+      "before": "A source-provided dub is already attached to the source media. Downloading that available stream retrieves a recording; it does not mean SocialVidDownloader generated a.",
+      "after": "A source-provided dub is already attached to the source media. Downloading that available stream retrieves a recording; it does not mean SocialVidDownloader generated a translation."
+    },
+    {
+      "path": "/guides/general/does-4k-upscale-improve-detail/",
+      "before": "Upscaling increases output pixel dimensions without recovering scene detail absent from the source. An authentic source-provided 4K stream is different from enlarging a.",
+      "after": "Upscaling increases output pixel dimensions without recovering scene detail absent from the source."
+    },
+    {
+      "path": "/guides/general/mp4-vs-webm/",
+      "before": "MP4 and WebM are containers, so compare the actual video and audio codecs as well as the extension. Choose a genuine source output that works in the receiving player or.",
+      "after": "MP4 and WebM are containers, so compare the actual video and audio codecs as well as the extension."
+    },
+    {
+      "path": "/guides/general/mp4-vs-mkv/",
+      "before": "MP4 and MKV package streams differently, but neither extension alone guarantees compatibility or quality. MKV can be useful for retaining varied streams; MP4 can suit a.",
+      "after": "MP4 and MKV package streams differently, but neither extension alone guarantees compatibility or quality."
+    },
+    {
+      "path": "/guides/general/aac-vs-opus/",
+      "before": "AAC and Opus are audio codecs. Compare them within the actual container, channel layout, and receiving player's support. A bitrate number alone does not identify the better.",
+      "after": "AAC and Opus are audio codecs. Compare them within the actual container, channel layout, and receiving player's support."
+    },
+    {
+      "path": "/guides/general/permissioned-video-archive/",
+      "before": "Archive only recordings you own or are authorized to retain, and keep source context beside the actual local files. A public link or attribution line alone does not establish.",
+      "after": "Archive only recordings you own or are authorized to retain, and keep source context beside the actual local files."
+    },
+    {
+      "path": "/guides/general/organize-language-track-copies/",
+      "before": "Name language copies according to the recordings you verified, and keep a note of which source streams each file contains. A translated title or default flag is not enough to.",
+      "after": "Name language copies according to the recordings you verified, and keep a note of which source streams each file contains."
+    },
+    {
+      "path": "/guides/general/source-changes-after-analysis/",
+      "before": "Analysis is a snapshot of source availability, not a permanent reservation of streams. A creator can change access, remove media, or publish different versions, and temporary.",
+      "after": "Analysis is a snapshot of source availability, not a permanent reservation of streams."
+    },
+    {
+      "path": "/guides/youtube/youtube-video-temporary-provider-failure/",
+      "before": "A failed YouTube download can reflect the wrong media link, unavailable content, changing source extraction, or an expired preparation session. Identify whether failure.",
+      "after": "A failed YouTube download can reflect the wrong media link, unavailable content, changing source extraction, or an expired preparation session."
+    },
+    {
+      "path": "/guides/instagram/instagram-video-temporary-provider-failure/",
+      "before": "An Instagram post playing in your account does not guarantee that a public downloader can retrieve its media. Confirm a direct supported post or Reel URL, then distinguish.",
+      "after": "An Instagram post playing in your account does not guarantee that a public downloader can retrieve its media."
+    },
+    {
+      "path": "/guides/facebook/facebook-video-temporary-provider-failure/",
+      "before": "Facebook viewing permissions and public extraction are different access contexts. Start with the individual Video or Reel link and inspect whether analysis, preparation, or.",
+      "after": "Facebook viewing permissions and public extraction are different access contexts."
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-temporary-provider-failure/",
+      "before": "TikTok processing is Beta and can fail even for a valid public video. Confirm the individual clip, then distinguish link resolution, extraction, preparation, and browser.",
+      "after": "TikTok processing is Beta and can fail even for a valid public video."
+    },
+    {
+      "path": "/guides/snapchat/snapchat-spotlight-temporary-provider-failure/",
+      "before": "Snapchat Spotlight downloading is Beta/experimental and depends on the individual public clip remaining accessible. Confirm a Spotlight link before troubleshooting. Snapchat.",
+      "after": "Snapchat Spotlight downloading is Beta/experimental and depends on the individual public clip remaining accessible."
+    },
+    {
+      "path": "/guides/general/captions-vs-subtitles/",
+      "before": "Choose text by the information your audience needs, not only by the label in a player menu. Captions normally convey speech plus meaningful non-speech sound; dialogue.",
+      "after": "Choose text by the information your audience needs, not only by the label in a player menu."
+    },
+    {
+      "path": "/guides/general/srt-vs-webvtt/",
+      "before": "Choose SRT or WebVTT according to the receiving player or publishing workflow. Both can represent timed text, but their syntax and supported presentation differ. Renaming one.",
+      "after": "Choose SRT or WebVTT according to the receiving player or publishing workflow."
+    },
+    {
+      "path": "/guides/general/caption-sidecar-not-showing/",
+      "before": "Check that the local player has loaded and enabled the correct caption file for the exact video. A sidecar sitting nearby is not necessarily selected automatically. Format.",
+      "after": "Check that the local player has loaded and enabled the correct caption file for the exact video."
+    },
+    {
+      "path": "/guides/general/caption-timing-offset/",
+      "before": "Check caption timing at the beginning, middle, and end before applying a delay. A roughly constant shift differs from growing drift or a mismatch after an edit. Verify that.",
+      "after": "Check caption timing at the beginning, middle, and end before applying a delay."
+    },
+    {
+      "path": "/guides/general/caption-character-encoding/",
+      "before": "Readable timing with broken letters can indicate that caption bytes were interpreted using the wrong character encoding. Preserve the original, compare the text in a trusted.",
+      "after": "Readable timing with broken letters can indicate that caption bytes were interpreted using the wrong character encoding."
+    },
+    {
+      "path": "/guides/general/downloaded-video-without-captions/",
+      "before": "The source player can draw captions from a separate text resource that is not inside the video stream. A downloaded video can therefore preserve pictures and sound while.",
+      "after": "The source player can draw captions from a separate text resource that is not inside the video stream."
+    },
+    {
+      "path": "/guides/general/automatic-caption-review/",
+      "before": "Treat automatic captions as draft text that needs checking against the recording. Review names, numbers, negations, speaker changes, and meaningful sounds before relying on.",
+      "after": "Treat automatic captions as draft text that needs checking against the recording."
+    },
+    {
+      "path": "/guides/general/hdr-vs-sdr-video/",
+      "before": "Choose HDR when the actual source offers it and your intended player, operating system, connection and display can present it correctly. Choose a genuine SDR option when.",
+      "after": "Choose HDR when the actual source offers it and your intended player, operating system, connection and display can present it correctly."
+    },
+    {
+      "path": "/guides/general/hdr-video-washed-out/",
+      "before": "When a completed video plays but looks pale, flat or unexpectedly dark, preserve the original and compare its color interpretation across a known compatible player and.",
+      "after": "When a completed video plays but looks pale, flat or unexpectedly dark, preserve the original and compare its color interpretation across a known compatible player and display."
+    },
+    {
+      "path": "/guides/general/video-color-range/",
+      "before": "Full and limited range describe how numerical sample values map to the intended picture levels. They are not quality rankings. If one range is interpreted as the other.",
+      "after": "Full and limited range describe how numerical sample values map to the intended picture levels."
+    },
+    {
+      "path": "/guides/general/video-color-depth/",
+      "before": "Bit depth describes how many numerical levels can represent a sample, not how many pixels a video contains. A 10-bit representation can describe finer changes than 8-bit, but.",
+      "after": "Bit depth describes how many numerical levels can represent a sample, not how many pixels a video contains."
+    },
+    {
+      "path": "/guides/general/video-aspect-ratio/",
+      "before": "Aspect ratio describes a picture's shape; resolution describes its stored pixel dimensions. A larger file can still be displayed with the wrong proportions. When people look.",
+      "after": "Aspect ratio describes a picture's shape; resolution describes its stored pixel dimensions."
+    },
+    {
+      "path": "/guides/general/video-pixel-aspect-ratio/",
+      "before": "Stored width divided by height describes the frame grid, but it describes the displayed picture only when pixels are square and no other display transform applies. Non-square.",
+      "after": "Stored width divided by height describes the frame grid, but it describes the displayed picture only when pixels are square and no other display transform applies."
+    },
+    {
+      "path": "/guides/general/interlaced-vs-progressive/",
+      "before": "Interlaced video represents motion using alternating fields; progressive video represents complete frames. If moving edges show horizontal comb-like teeth, inspect scan.",
+      "after": "Interlaced video represents motion using alternating fields; progressive video represents complete frames."
+    },
+    {
+      "path": "/guides/general/variable-frame-rate-editor-drift/",
+      "before": "When a completed file stays synchronized in a player but gradually drifts in an editor, investigate frame timestamps and the editor's interpretation before blaming the.",
+      "after": "When a completed file stays synchronized in a player but gradually drifts in an editor, investigate frame timestamps and the editor's interpretation before blaming the transfer."
+    },
+    {
+      "path": "/guides/general/keyframes-and-seeking/",
+      "before": "A compressed video does not necessarily let you start decoding at any arbitrary picture. Random-access points help a player reconstruct the following pictures, which is why.",
+      "after": "A compressed video does not necessarily let you start decoding at any arbitrary picture."
+    },
+    {
+      "path": "/guides/general/codec-profile-and-level/",
+      "before": "Two files labeled with the same codec can have different compatibility requirements. Profiles identify sets of coding capabilities; levels constrain aspects of an encoding's.",
+      "after": "Two files labeled with the same codec can have different compatibility requirements."
+    },
+    {
+      "path": "/guides/general/hardware-vs-software-decoding/",
+      "before": "If a completed video freezes, drops pictures or behaves differently between players, compare decoding paths using the same local file. Hardware decoding uses dedicated device.",
+      "after": "If a completed video freezes, drops pictures or behaves differently between players, compare decoding paths using the same local file."
+    },
+    {
+      "path": "/guides/general/lossy-vs-lossless-media/",
+      "before": "An exact copy can faithfully preserve a video that was already encoded lossily. That is different from a lossless recording of the original scene. When keeping an authorized.",
+      "after": "An exact copy can faithfully preserve a video that was already encoded lossily."
+    },
+    {
+      "path": "/guides/general/mp4-vs-mov/",
+      "before": "Choose a file that the receiving editor accepts with its actual video and audio encodings. MP4 and MOV describe containers, not automatic quality levels. A MOV requirement.",
+      "after": "Choose a file that the receiving editor accepts with its actual video and audio encodings."
+    },
+    {
+      "path": "/guides/general/m4a-vs-aac/",
+      "before": "M4A commonly names an audio-oriented MP4 container, while AAC names an audio compression family. They are not competing quality settings. An M4A file can carry AAC, and an.",
+      "after": "M4A commonly names an audio-oriented MP4 container, while AAC names an audio compression family."
+    },
+    {
+      "path": "/guides/general/audio-channel-downmix/",
+      "before": "If music and effects play but dialogue is unexpectedly quiet or absent, check the selected stream and its spatial channel layout. A multichannel track needs an appropriate.",
+      "after": "If music and effects play but dialogue is unexpectedly quiet or absent, check the selected stream and its spatial channel layout."
+    },
+    {
+      "path": "/guides/general/audio-clipping/",
+      "before": "Harsh or crackling sound can originate in the recording, later processing, or the local output path. Preserve the completed file and compare a recognizable passage at a.",
+      "after": "Harsh or crackling sound can originate in the recording, later processing, or the local output path."
+    },
+    {
+      "path": "/guides/general/audio-loudness-vs-peak/",
+      "before": "Peak level measures brief signal extremes; program loudness describes level over a listening interval using a defined measurement method. Two recordings can have similar.",
+      "after": "Peak level measures brief signal extremes; program loudness describes level over a listening interval using a defined measurement method."
+    },
+    {
+      "path": "/guides/general/mono-vs-stereo-dialogue/",
+      "before": "Mono and stereo describe spatial audio channels, not the number of spoken languages. A clear mono interview can be entirely suitable for listening, while stereo can preserve.",
+      "after": "Mono and stereo describe spatial audio channels, not the number of spoken languages."
+    },
+    {
+      "path": "/guides/general/hls-vs-dash/",
+      "before": "HLS and MPEG-DASH organize streamed media using a manifest and media resources, often with multiple quality or language choices. A saved playlist or MPD document is not.",
+      "after": "HLS and MPEG-DASH organize streamed media using a manifest and media resources, often with multiple quality or language choices."
+    },
+    {
+      "path": "/guides/general/video-page-vs-cdn-url/",
+      "before": "Use the individual supported source page to identify the video you are authorized to process. A CDN media address can identify a temporary delivery resource instead of the.",
+      "after": "Use the individual supported source page to identify the video you are authorized to process."
+    },
+    {
+      "path": "/guides/general/http-403-vs-404/",
+      "before": "A 403 response indicates that the responding server refused the request; a 404 indicates that it did not provide the requested resource as found. Neither code alone proves a.",
+      "after": "A 403 response indicates that the responding server refused the request; a 404 indicates that it did not provide the requested resource as found."
+    },
+    {
+      "path": "/guides/general/http-429-rate-limits/",
+      "before": "HTTP 429 means the responding service reports too many requests under its policy. Identify whether the response came from SocialVidDownloader or the source provider, and.",
+      "after": "HTTP 429 means the responding service reports too many requests under its policy."
+    },
+    {
+      "path": "/guides/general/media-mime-type/",
+      "before": "A Content-Type header declares what a response is intended to contain; a filename extension suggests how a file is named. Neither alone verifies the actual payload. If a.",
+      "after": "A Content-Type header declares what a response is intended to contain; a filename extension suggests how a file is named."
+    },
+    {
+      "path": "/guides/general/content-disposition-filename/",
+      "before": "The final saved filename can differ from the source title because a server suggests a name and the browser or operating system applies its own rules. Duplicate suffixes and.",
+      "after": "The final saved filename can differ from the source title because a server suggests a name and the browser or operating system applies its own rules."
+    },
+    {
+      "path": "/guides/general/byte-range-playback/",
+      "before": "A remote player can request selected byte ranges instead of retrieving an entire resource at once. That delivery behavior can affect seeking without proving that a complete.",
+      "after": "A remote player can request selected byte ranges instead of retrieving an entire resource at once."
+    },
+    {
+      "path": "/guides/general/thumbnail-vs-video-frame/",
+      "before": "A thumbnail helps recognize a source item, but it is not proof of the saved video's contents, sharpness or complete duration. It may be a selected frame or a separately.",
+      "after": "A thumbnail helps recognize a source item, but it is not proof of the saved video's contents, sharpness or complete duration."
+    },
+    {
+      "path": "/guides/general/multiple-downloads-browser-permission/",
+      "before": "A multiple-download permission controls whether a site can initiate more than one automatic file transfer under the browser's rules. It is separate from permission to access.",
+      "after": "A multiple-download permission controls whether a site can initiate more than one automatic file transfer under the browser's rules."
+    },
+    {
+      "path": "/guides/general/samsung-internet-download-location/",
+      "before": "Use Samsung Internet's download record to identify the transfer, then check the actual file through Samsung's My Files app. A visible video in a web page or a Gallery.",
+      "after": "Use Samsung Internet's download record to identify the transfer, then check the actual file through Samsung's My Files app."
+    },
+    {
+      "path": "/guides/general/brave-download-history/",
+      "before": "Check Brave's download record and the destination file separately. A recorded transfer does not guarantee that its file remains present after a move or deletion, and clearing.",
+      "after": "Check Brave's download record and the destination file separately."
+    },
+    {
+      "path": "/guides/general/linux-video-download-location/",
+      "before": "Check the destination selected by the browser, then use your desktop's file manager to inspect the actual copy. Many Linux setups provide a Downloads folder, but names.",
+      "after": "Check the destination selected by the browser, then use your desktop's file manager to inspect the actual copy."
+    },
+    {
+      "path": "/guides/general/phone-to-computer-video-transfer/",
+      "before": "Transfer the actual completed local file through a method supported by both devices, then verify the received media before removing the phone copy. A shared source link or.",
+      "after": "Transfer the actual completed local file through a method supported by both devices, then verify the received media before removing the phone copy."
+    },
+    {
+      "path": "/guides/general/android-usb-file-transfer/",
+      "before": "A phone charging over USB does not establish a working file-transfer connection. Unlock the Android device, use a data-capable connection and select the supported.",
+      "after": "A phone charging over USB does not establish a working file-transfer connection."
+    },
+    {
+      "path": "/guides/general/iphone-mac-video-transfer/",
+      "before": "For a completed video stored in iPhone Files, select the actual file and use an appropriate supported sharing path to the Mac. AirDrop is one nearby-device option; Finder.",
+      "after": "For a completed video stored in iPhone Files, select the actual file and use an appropriate supported sharing path to the Mac."
+    },
+    {
+      "path": "/guides/general/quicktime-file-compatibility/",
+      "before": "If a completed video does not open in QuickTime Player, check its actual media format and the installed Apple workflow before assuming the file is missing or corrupt. A.",
+      "after": "If a completed video does not open in QuickTime Player, check its actual media format and the installed Apple workflow before assuming the file is missing or corrupt."
+    },
+    {
+      "path": "/guides/general/editor-import-no-audio/",
+      "before": "If the same completed video has audible sound in a local player but none after editor import, investigate the editor's stream selection, channel mapping and timeline routing.",
+      "after": "If the same completed video has audible sound in a local player but none after editor import, investigate the editor's stream selection, channel mapping and timeline routing first."
+    },
+    {
+      "path": "/guides/general/video-editing-proxy/",
+      "before": "An editing proxy is a separate working representation used to make a project easier to handle. It should remain associated with its retained source so the intended final.",
+      "after": "An editing proxy is a separate working representation used to make a project easier to handle."
+    },
+    {
+      "path": "/guides/general/archive-checksums/",
+      "before": "Compare the source and destination with the same cryptographic checksum algorithm when you need evidence that a copy preserved the same bytes. Matching digests strongly.",
+      "after": "Compare the source and destination with the same cryptographic checksum algorithm when you need evidence that a copy preserved the same bytes."
+    },
+    {
+      "path": "/guides/general/archive-manifest/",
+      "before": "Keep a small record that connects each retained video to its source, known permission, selected representation and later derivatives. A manifest preserves context that a.",
+      "after": "Keep a small record that connects each retained video to its source, known permission, selected representation and later derivatives."
+    },
+    {
+      "path": "/guides/general/video-backup-restore-test/",
+      "before": "A backup is useful only if the required file and context can be recovered. Test restoration into a separate destination without deleting your working source, then verify the.",
+      "after": "A backup is useful only if the required file and context can be recovered."
+    },
+    {
+      "path": "/guides/general/cloud-sync-vs-backup/",
+      "before": "Synchronization keeps locations aligned; a backup policy provides recoverable copies or versions for a defined need. A synchronized video can be convenient without.",
+      "after": "Synchronization keeps locations aligned; a backup policy provides recoverable copies or versions for a defined need."
+    },
+    {
+      "path": "/guides/general/archive-source-vs-edit/",
+      "before": "Retain an authorized source representation separately from trims, captioned edits and converted delivery copies. A derivative can be useful without replacing the evidence of.",
+      "after": "Retain an authorized source representation separately from trims, captioned edits and converted delivery copies."
+    },
+    {
+      "path": "/guides/general/public-url-vs-permission/",
+      "before": "A public video URL establishes an access observation, not a complete license for copying, editing or redistribution. Check the actual rights or permission evidence for your.",
+      "after": "A public video URL establishes an access observation, not a complete license for copying, editing or redistribution."
+    },
+    {
+      "path": "/guides/general/video-permission-request/",
+      "before": "Ask for the specific use you intend, identifying the exact recording, audience, edits and distribution path. A clear request is more useful than asking whether you can use a.",
+      "after": "Ask for the specific use you intend, identifying the exact recording, audience, edits and distribution path."
+    },
+    {
+      "path": "/guides/general/video-file-location-privacy/",
+      "before": "A local filename, folder path or screenshot can reveal personal or project context even when the media itself is harmless to share. Use meaningful identifiers without.",
+      "after": "A local filename, folder path or screenshot can reveal personal or project context even when the media itself is harmless to share."
+    },
+    {
+      "path": "/guides/general/safe-error-report/",
+      "before": "Report the platform, failing stage, approximate time and sanitized error text. Leave out passwords, account cookies, authorization headers and signed media addresses. A good.",
+      "after": "Report the platform, failing stage, approximate time and sanitized error text."
+    },
+    {
+      "path": "/guides/general/download-notification-uncertainty/",
+      "before": "Do not rely on a universal promise that a creator can never observe activity related to a video. Platforms expose different views, analytics and privacy controls, and a.",
+      "after": "Do not rely on a universal promise that a creator can never observe activity related to a video."
+    },
+    {
+      "path": "/guides/general/choose-source-video-resolution/",
+      "before": "Choose among the resolutions actually returned for the source, using the detail your task needs and the receiver that will play the result. A larger pixel grid can help when.",
+      "after": "Choose among the resolutions actually returned for the source, using the detail your task needs and the receiver that will play the result."
+    },
+    {
+      "path": "/guides/youtube/youtube-live-premiere-availability/",
+      "before": "A scheduled premiere, an ongoing live stream and a completed recording are different source states. SocialVidDownloader rejects ongoing live streams and does not offer live.",
+      "after": "A scheduled premiere, an ongoing live stream and a completed recording are different source states."
+    },
+    {
+      "path": "/guides/youtube/youtube-dub-origin/",
+      "before": "A YouTube language track can come from a creator's uploaded audio or YouTube's automatic dubbing features. Use the source's actual labels and creator information to establish.",
+      "after": "A YouTube language track can come from a creator's uploaded audio or YouTube's automatic dubbing features."
+    },
+    {
+      "path": "/guides/general/chroma-subsampling/",
+      "before": "Chroma subsampling reduces spatial color information relative to the picture's luma information. It is separate from bit depth, which describes value precision, and from.",
+      "after": "Chroma subsampling reduces spatial color information relative to the picture's luma information."
+    },
+    {
+      "path": "/guides/general/overlapping-caption-cues/",
+      "before": "Two caption cues can be active at the same time without the file being invalid. The useful question is whether their content and placement remain understandable in the.",
+      "after": "Two caption cues can be active at the same time without the file being invalid."
+    },
+    {
+      "path": "/guides/general/muted-video-preview/",
+      "before": "A silent browser preview can reflect mute controls or autoplay policy rather than a silent downloaded file. Start playback through the visible controls, inspect the preview's.",
+      "after": "A silent browser preview can reflect mute controls or autoplay policy rather than a silent downloaded file."
+    },
+    {
+      "path": "/guides/general/resume-interrupted-browser-download/",
+      "before": "Use the browser's supported resume action only for the original interrupted transfer when the resource is still available. Resumption depends on the browser and server.",
+      "after": "Use the browser's supported resume action only for the original interrupted transfer when the resource is still available."
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-status-visibility-and-expiry/",
+      "before": "WhatsApp Status is a time-limited sharing feature, not an independent video archive. Its audience controls and expiry answer different questions from whether you possess a.",
+      "after": "WhatsApp Status is a time-limited sharing feature, not an independent video archive."
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-exported-video-vs-chat-link/",
+      "before": "An authorized video attachment and a link into a WhatsApp conversation are different objects. The attachment can supply media through the official app's supported controls; a.",
+      "after": "An authorized video attachment and a link into a WhatsApp conversation are different objects."
+    },
+    {
+      "path": "/guides/general/language-tag-region-and-script/",
+      "before": "A language tag describes a resource's declared language; it does not prove that a separate audio recording exists. Regional and script subtags can refine that description.",
+      "after": "A language tag describes a resource's declared language; it does not prove that a separate audio recording exists."
+    },
+    {
+      "path": "/guides/general/pcm-bit-depth-vs-compressed-audio/",
+      "before": "PCM bit depth describes the precision used to represent individual audio samples. It differs from sample rate and from the encoded bitrate of AAC, Opus or another compressed.",
+      "after": "PCM bit depth describes the precision used to represent individual audio samples."
+    },
+    {
+      "path": "/guides/general/fat32-video-file-limit/",
+      "before": "Free space is not the only limit on a video copy. A FAT32 destination has a per-file ceiling of about 4 GiB, so one large file can fail even when the drive has much more room.",
+      "after": "Free space is not the only limit on a video copy. A FAT32 destination has a per-file ceiling of about 4 GiB, so one large file can fail even when the drive has much more room overall."
+    },
+    {
+      "path": "/guides/general/windows-n-media-feature-pack/",
+      "before": "Windows N editions omit some system media technologies included in other editions. If a valid local video fails in an application that depends on those components, first.",
+      "after": "Windows N editions omit some system media technologies included in other editions."
+    },
+    {
+      "path": "/guides/youtube/youtube-own-upload-backup-options/",
+      "before": "For your own YouTube uploads, consider YouTube Studio for an individual export and Google Takeout for an account-data archive. These official owner workflows differ from.",
+      "after": "For your own YouTube uploads, consider YouTube Studio for an individual export and Google Takeout for an account-data archive."
+    },
+    {
+      "path": "/guides/general/inspect-local-video-with-ffprobe/",
+      "before": "FFprobe can report the container and streams inside a local video without converting it. Use it on the actual completed file to collect codec, duration, channel and language.",
+      "after": "FFprobe can report the container and streams inside a local video without converting it."
+    },
+    {
+      "path": "/guides/general/encrypted-video-backup-recovery/",
+      "before": "An encrypted video backup needs both retained file data and a working authorized unlock procedure. Encryption can protect storage access, but it does not replace an.",
+      "after": "An encrypted video backup needs both retained file data and a working authorized unlock procedure."
+    },
+    {
+      "path": "/guides/general/creative-commons-video-license-check/",
+      "before": "A Creative Commons label can grant permission under specific conditions, but the exact license and the intended use matter. Identify the versioned license attached to the.",
+      "after": "A Creative Commons label can grant permission under specific conditions, but the exact license and the intended use matter."
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-view-once-vs-retained-file/",
+      "before": "WhatsApp View Once media is intended for a different retention workflow from an ordinary video attachment. WhatsApp's help states that media sent with View Once enabled.",
+      "after": "WhatsApp View Once media is intended for a different retention workflow from an ordinary video attachment."
+    },
+    {
+      "path": "/guides/youtube/youtube-content-id-claim-vs-strike/",
+      "before": "A YouTube Content ID claim and a copyright strike describe different processes. Content ID can apply an owner's policy to matching material, while a copyright strike can.",
+      "after": "A YouTube Content ID claim and a copyright strike describe different processes."
+    },
+    {
+      "path": "/guides/general/caption-line-breaks-and-meaning/",
+      "before": "A caption can use accurate words and correct timing yet still be difficult to read because its lines split a phrase awkwardly. Review the sentence's meaning, the intended.",
+      "after": "A caption can use accurate words and correct timing yet still be difficult to read because its lines split a phrase awkwardly."
+    },
+    {
+      "path": "/guides/general/premiere-import-authorized-srt/",
+      "before": "An authorized SRT file can become a caption track in Premiere when you import it as project media and add it to a sequence. A downloaded video does not automatically include.",
+      "after": "An authorized SRT file can become a caption track in Premiere when you import it as project media and add it to a sequence."
+    },
+    {
+      "path": "/guides/general/premiere-relink-moved-video/",
+      "before": "Premiere can show media as offline when its project reference no longer points to an available source file. Use Link Media to reconnect the intended recording after locating.",
+      "after": "Premiere can show media as offline when its project reference no longer points to an available source file."
+    },
+    {
+      "path": "/guides/youtube/youtube-offline-download-vs-media-file/",
+      "before": "A video downloaded for offline viewing inside the YouTube mobile app is not the same as an ordinary video file saved to your gallery. YouTube says these offline videos are.",
+      "after": "A video downloaded for offline viewing inside the YouTube mobile app is not the same as an ordinary video file saved to your gallery."
+    },
+    {
+      "path": "/guides/tiktok/tiktok-save-video-controls/",
+      "before": "TikTok provides a Save video action for posts whose creator allows downloading. That action saves content to a device; sharing a link is a different workflow. Creators can.",
+      "after": "TikTok provides a Save video action for posts whose creator allows downloading."
+    },
+    {
+      "path": "/guides/tiktok/tiktok-data-export-vs-video-backup/",
+      "before": "A TikTok account-data export and a folder of verified video files answer different needs. TikTok’s export guidance describes information such as profile details, watch.",
+      "after": "A TikTok account-data export and a folder of verified video files answer different needs."
+    },
+    {
+      "path": "/guides/general/meta-account-export-vs-public-video-link/",
+      "before": "For your own Facebook or Instagram information, Meta’s Accounts Center provides owner export and transfer controls that differ from processing a public video link. Choose the.",
+      "after": "For your own Facebook or Instagram information, Meta’s Accounts Center provides owner export and transfer controls that differ from processing a public video link."
+    },
+    {
+      "path": "/guides/tiktok/tiktok-drafts-before-device-change/",
+      "before": "Check and preserve important TikTok draft material before uninstalling the app or changing devices. TikTok warns that drafts may be removed after reinstalling or moving an.",
+      "after": "Check and preserve important TikTok draft material before uninstalling the app or changing devices."
+    },
+    {
+      "path": "/guides/youtube/youtube-clip-vs-source-video/",
+      "before": "A YouTube Clip shares a selected interval of an existing video, rather than automatically creating a separate downloadable media file. YouTube describes Clips as short loops.",
+      "after": "A YouTube Clip shares a selected interval of an existing video, rather than automatically creating a separate downloadable media file."
+    },
+    {
+      "path": "/guides/general/descriptive-transcript-from-captions/",
+      "before": "A descriptive transcript presents the meaningful speech, sound, and visual information from a recording as readable text. Reviewed captions can supply part of that text, but.",
+      "after": "A descriptive transcript presents the meaningful speech, sound, and visual information from a recording as readable text."
+    },
+    {
+      "path": "/guides/general/inspect-video-metadata-before-sharing/",
+      "before": "Renaming a video changes its filename, not necessarily information stored inside the file. Before an authorized handoff, inspect relevant embedded metadata as well as the.",
+      "after": "Renaming a video changes its filename, not necessarily information stored inside the file."
+    },
+    {
+      "path": "/guides/general/mp4-faststart-index-placement/",
+      "before": "MP4 faststart moves a normal file’s movie index toward the beginning so a receiver can obtain that structure earlier. It changes file layout rather than creating sharper.",
+      "after": "MP4 faststart moves a normal file’s movie index toward the beginning so a receiver can obtain that structure earlier."
+    },
+    {
+      "path": "/guides/general/video-chapters-vs-separate-files/",
+      "before": "Video chapters provide navigation within a recording; they do not automatically create a folder of independent clips. A platform timestamp list, a player bookmark, and.",
+      "after": "Video chapters provide navigation within a recording; they do not automatically create a folder of independent clips."
+    },
+    {
+      "path": "/guides/general/apple-shared-album-video-copy/",
+      "before": "A video visible in an Apple Shared Album is not automatically a separately retained copy on your device. Save the authorized item to your library and inspect what you.",
+      "after": "A video visible in an Apple Shared Album is not automatically a separately retained copy on your device."
+    },
+    {
+      "path": "/guides/general/photos-video-export-original-vs-edited/",
+      "before": "Choose a Photos export according to the representation you need: an unmodified library original for source retention, or a delivery copy reflecting the intended edit and.",
+      "after": "Choose a Photos export according to the representation you need: an unmodified library original for source retention, or a delivery copy reflecting the intended edit and output choices."
+    },
+    {
+      "path": "/guides/general/clipchamp-project-vs-media-backup/",
+      "before": "A saved Clipchamp project records editing work, but your recovery task also depends on its media assets and any finished export you need. Microsoft documents different.",
+      "after": "A saved Clipchamp project records editing work, but your recovery task also depends on its media assets and any finished export you need."
+    },
+    {
+      "path": "/guides/general/ttml-caption-handoff/",
+      "before": "A TTML caption resource needs a receiving workflow that understands its document structure, timing, and required profile. Renaming an XML file to SRT does not convert it.",
+      "after": "A TTML caption resource needs a receiving workflow that understands its document structure, timing, and required profile."
+    },
+    {
+      "path": "/guides/general/image-subtitles-vs-editable-text/",
+      "before": "A selectable subtitle track can contain graphical images of words rather than editable character text. That differs both from a text resource such as SRT and from words.",
+      "after": "A selectable subtitle track can contain graphical images of words rather than editable character text."
+    },
+    {
+      "path": "/guides/general/private-browsing-saved-video-files/",
+      "before": "Closing a private browsing session does not delete a video you deliberately saved to your device. The browser’s session records and the file in your download folder have.",
+      "after": "Closing a private browsing session does not delete a video you deliberately saved to your device."
+    },
+    {
+      "path": "/guides/general/playback-speed-vs-retimed-video/",
+      "before": "A player’s speed control changes how quickly you watch a video; it does not create a newly timed media file. If another person must receive a slow or fast version that plays.",
+      "after": "A player’s speed control changes how quickly you watch a video; it does not create a newly timed media file."
+    },
+    {
+      "path": "/guides/youtube/youtube-studio-caption-file-export/",
+      "before": "For a video you manage in YouTube Studio, use the subtitle editor’s download option to obtain its caption track for an authorized external edit. This is a channel-management.",
+      "after": "For a video you manage in YouTube Studio, use the subtitle editor’s download option to obtain its caption track for an authorized external edit."
+    },
+    {
+      "path": "/guides/general/google-photos-locked-folder-retention/",
+      "before": "Before reinstalling Google Photos, clearing its app data, or replacing an Android device, check whether the videos in Locked Folder are backed up. A protected folder is not.",
+      "after": "Before reinstalling Google Photos, clearing its app data, or replacing an Android device, check whether the videos in Locked Folder are backed up."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-08",
+  "passed": true,
+  "scope": "Synthetic FLAC metadata edit and decoded-file comparison only; not native player loudness behavior or universal ReplayGain support.",
+  "fixtureDirectory": "/var/folders/61/rrjc5n290rs3zghc024tckr40000gn/T/svd-replaygain-oct08-95zlzpgp",
+  "flac": "flac 1.5.0",
+  "tags": "REPLAYGAIN_REFERENCE_LOUDNESS=89.0 dB\nREPLAYGAIN_TRACK_GAIN=-5.93 dB\nREPLAYGAIN_TRACK_PEAK=0.36621094\nREPLAYGAIN_ALBUM_GAIN=-5.93 dB\nREPLAYGAIN_ALBUM_PEAK=0.36621094\n",
+  "wholeFileChanged": true,
+  "decodedFilesIdentical": true,
+  "beforeFileSHA256": "bbd376195e0f07a5776efc06baf034314abe9491d376092a62c13a9a6f1c9a5c",
+  "afterFileSHA256": "06410f0fb1ec05a7117a9c8a33d1d34235aebbfb1914e41a58a10bb144ff57ed"
+}

@@ -1,0 +1,10 @@
+{
+  "reviewedAt": "2026-10-08",
+  "scope": "Local synthetic MPEG-4/AAC compatible segments; no camera or provider test",
+  "commandVerified": "ffmpeg -n -f concat -safe 1 -i segments.txt -c copy joined.mp4",
+  "durationSeconds": 2.021333,
+  "decodedVideoFrames": 20,
+  "videoAndAudioPacketPayloadOrderPreserved": true,
+  "firstAndLastSceneDiffer": true,
+  "sourceFilesPreserved": true
+}

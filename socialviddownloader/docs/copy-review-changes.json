@@ -1,0 +1,616 @@
+{
+  "countingMethod": "Each changed phrase or content field occurrence counts as one correction. Brand formatting and wording corrections in the same message count separately. Display helper definitions, imports, and unchanged Unicode serialization do not count.",
+  "filesReviewed": [
+    "apps/api/app/__init__.py",
+    "apps/api/app/config.py",
+    "apps/api/app/extract_worker.py",
+    "apps/api/app/extractor.py",
+    "apps/api/app/formats.py",
+    "apps/api/app/main.py",
+    "apps/api/app/media.py",
+    "apps/api/app/media_errors.py",
+    "apps/api/app/models.py",
+    "apps/api/app/probe.py",
+    "apps/api/app/provider_health.py",
+    "apps/api/app/providers/__init__.py",
+    "apps/api/app/providers/base.py",
+    "apps/api/app/providers/facebook.py",
+    "apps/api/app/providers/instagram.py",
+    "apps/api/app/providers/snapchat.py",
+    "apps/api/app/providers/tiktok.py",
+    "apps/api/app/providers/whatsapp.py",
+    "apps/api/app/providers/youtube.py",
+    "apps/api/app/public_page.py",
+    "apps/api/app/runner.py",
+    "apps/api/app/security.py",
+    "apps/api/app/seed.py",
+    "apps/api/app/store.py",
+    "apps/api/app/tiktok_download.py",
+    "apps/api/app/tiktok_worker.py",
+    "apps/api/app/transport.py",
+    "apps/web/public/favicon.svg",
+    "apps/web/src/app/[slug]/page.tsx",
+    "apps/web/src/app/about/page.tsx",
+    "apps/web/src/app/admin/page.tsx",
+    "apps/web/src/app/api/admin/providers/route.ts",
+    "apps/web/src/app/api/v1/[...path]/route.ts",
+    "apps/web/src/app/blog/page.tsx",
+    "apps/web/src/app/contact/page.tsx",
+    "apps/web/src/app/copyright/page.tsx",
+    "apps/web/src/app/guides/page.tsx",
+    "apps/web/src/app/layout.tsx",
+    "apps/web/src/app/not-found.tsx",
+    "apps/web/src/app/page.tsx",
+    "apps/web/src/app/privacy-policy/page.tsx",
+    "apps/web/src/app/robots.ts",
+    "apps/web/src/app/sitemap.ts",
+    "apps/web/src/app/terms/page.tsx",
+    "apps/web/src/components/brand.tsx",
+    "apps/web/src/components/downloader.tsx",
+    "apps/web/src/components/json-ld.tsx",
+    "apps/web/src/components/provider-status.tsx",
+    "apps/web/src/lib/content.ts",
+    "content/pages/tools.json"
+  ],
+  "correctionCount": 96,
+  "corrections": [
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "${slug.charAt(0).toUpperCase() + slug.slice(1)} tools",
+      "after": "${platformName(slug)} tools",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Find supported public Snapchat video downloads. Use Spotlight beta with measured source formats and verified files.",
+      "after": "Find supported public Snapchat video downloads. Use the Snapchat Spotlight beta tool to choose an available quality and save a verified file.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Use Spotlight beta for public video clips",
+      "after": "Use the Snapchat Spotlight beta tool for public video clips",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Public ${t.platform} links are analyzed by the shared downloader engine. Platform restrictions can prevent processing.",
+      "after": "Paste a public ${t.platform} link to check available video qualities. Platform restrictions may prevent a download.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "No password, OTP, cookie, or private account access is requested.",
+      "after": "We never ask for account passwords, verification codes, or session cookies.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "How to save {t.platform} {t.kind.toLowerCase() || \"content\"}",
+      "after": "How to save content from {t.platform}",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Paste the individual media link above and analyze its available formats.",
+      "after": "Paste the video link above to see the available qualities.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "When this integration becomes available, paste the individual media link above.",
+      "after": "Downloading with this tool is currently unavailable.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Select only a quality returned for your source video.",
+      "after": "Choose an available quality if the video can be processed.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "Why can a {t.platform} link fail?",
+      "after": "Why might a link from {t.platform} fail?",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "The public-link extraction and download engine is implemented. Whether an individual link works depends on current platform restrictions and the source video. Only actual returned formats are shown.",
+      "after": "Yes, for supported public videos. Availability depends on the source video and current platform restrictions. You can choose only from the formats available for that video.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/[slug]/page.tsx",
+      "before": "No. This integration is not enabled, and it does not return download files.",
+      "after": "No. Downloading this content type is currently unavailable.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "placeholder={example || \"Paste your video link here...\"}",
+      "after": "placeholder={platform ? `Paste a ${platformName(platform)} ${contentType === \"shorts\" ? \"Shorts\" : contentType === \"reels\" ? \"Reel\" : contentType === \"spotlight\" ? \"Spotlight\" : contentType === \"story\" ? \"Story\" : contentType === \"status\" ? \"Status\" : \"video\"} link` : \"Paste a video link here\"}",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Preparing your selected video\u2026",
+      "after": "Preparing your download\u2026",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Your file is ready. Use Save file to download it.",
+      "after": "Your download is ready. Select Save file to save it to your device.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Waiting for a download worker\u2026",
+      "after": "Your download is queued\u2026",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Downloading and merging available tracks\u2026",
+      "after": "Preparing your video and audio\u2026",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Preparation took too long. Analyze the link again.",
+      "after": "Preparing your download took too long. Please submit the link again.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Enter a public http or https video link.",
+      "after": "Please enter a public video link starting with http:// or https://.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Enter a complete video URL, starting with https://.",
+      "after": "Please enter a complete video link starting with https://.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "<Clipboard size={15} /> Paste",
+      "after": "<Clipboard size={15} /> Paste Link",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "{video.platform}</span>",
+      "after": "{platformName(video.platform)}</span>",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Thumbnail provided by the source video",
+      "after": "Video thumbnail",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Audio + video merged server-side",
+      "after": "Audio and video will be combined",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "Temporary file. The download link expires shortly.",
+      "after": "This file is temporary. Save it before the download link expires.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "\"Preparing download\u2026\"",
+      "after": "\"Preparing your download\u2026\"",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "No account credentials",
+      "after": "No account password required",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/downloader.tsx",
+      "before": "This integration is unavailable",
+      "after": "This tool is unavailable",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/provider-status.tsx",
+      "before": "<h3>{provider.provider}</h3>",
+      "after": "<h3>{platformName(provider.provider)}</h3>",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/provider-status.tsx",
+      "before": "Extraction / download",
+      "after": "Analysis / download",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/components/provider-status.tsx",
+      "before": "Last successful live file test",
+      "after": "Last successful live download test",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "A home for video posts, Reels, and Stories.",
+      "after": "Save public videos and Reels; Story downloads are unavailable.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "Save supported public clips with Spotlight beta.",
+      "after": "Save supported public clips with the Snapchat Spotlight beta tool.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "Learn your options for saving your own Status.",
+      "after": "Learn about options for saving your own WhatsApp Status.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "\"All Snapchat\"",
+      "after": "\"Snapchat tools\"",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "Available resolutions will come from the source, never a guess.",
+      "after": "Available resolutions come from the source video.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "The shared engine processes public YouTube, Facebook and Instagram links, with TikTok and Snapchat Spotlight in beta. Availability depends on the source. Instagram/Snapchat Stories and WhatsApp remain unsupported.",
+      "after": "You can process public YouTube, Facebook, and Instagram links, with TikTok and Snapchat Spotlight in beta. Availability depends on the source. Instagram Stories, Snapchat Stories, and WhatsApp Status downloads remain unsupported.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "The intended public-link workflow runs in your browser. We never collect your platform credentials.",
+      "after": "You can use the public-link tools in your browser without an account or an app. We never ask for your social account passwords or verification codes.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/page.tsx",
+      "before": "Private content is not supported. Snapchat Spotlight is in beta; Snapchat Stories and WhatsApp remain unsupported.",
+      "after": "Private content is not supported. Snapchat Spotlight is in beta; Snapchat Stories and WhatsApp Status downloads remain unsupported.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/about/page.tsx",
+      "before": "Facebook and Instagram, plus",
+      "after": "Facebook, and Instagram, plus",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/contact/page.tsx",
+      "before": "A real support address and copyright reporting contact will be published",
+      "after": "A support address and a contact for copyright reports will be published",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/terms/page.tsx",
+      "before": "Platform integrations can change or become unavailable. This foundation\n        release does not provide media extraction. Do not use the service to",
+      "after": "Platform integrations can change or become unavailable. Downloads depend\n        on the source video and current platform restrictions. Do not use the service to",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/privacy-policy/page.tsx",
+      "before": "Links are validated by the API and temporarily cached to process the",
+      "after": "Submitted links are checked and temporarily cached to process the",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/privacy-policy/page.tsx",
+      "before": "Temporary files are cleaned periodically after expiry. We do not request social account\n        passwords, OTPs, or cookies.",
+      "after": "Temporary files are removed periodically after they expire. We do not request social account\n        passwords, verification codes, or session cookies.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/privacy-policy/page.tsx",
+      "before": "error\n        categories and processing duration rather than full submitted URLs.",
+      "after": "error\n        categories and processing times rather than full submitted links.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/guides/page.tsx",
+      "before": "Practical guidance belongs here once reviewed articles and real author\n        profiles are ready. There are no published guides yet.",
+      "after": "There are no published guides yet. Practical guidance will be added\n        after editorial review, with author information for each article.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/blog/page.tsx",
+      "before": "We publish factual support changes and useful explanations, with real\n        author information and meaningful publication dates.",
+      "after": "Articles will explain changes in platform support and offer practical\n        guidance, with author information and publication dates.",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/admin/page.tsx",
+      "before": "The CMS is not enabled in this foundation release. No content management",
+      "after": "Content management is not enabled in this release. No content management",
+      "count": 1
+    },
+    {
+      "file": "apps/web/src/app/admin/page.tsx",
+      "before": "Secure administrator authentication and editorial workflows are\n        scheduled for Phase 8.",
+      "after": "Content management authentication and editorial workflows are\n        planned for a future release.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "youtube-video-downloader.step",
+      "before": "Copy the watch link from Share below the video.",
+      "after": "Select Share below the video and copy the link.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "instagram-video-downloader.step",
+      "before": "Use the post share menu and choose Copy link.",
+      "after": "Open the post\u2019s share menu and select Copy link.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "instagram-story-downloader.intro",
+      "before": "Stories have limited availability and may require authentication. This page explains the supported-link requirements; story access is unavailable in this release.",
+      "after": "Instagram Stories are available for a limited time and may require authentication. Story downloading is currently unavailable in this release. Use Instagram\u2019s own save option for your content.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "instagram-story-downloader.description",
+      "before": "Instagram Story Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Instagram Story Downloader is currently unavailable. Learn about Story access limitations and Instagram\u2019s own options for saving your content.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "snapchat-downloader.intro",
+      "before": "Find the available Snapchat tool for public clips you own or have permission to save. Spotlight is currently supported in beta with measured source formats and verified downloads.",
+      "after": "Find the available Snapchat tool for public clips you own or have permission to save. Snapchat Spotlight is supported in beta, with qualities based on the source video and verified downloads.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "snapchat-downloader.description",
+      "before": "Snapchat Downloader: save supported public Spotlight clips with available source formats. Try the Spotlight beta tool and review public-content limits.",
+      "after": "Snapchat Downloader: save supported public Spotlight clips in available qualities. Try the Snapchat Spotlight beta tool and review its access limits.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "snapchat-spotlight-downloader.intro",
+      "before": "Save a public Spotlight clip you own or have permission to download. This beta tool analyzes official Spotlight links and offers only formats measured from the source.",
+      "after": "Save a public Snapchat Spotlight clip you own or have permission to download. This beta tool checks official Spotlight links and offers only qualities available from the source video.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "snapchat-spotlight-downloader.description",
+      "before": "Snapchat Spotlight Downloader beta: analyze public share links, preview source media, select an available format and save a verified video file.",
+      "after": "Snapchat Spotlight Downloader beta: check public share links, preview a video, choose an available quality, and save a verified video file.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "whatsapp-status-downloader.intro",
+      "before": "WhatsApp Status is shared with selected contacts and is not a public URL download service. There is no Status integration enabled here. We never ask for your OTP or account password.",
+      "after": "WhatsApp Status is shared with selected contacts and cannot be downloaded here from a public link. WhatsApp Status downloading is unavailable. We never ask for your verification code or account password.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "whatsapp-status-downloader.description",
+      "before": "WhatsApp Status Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "WhatsApp Status Downloader is currently unavailable. Learn about Status access limitations and options for saving your own content.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "whatsapp-status-downloader.domains",
+      "before": "No public Status download URL is supported",
+      "after": "No public WhatsApp Status download link is supported.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/media_errors.py",
+      "before": "{platform.title()}",
+      "after": "{platform_name(platform)}",
+      "count": 6
+    },
+    {
+      "file": "apps/api/app/media_errors.py",
+      "before": "refused access to this public media. Try another public link later.",
+      "after": "could not provide access to this video. Please try another public link later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/media_errors.py",
+      "before": "returned a page the extractor cannot currently read. Please try again later.",
+      "after": "video information could not be read. Please try again later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/main.py",
+      "before": "{platform.title()}",
+      "after": "{platform_name(platform)}",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/media.py",
+      "before": "{record['platform'].title()} refused access to the selected media (HTTP {status}). Try another public video.",
+      "after": "{platform_name(record['platform'])} could not provide access to this video. Please try another public link later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/security.py",
+      "before": "{platform.title()}",
+      "after": "{platform_name(platform)}",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/security.py",
+      "before": "{expected_platform.title()}",
+      "after": "{platform_name(expected_platform)}",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/providers/base.py",
+      "before": "{self.name.title()}",
+      "after": "{platform_name(self.name)}",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/main.py",
+      "before": "Download workers are busy. Please try again shortly.",
+      "after": "The download service is busy. Please try again shortly.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/main.py",
+      "before": "Temporary storage is full. Please try again later.",
+      "after": "The download service is temporarily unavailable. Please try again later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/main.py",
+      "before": "Required services, FFmpeg, or migrations are unavailable.",
+      "after": "The video service is not ready. Please try again later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/media.py",
+      "before": "Audio/video merging is unavailable on this server.",
+      "after": "Audio and video cannot be combined right now. Please try again later.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/media.py",
+      "before": "The generated file exceeds the file limit.",
+      "after": "The prepared video exceeds the file size limit.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/runner.py",
+      "before": "The extractor returned an invalid response.",
+      "after": "Video information could not be read. Please try another public link.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/formats.py",
+      "before": "No downloadable, unprotected HTTP video formats are available. Login-required, DRM, live, and manifest-only sources are unsupported.",
+      "after": "No supported download formats are available for this video. Please try another public video.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/tiktok_worker.py",
+      "before": "Choose an available combined TikTok format.",
+      "after": "Choose an available TikTok quality that includes both video and audio.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/tiktok_download.py",
+      "before": "The TikTok container changed. Analyze the link again.",
+      "after": "The TikTok file format changed. Please submit the link again.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/transport.py",
+      "before": "Source has too many or invalid redirects.",
+      "after": "This video link could not be followed. Please try a direct public video link.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/transport.py",
+      "before": "Source exceeds the size limit.",
+      "after": "The source video exceeds the file size limit.",
+      "count": 2
+    },
+    {
+      "file": "apps/api/app/transport.py",
+      "before": "Source redirect failed.",
+      "after": "This video link could not be followed. Please try a direct public video link.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/security.py",
+      "before": "f\"Use a {expected_type} link with this tool.\"",
+      "after": "\"This link is for a different content type. Please choose the matching tool.\"",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/main.py",
+      "before": "Provide a valid link, session, and format selection.",
+      "after": "This request is invalid. Please submit the video link again and choose an available quality.",
+      "count": 1
+    },
+    {
+      "file": "apps/api/app/public_page.py",
+      "before": "This video leads to an account or consent flow. It is not supported.",
+      "after": "This video requires an account or consent confirmation and cannot be processed.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "youtube-video-downloader.description",
+      "before": "YouTube Video Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the YouTube Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "youtube-shorts-downloader.description",
+      "before": "YouTube Shorts Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the YouTube Shorts Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "instagram-video-downloader.description",
+      "before": "Instagram Video Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the Instagram Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "instagram-reels-downloader.description",
+      "before": "Instagram Reels Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the Instagram Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "facebook-video-downloader.description",
+      "before": "Facebook Video Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the Facebook Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "facebook-reels-downloader.description",
+      "before": "Facebook Reels Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the Facebook Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    },
+    {
+      "file": "content/pages/tools.json",
+      "field": "tiktok-video-downloader.description",
+      "before": "TikTok Video Downloader: link requirements, saving instructions, quality availability, and privacy limits. Check current support before downloading.",
+      "after": "Use the TikTok Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "count": 1
+    }
+  ]
+}

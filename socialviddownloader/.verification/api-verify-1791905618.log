@@ -1,0 +1,27 @@
+=== RUN: 2026-10-13T15:33:38Z ===
+Command: env PROCESSING_TRAILER_INPUT=/Users/ali/Downloads/Trailer3.mp4 node /Users/ali/Desktop/socialviddownloader/scripts/verify-tools.mjs
+
+Uploading for converter
+Uploading for compressor
+Uploading for trimmer
+Uploading for splitter
+Uploading for merger
+Uploading for video-to-gif
+Uploading for gif-to-video
+Uploading for thumbnail
+Uploading for thumbnail-grid
+Uploading for mp3
+Uploading for remove-audio
+Uploading for images
+Uploading for image-watermark
+Uploading for text-watermark
+Uploading for burn-subtitles
+Uploading for extract-subtitles
+Uploading for information
+Uploading for filters
+Uploading for stabilizer
+Uploading for trim-silence
+Uploading for storyboard
+Uploading for speed
+Done
+=== EXIT: 0 ===

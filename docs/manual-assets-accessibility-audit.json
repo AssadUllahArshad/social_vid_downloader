@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-09T05:55:00.731Z",
+  "rows": [
+    {
+      "path": "/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/youtube-video-downloader/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/guides/general/video-container-vs-codec/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/snapchat-downloader/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/contact/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/privacy-policy/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    },
+    {
+      "path": "/does-not-exist/",
+      "focusTag": "A",
+      "focusHref": "/",
+      "focusOutline": "solid",
+      "ogImage": "https://socialviddownloader.com/opengraph-image?5cb22e3480071702",
+      "twitter": "summary"
+    }
+  ],
+  "imageStatus": 200,
+  "errors": []
+}

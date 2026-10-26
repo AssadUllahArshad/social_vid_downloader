@@ -1,0 +1,420 @@
+{
+  "summary": {
+    "publicPages": 24,
+    "indexable": 15,
+    "noindex": 9,
+    "sitemapURLs": 15,
+    "missingIndexable": 0,
+    "invalidSitemap": 0,
+    "duplicateSitemap": 0,
+    "brokenPublicURLs": 0,
+    "canonicalErrors": 0,
+    "conflictingXRobotsTag": 0,
+    "uniqueTitles": 24,
+    "uniqueDescriptions": 24,
+    "uniqueH1": 24
+  },
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "SocialVidDownloader - Download Social Media Videos Online"
+      ],
+      "description": "Find dedicated tools for authorized YouTube, Facebook and Instagram video downloads, plus TikTok and Snapchat Spotlight beta tools. Check actual source formats.",
+      "h1": [
+        "Download social media<br/>videos <span>without the hassle.</span>"
+      ]
+    },
+    {
+      "path": "/youtube-video-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/youtube-video-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "YouTube Video Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the YouTube Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "YouTube Video Downloader"
+      ]
+    },
+    {
+      "path": "/youtube-shorts-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/youtube-shorts-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "YouTube Shorts Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the YouTube Shorts Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "YouTube Shorts Downloader"
+      ]
+    },
+    {
+      "path": "/instagram-video-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/instagram-video-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Instagram Video Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the Instagram Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "Instagram Video Downloader"
+      ]
+    },
+    {
+      "path": "/instagram-reels-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/instagram-reels-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Instagram Reels Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the Instagram Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "Instagram Reels Downloader"
+      ]
+    },
+    {
+      "path": "/instagram-story-downloader/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/instagram-story-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Instagram Story Downloader | SocialVidDownloader"
+      ],
+      "description": "Instagram Story Downloader is currently unavailable. Learn about Story access limitations and Instagram\u2019s own options for saving your content.",
+      "h1": [
+        "Instagram Story Downloader"
+      ]
+    },
+    {
+      "path": "/facebook-video-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/facebook-video-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Facebook Video Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the Facebook Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "Facebook Video Downloader"
+      ]
+    },
+    {
+      "path": "/facebook-reels-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/facebook-reels-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Facebook Reels Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the Facebook Reels Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "Facebook Reels Downloader"
+      ]
+    },
+    {
+      "path": "/tiktok-video-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/tiktok-video-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "TikTok Video Downloader | SocialVidDownloader"
+      ],
+      "description": "Use the TikTok Video Downloader to check a public link, preview the video, and choose an available quality. Source access restrictions apply.",
+      "h1": [
+        "TikTok Video Downloader"
+      ]
+    },
+    {
+      "path": "/snapchat-spotlight-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/snapchat-spotlight-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Snapchat Spotlight Downloader | SocialVidDownloader"
+      ],
+      "description": "Snapchat Spotlight Downloader beta: check public share links, preview a video, choose an available quality, and save a verified video file.",
+      "h1": [
+        "Snapchat Spotlight Downloader"
+      ]
+    },
+    {
+      "path": "/whatsapp-status-downloader/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/whatsapp-status-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "WhatsApp Status Downloader | SocialVidDownloader"
+      ],
+      "description": "WhatsApp Status Downloader is currently unavailable. Learn about Status access limitations and options for saving your own content.",
+      "h1": [
+        "WhatsApp Status Downloader"
+      ]
+    },
+    {
+      "path": "/youtube/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/youtube/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "YouTube Video and Shorts Tools | SocialVidDownloader"
+      ],
+      "description": "Choose a YouTube watch-video or Shorts downloader. Check a public link, select source-provided quality and audio, and save content you have permission to keep.",
+      "h1": [
+        "YouTube video tools"
+      ]
+    },
+    {
+      "path": "/facebook/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/facebook/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Facebook Video and Reels Tools | SocialVidDownloader"
+      ],
+      "description": "Choose the Facebook Video or Reels downloader for authorized public clips. Compare supported link types and check available formats without account credentials.",
+      "h1": [
+        "Facebook video tools"
+      ]
+    },
+    {
+      "path": "/instagram/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/instagram/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Instagram Video and Reels Tools | SocialVidDownloader"
+      ],
+      "description": "Find tools for public Instagram video posts and Reels. Check source formats and access limits; Instagram Story downloads are currently unavailable.",
+      "h1": [
+        "Instagram video tools"
+      ]
+    },
+    {
+      "path": "/tiktok/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/tiktok/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "TikTok Video Tools \u2014 Beta | SocialVidDownloader"
+      ],
+      "description": "Use the TikTok video downloader beta for authorized public clips. Review supported share links, real quality choices and source restrictions before saving.",
+      "h1": [
+        "TikTok video tools"
+      ]
+    },
+    {
+      "path": "/snapchat-downloader/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/snapchat-downloader/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Snapchat Downloader \u2014 Public Spotlight Videos | SocialVidDownloader"
+      ],
+      "description": "Find supported public Snapchat video downloads. Use the Snapchat Spotlight beta tool to choose an available quality and save a verified file.",
+      "h1": [
+        "Snapchat Downloader"
+      ]
+    },
+    {
+      "path": "/whatsapp/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/whatsapp/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "WhatsApp Status Access Limitations | SocialVidDownloader"
+      ],
+      "description": "Review why WhatsApp Status downloads are unavailable here and use the sender\u2019s original file or WhatsApp\u2019s own controls.",
+      "h1": [
+        "WhatsApp video tools"
+      ]
+    },
+    {
+      "path": "/about/",
+      "status": 200,
+      "robots": "index, follow",
+      "canonical": [
+        "https://socialviddownloader.com/about/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "About SocialVidDownloader | SocialVidDownloader"
+      ],
+      "description": "Learn how SocialVidDownloader checks authorized public video links, presents source formats and audio tracks, and respects private-content access limits.",
+      "h1": [
+        "About SocialVidDownloader"
+      ]
+    },
+    {
+      "path": "/guides/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/guides/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Guides | SocialVidDownloader"
+      ],
+      "description": "Practical downloading guides are awaiting editorial review. Find current guidance on individual platform tool pages.",
+      "h1": [
+        "Guides"
+      ]
+    },
+    {
+      "path": "/blog/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/blog/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Product journal | SocialVidDownloader"
+      ],
+      "description": "The SocialVidDownloader product journal has no published articles yet.",
+      "h1": [
+        "Product journal"
+      ]
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/contact/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Contact | SocialVidDownloader"
+      ],
+      "description": "Contact details and support channels for SocialVidDownloader are not yet configured.",
+      "h1": [
+        "Contact"
+      ]
+    },
+    {
+      "path": "/copyright/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/copyright/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Copyright and takedown policy | SocialVidDownloader"
+      ],
+      "description": "Read current content-permission guidance and the status of the SocialVidDownloader copyright reporting process.",
+      "h1": [
+        "Copyright and takedown policy"
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/privacy-policy/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Privacy policy | SocialVidDownloader"
+      ],
+      "description": "Read how submitted links and temporary download sessions are handled in the current SocialVidDownloader release.",
+      "h1": [
+        "Privacy policy"
+      ]
+    },
+    {
+      "path": "/terms/",
+      "status": 200,
+      "robots": "noindex, follow",
+      "canonical": [
+        "https://socialviddownloader.com/terms/"
+      ],
+      "xRobotsTag": null,
+      "title": [
+        "Terms of use | SocialVidDownloader"
+      ],
+      "description": "Read permission requirements, access restrictions and source-dependent availability for SocialVidDownloader.",
+      "h1": [
+        "Terms of use"
+      ]
+    }
+  ],
+  "sitemapURLs": [
+    "https://socialviddownloader.com/",
+    "https://socialviddownloader.com/youtube-video-downloader/",
+    "https://socialviddownloader.com/youtube-shorts-downloader/",
+    "https://socialviddownloader.com/instagram-video-downloader/",
+    "https://socialviddownloader.com/instagram-reels-downloader/",
+    "https://socialviddownloader.com/facebook-video-downloader/",
+    "https://socialviddownloader.com/facebook-reels-downloader/",
+    "https://socialviddownloader.com/tiktok-video-downloader/",
+    "https://socialviddownloader.com/snapchat-spotlight-downloader/",
+    "https://socialviddownloader.com/youtube/",
+    "https://socialviddownloader.com/facebook/",
+    "https://socialviddownloader.com/instagram/",
+    "https://socialviddownloader.com/tiktok/",
+    "https://socialviddownloader.com/snapchat-downloader/",
+    "https://socialviddownloader.com/about/"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-10-08",
+  "passed": true,
+  "scope": "Synthetic mono AAC encoding, MP4-to-ADTS packet copy and local FFmpeg decoding only; not source-platform extraction, universal AAC priming or perceptual equivalence to PCM input.",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "fixtureDirectory": "/var/folders/61/rrjc5n290rs3zghc024tckr40000gn/T/svd-aac-priming-oct08-3rv11dd5",
+  "sourceSamples": 48000,
+  "sampleRate": 48000,
+  "mp4FirstPacket": {
+    "codec_type": "audio",
+    "stream_index": 0,
+    "pts": -1024,
+    "pts_time": "-0.021333",
+    "dts": -1024,
+    "dts_time": "-0.021333",
+    "duration": 1024,
+    "duration_time": "0.021333",
+    "size": "21",
+    "pos": "44",
+    "flags": "KD_",
+    "side_data_list": [
+      {
+        "side_data_type": "Skip Samples",
+        "skip_samples": 1024,
+        "discard_padding": 0,
+        "skip_reason": 0,
+        "discard_reason": 0
+      }
+    ]
+  },
+  "adtsFirstPacket": {
+    "codec_type": "audio",
+    "stream_index": 0,
+    "pts": 0,
+    "pts_time": "0.000000",
+    "dts": 0,
+    "dts_time": "0.000000",
+    "duration": 602112,
+    "duration_time": "0.021333",
+    "size": "28",
+    "pos": "0",
+    "flags": "K__"
+  },
+  "mp4DecodedSamples": 48128,
+  "adtsDecodedSamples": 49152,
+  "leadingSampleDifference": 1024,
+  "alignedDecodedBytesMatch": true,
+  "sourceUnchanged": true,
+  "boundedProbe": {
+    "arguments": [
+      "ffprobe",
+      "-v",
+      "error",
+      "-select_streams",
+      "a:0",
+      "-read_intervals",
+      "%+#4",
+      "-show_packets",
+      "-of",
+      "json",
+      "-i",
+      "/var/folders/61/rrjc5n290rs3zghc024tckr40000gn/T/svd-aac-priming-oct08-3rv11dd5/timed.m4a"
+    ],
+    "packetsReported": 4,
+    "firstPacketSkipSamples": 1024
+  }
+}

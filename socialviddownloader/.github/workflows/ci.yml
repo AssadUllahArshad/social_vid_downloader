@@ -1,0 +1,49 @@
+name: Validate foundation
+on: [push, pull_request]
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22, cache: npm}
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-noto-core
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build --workspace apps/web -- --webpack
+      - run: npx tsc --noEmit
+        working-directory: apps/web
+      - run: npx playwright install --with-deps chromium
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install -r apps/api/requirements.txt
+      - name: Start isolated processing API
+        working-directory: apps/api
+        env:
+          STATE_BACKEND: sqlite
+          DATABASE_URL: sqlite:////tmp/socialvid-web-ci.db
+          LOCAL_STATE_PATH: /tmp/socialvid-web-ci-state.db
+          MEDIA_ROOT: /tmp/socialvid-web-ci-media
+          PROCESSING_ENABLED: '1'
+          RATE_LIMIT_PER_MINUTE: '1000'
+        run: |
+          python -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --no-proxy-headers --no-access-log > /tmp/processing-api.log 2>&1 &
+          for attempt in $(seq 1 30); do curl --fail http://127.0.0.1:8000/health && exit 0; sleep 1; done
+          cat /tmp/processing-api.log
+          exit 1
+      - run: npm run test:e2e
+        env: {PROCESSING_REAL_E2E: '1'}
+  api:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-noto-core
+      - run: pip install -r apps/api/requirements-dev.txt -r apps/api/requirements-lint.txt
+      - run: ruff check app tests migrations && pytest
+        working-directory: apps/api
+      - run: alembic upgrade head && python -m app.seed
+        working-directory: apps/api
+        env: {DATABASE_URL: 'sqlite:////tmp/socialvid-ci.db'}

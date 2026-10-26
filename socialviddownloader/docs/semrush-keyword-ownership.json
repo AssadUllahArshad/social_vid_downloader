@@ -1,0 +1,86 @@
+{
+  "origin": "User-provided Semrush US estimates; not independently verified search demand or rankings",
+  "clusters": [
+    {
+      "name": "YouTube 4K Downloader",
+      "canonical": "/youtube-video-downloader/",
+      "primary": "youtube downloader 4k",
+      "secondary": [
+        "youtube video downloader 4k",
+        "4k youtube downloader",
+        "4k video downloader youtube downloader"
+      ],
+      "reason": "The existing tool already selects actual source formats and prepares separate streams; no distinct competing 4K functionality exists."
+    },
+    {
+      "name": "Universal URL Downloader",
+      "canonical": "/",
+      "primary": "url video downloader",
+      "secondary": [
+        "link downloader",
+        "download video from url"
+      ],
+      "reason": "The existing homepage contains the normalized URL analyzer and supported-platform navigation; universal does not mean every website."
+    },
+    {
+      "name": "General YouTube Downloader",
+      "canonical": "/youtube-video-downloader/",
+      "primary": "youtube downloader",
+      "secondary": [
+        "youtube video and download"
+      ],
+      "reason": "Same extraction and file-delivery intent as the existing YouTube tool. Awkward variants are not forced into headings."
+    }
+  ],
+  "newKeywordPages": 0,
+  "providerStatus": "DEGRADED retained",
+  "fourK": "Local actual 3840x2160 fixture and separate audio output verified; not a fresh live YouTube 4K availability guarantee",
+  "userSuppliedUSEstimates": [
+    {
+      "keyword": "youtube video and download",
+      "monthlyVolume": 74000,
+      "keywordDifficultyPercent": 29
+    },
+    {
+      "keyword": "youtube downloader 4k",
+      "monthlyVolume": 27100,
+      "keywordDifficultyPercent": 29
+    },
+    {
+      "keyword": "youtube video downloader 4k",
+      "monthlyVolume": 18100,
+      "keywordDifficultyPercent": 20
+    },
+    {
+      "keyword": "link downloader",
+      "monthlyVolume": 8100,
+      "keywordDifficultyPercent": 26
+    },
+    {
+      "keyword": "4k video downloader youtube downloader",
+      "monthlyVolume": 6600,
+      "keywordDifficultyPercent": 28
+    },
+    {
+      "keyword": "url video downloader",
+      "monthlyVolume": 5400,
+      "keywordDifficultyPercent": 20
+    },
+    {
+      "keyword": "youtube downloader",
+      "monthlyVolume": 4400,
+      "keywordDifficultyPercent": 24
+    },
+    {
+      "keyword": "4k youtube downloader",
+      "monthlyVolume": 3600,
+      "keywordDifficultyPercent": 19
+    },
+    {
+      "keyword": "download video from url",
+      "monthlyVolume": 2900,
+      "keywordDifficultyPercent": 22
+    }
+  ],
+  "prioritization": "Existing functional owners take priority over new pages. Highest-volume YouTube phrases map to the one verified format-selecting tool; URL variants map to the existing normalized homepage. Estimates are not summed into unique audience demand or used as ranking guarantees."
+}

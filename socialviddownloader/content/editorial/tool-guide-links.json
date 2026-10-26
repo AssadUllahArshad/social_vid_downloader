@@ -1,0 +1,292 @@
+[
+  {
+    "source": "/youtube-video-downloader/",
+    "target": "/guides/youtube/youtube-video-copy-direct-link/",
+    "anchor": "Check the video ID in a YouTube watch link"
+  },
+  {
+    "source": "/youtube-video-downloader/",
+    "target": "/guides/youtube/youtube-video-temporary-provider-failure/",
+    "anchor": "YouTube download failed: check link, access, and source formats"
+  },
+  {
+    "source": "/youtube-shorts-downloader/",
+    "target": "/guides/youtube/youtube-shorts-copy-direct-link/",
+    "anchor": "A YouTube Shorts link needs the individual Short, not the channel"
+  },
+  {
+    "source": "/youtube-shorts-downloader/",
+    "target": "/guides/youtube/youtube-video-temporary-provider-failure/",
+    "anchor": "YouTube download failed: check link, access, and source formats"
+  },
+  {
+    "source": "/facebook-video-downloader/",
+    "target": "/guides/facebook/facebook-video-copy-direct-link/",
+    "anchor": "Find the video identifier in a Facebook video share"
+  },
+  {
+    "source": "/facebook-video-downloader/",
+    "target": "/guides/facebook/facebook-video-temporary-provider-failure/",
+    "anchor": "Facebook Video and Reels download failures: find the failing stage"
+  },
+  {
+    "source": "/facebook-reels-downloader/",
+    "target": "/guides/facebook/facebook-reels-copy-direct-link/",
+    "anchor": "Choose a Facebook Reel link rather than the surrounding feed"
+  },
+  {
+    "source": "/facebook-reels-downloader/",
+    "target": "/guides/facebook/facebook-video-temporary-provider-failure/",
+    "anchor": "Facebook Video and Reels download failures: find the failing stage"
+  },
+  {
+    "source": "/instagram-video-downloader/",
+    "target": "/guides/instagram/instagram-video-copy-direct-link/",
+    "anchor": "Use an Instagram post link rather than a profile address"
+  },
+  {
+    "source": "/instagram-video-downloader/",
+    "target": "/guides/instagram/instagram-video-temporary-provider-failure/",
+    "anchor": "Instagram video or Reel unavailable to the downloader"
+  },
+  {
+    "source": "/instagram-reels-downloader/",
+    "target": "/guides/instagram/instagram-reels-copy-direct-link/",
+    "anchor": "Use the individual Instagram Reel share route"
+  },
+  {
+    "source": "/instagram-reels-downloader/",
+    "target": "/guides/instagram/instagram-video-temporary-provider-failure/",
+    "anchor": "Instagram video or Reel unavailable to the downloader"
+  },
+  {
+    "source": "/tiktok-video-downloader/",
+    "target": "/guides/tiktok/tiktok-video-copy-direct-link/",
+    "anchor": "Resolve a TikTok short share to an individual video"
+  },
+  {
+    "source": "/tiktok-video-downloader/",
+    "target": "/guides/tiktok/tiktok-video-temporary-provider-failure/",
+    "anchor": "TikTok download failed: public links still have availability limits"
+  },
+  {
+    "source": "/snapchat-spotlight-downloader/",
+    "target": "/guides/snapchat/snapchat-spotlight-copy-direct-link/",
+    "anchor": "Use a public Spotlight link, not a Snapchat Story"
+  },
+  {
+    "source": "/snapchat-spotlight-downloader/",
+    "target": "/guides/snapchat/snapchat-spotlight-temporary-provider-failure/",
+    "anchor": "Snapchat Spotlight unavailable: check the content type first"
+  },
+  {
+    "source": "/video-converter/",
+    "target": "/guides/general/video-container-vs-codec/",
+    "anchor": "Video container versus codec: diagnose the right layer"
+  },
+  {
+    "source": "/video-converter/",
+    "target": "/guides/general/muxing-vs-transcoding/",
+    "anchor": "Muxing versus transcoding in a video download"
+  },
+  {
+    "source": "/video-compressor/",
+    "target": "/guides/general/constant-quality-vs-target-bitrate/",
+    "anchor": "Constant quality versus target bitrate encoding"
+  },
+  {
+    "source": "/video-compressor/",
+    "target": "/guides/general/video-bitrate/",
+    "anchor": "Video bitrate, file size, and quality are different measurements"
+  },
+  {
+    "source": "/trim-video/",
+    "target": "/guides/general/keyframes-and-seeking/",
+    "anchor": "Keyframes, seeking and the limits of copied trims"
+  },
+  {
+    "source": "/trim-video/",
+    "target": "/guides/general/ffmpeg-accurate-seek-input-vs-output/",
+    "anchor": "Input seeking versus output trimming in a local conversion"
+  },
+  {
+    "source": "/split-video/",
+    "target": "/guides/general/video-chapters-vs-separate-files/",
+    "anchor": "Video chapters are navigation markers, not separate files"
+  },
+  {
+    "source": "/split-video/",
+    "target": "/guides/general/video-inside-zip-archive/",
+    "anchor": "Open a video delivered inside a ZIP archive"
+  },
+  {
+    "source": "/merge-videos/",
+    "target": "/guides/general/ffmpeg-concat-demuxer-vs-filter/",
+    "anchor": "Concat demuxer versus decoded concatenation"
+  },
+  {
+    "source": "/merge-videos/",
+    "target": "/guides/general/audio-out-of-sync/",
+    "anchor": "Audio is out of sync with a downloaded video"
+  },
+  {
+    "source": "/video-to-gif/",
+    "target": "/guides/general/animated-image-vs-video-handoff/",
+    "anchor": "An animated image is not the same handoff as a video"
+  },
+  {
+    "source": "/video-to-gif/",
+    "target": "/guides/general/frame-rate-vs-resolution/",
+    "anchor": "Frame rate versus resolution when choosing a video"
+  },
+  {
+    "source": "/gif-to-video/",
+    "target": "/guides/general/animated-image-vs-video-handoff/",
+    "anchor": "An animated image is not the same handoff as a video"
+  },
+  {
+    "source": "/gif-to-video/",
+    "target": "/guides/general/lossy-vs-lossless-media/",
+    "anchor": "Lossy versus lossless media: what a preserved copy means"
+  },
+  {
+    "source": "/video-thumbnail-extractor/",
+    "target": "/guides/general/export-still-frame-vs-video-screenshot/",
+    "anchor": "Export one video frame as a photo instead of capturing the screen"
+  },
+  {
+    "source": "/video-thumbnail-extractor/",
+    "target": "/guides/general/thumbnail-vs-video-frame/",
+    "anchor": "Thumbnail versus video frame: verify the actual recording"
+  },
+  {
+    "source": "/thumbnail-grid-generator/",
+    "target": "/guides/general/ffmpeg-thumbnail-selection-vs-contact-sheet/",
+    "anchor": "A selected thumbnail versus a representative contact sheet"
+  },
+  {
+    "source": "/thumbnail-grid-generator/",
+    "target": "/guides/general/video-archive-audit-sampling-limits/",
+    "anchor": "Video archive audits: sampling is not complete verification"
+  },
+  {
+    "source": "/video-to-mp3/",
+    "target": "/guides/general/audio-bitrate/",
+    "anchor": "Audio bitrate: compare source tracks without assuming quality"
+  },
+  {
+    "source": "/remove-audio-from-video/",
+    "target": "/guides/general/inspect-local-video-with-ffprobe/",
+    "anchor": "Inspect a local video with FFprobe without converting it"
+  },
+  {
+    "source": "/images-to-video/",
+    "target": "/guides/general/image-sequence-versus-video-editing-handoff/",
+    "anchor": "Delivering an image sequence versus a timed video"
+  },
+  {
+    "source": "/images-to-video/",
+    "target": "/guides/general/video-aspect-ratio/",
+    "anchor": "Aspect ratio versus resolution: prevent stretched video"
+  },
+  {
+    "source": "/add-image-watermark/",
+    "target": "/guides/general/video-fingerprint-vs-watermark/",
+    "anchor": "Video fingerprinting versus a visible watermark"
+  },
+  {
+    "source": "/add-image-watermark/",
+    "target": "/guides/general/ffmpeg-overlay-input-duration/",
+    "anchor": "An overlay input ends before the base recording"
+  },
+  {
+    "source": "/add-text-watermark/",
+    "target": "/guides/general/video-fingerprint-vs-watermark/",
+    "anchor": "Video fingerprinting versus a visible watermark"
+  },
+  {
+    "source": "/add-text-watermark/",
+    "target": "/guides/general/ffmpeg-drawtext-font-dependency/",
+    "anchor": "A text burn-in depends on actual font resources"
+  },
+  {
+    "source": "/burn-subtitles-into-video/",
+    "target": "/guides/general/open-vs-closed-captions/",
+    "anchor": "Open versus closed captions: can the text be turned off?"
+  },
+  {
+    "source": "/burn-subtitles-into-video/",
+    "target": "/guides/general/caption-character-encoding/",
+    "anchor": "Caption text has garbled characters: inspect encoding"
+  },
+  {
+    "source": "/extract-video-subtitles/",
+    "target": "/guides/general/image-subtitles-vs-editable-text/",
+    "anchor": "Image-based subtitles versus editable caption text"
+  },
+  {
+    "source": "/extract-video-subtitles/",
+    "target": "/guides/general/embedded-subtitle-versus-sidecar-handoff/",
+    "anchor": "Embedded text tracks versus subtitle sidecars in a handoff"
+  },
+  {
+    "source": "/video-metadata-viewer/",
+    "target": "/guides/general/inspect-local-video-with-ffprobe/",
+    "anchor": "Inspect a local video with FFprobe without converting it"
+  },
+  {
+    "source": "/video-metadata-viewer/",
+    "target": "/guides/general/container-track-id-vs-stream-index/",
+    "anchor": "Track identifiers, stream order and program membership"
+  },
+  {
+    "source": "/video-filters/",
+    "target": "/guides/general/video-color-range/",
+    "anchor": "Full versus limited video range: check black levels"
+  },
+  {
+    "source": "/video-filters/",
+    "target": "/guides/general/ffmpeg-sharpen-halo-review/",
+    "anchor": "A sharpened export introduces bright or dark edge halos"
+  },
+  {
+    "source": "/stabilize-video/",
+    "target": "/guides/general/stabilized-video-crop-and-warp-review/",
+    "anchor": "A stabilized video crops the edges or warps moving objects"
+  },
+  {
+    "source": "/stabilize-video/",
+    "target": "/guides/general/ffmpeg-video-stabilization-two-step-context/",
+    "anchor": "Two-step video stabilization: keep analysis tied to the source"
+  },
+  {
+    "source": "/remove-silence-from-video/",
+    "target": "/guides/general/ffmpeg-silenceremove-video-sync/",
+    "anchor": "Silence removal changes an audio timeline used with video"
+  },
+  {
+    "source": "/remove-silence-from-video/",
+    "target": "/guides/general/ffmpeg-silencedetect-selected-ranges/",
+    "anchor": "Detect quiet intervals without automatically deleting narration"
+  },
+  {
+    "source": "/video-storyboard-generator/",
+    "target": "/guides/general/ffmpeg-thumbnail-selection-vs-contact-sheet/",
+    "anchor": "A selected thumbnail versus a representative contact sheet"
+  },
+  {
+    "source": "/video-storyboard-generator/",
+    "target": "/guides/general/thumbnail-vs-video-frame/",
+    "anchor": "Thumbnail versus video frame: verify the actual recording"
+  },
+  {
+    "source": "/change-video-speed/",
+    "target": "/guides/general/playback-speed-vs-retimed-video/",
+    "anchor": "Playback speed versus exporting a retimed video"
+  },
+  {
+    "source": "/change-video-speed/",
+    "target": "/guides/general/retimed-video-interpolation-artifacts/",
+    "anchor": "Slow-motion export has doubled or warped edges"
+  }
+]

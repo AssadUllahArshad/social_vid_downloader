@@ -1,0 +1,591 @@
+{
+  "date": "2026-10-15",
+  "userReportedBytes": 3680000000,
+  "measuredAllocatedKiB": 3590400,
+  "logicalFileBytes": 3512305104,
+  "git": "No .git repository; no reset/clean commands used. File hashes preserve working source.",
+  "processes": "No Next/Uvicorn/FFmpeg/Playwright/build processes or listeners on 3000/8000/8001 at inspection; no active processing jobs. No media roots will be cleaned.",
+  "baseline": {
+    "publicPages": 1097,
+    "indexable": 1020,
+    "englishIndexable": 564,
+    "localizedIndexable": 456,
+    "tools": 22,
+    "languages": 13
+  },
+  "buildConfig": "Next Webpack, standalone output; .next-dev isolated dev directory. Node/Python dependencies retained.",
+  "directories": {
+    ".": 3676569600,
+    "apps": 3027795968,
+    "apps/web": 2838851584,
+    "apps/web/.next-dev/dev": 1411399680,
+    "apps/web/.next-dev": 1411399680,
+    "apps/web/.next": 1359831040,
+    "apps/web/.next-dev/dev/cache": 1204830208,
+    "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4": 858746880,
+    "apps/web/.next-dev/dev/cache/turbopack": 858746880,
+    "apps/web/.next/cache": 817664000,
+    "apps/web/.next/cache/webpack": 714637312,
+    "apps/web/.next/cache/webpack/server-production": 651612160,
+    "node_modules": 542674944,
+    "apps/web/.next/standalone": 364531712,
+    "apps/web/.next-dev/dev/cache/webpack": 346075136,
+    "apps/web/.next/standalone/apps": 286457856,
+    "apps/web/.next/standalone/apps/web": 286449664,
+    "apps/web/.next/standalone/apps/web/.next": 286273536,
+    "apps/web/.next/standalone/apps/web/.next/server": 283963392,
+    "apps/web/.next-dev/dev/cache/webpack/server-development": 251961344,
+    "node_modules/next": 209764352,
+    "node_modules/next/dist": 209096704,
+    "apps/api": 188899328,
+    "apps/web/.next/server": 174596096,
+    "apps/web/.next/standalone/apps/web/.next/server/app": 159731712,
+    "apps/web/.next/server/app": 156753920,
+    "apps/web/.next-dev/dev/server": 143560704,
+    "node_modules/next/dist/compiled": 136728576,
+    "apps/api/.venv": 124010496,
+    "apps/web/.next-dev/dev/server/chunks": 115236864,
+    "apps/web/.next/standalone/apps/web/.next/server/route-cache": 106356736,
+    "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE": 106229760,
+    "apps/web/.next/cache/turbopack/v16.3.8-b0fad0d4": 102645760,
+    "apps/web/.next/cache/turbopack": 102645760,
+    "apps/api/.venv/lib/python3.12/site-packages": 99254272,
+    "apps/api/.venv/lib/python3.12": 99254272,
+    "apps/api/.venv/lib": 99254272,
+    "node_modules/@next": 89448448,
+    "node_modules/@next/swc-darwin-x64": 88567808,
+    "node_modules/next/dist/compiled/next-server": 83345408,
+    "apps/web/.next/standalone/apps/web/.next/server/app/guides": 74969088,
+    "apps/web/.next/server/app/guides": 74969088,
+    "apps/web/.next-dev/dev/server/chunks/ssr": 74813440,
+    "docs": 72757248,
+    "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE/de86f780246a813cb0ae9bab1b0f8306e3e8564915e952b5dbe216ce25f3e901/$/guides": 71499776
+  },
+  "largestFiles": [
+    {
+      "path": "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4/00000175.sst",
+      "bytes": 267749272,
+      "allocatedBytes": 267751424
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4/00000180.sst",
+      "bytes": 257375913,
+      "allocatedBytes": 257376256
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/18.pack",
+      "bytes": 224602868,
+      "allocatedBytes": 224604160
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/webpack/server-development/1.pack.gz",
+      "bytes": 191030183,
+      "allocatedBytes": 191033344
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4/00000181.sst",
+      "bytes": 150428194,
+      "allocatedBytes": 150429696
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/23.pack",
+      "bytes": 131743767,
+      "allocatedBytes": 131747840
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/21.pack",
+      "bytes": 130872080,
+      "allocatedBytes": 130875392
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4/00000177.sst",
+      "bytes": 112674351,
+      "allocatedBytes": 112676864
+    },
+    {
+      "path": "node_modules/@next/swc-darwin-x64/next-swc.darwin-x64.node",
+      "bytes": 88558800,
+      "allocatedBytes": 88559616
+    },
+    {
+      "path": "apps/web/test-media/source.mov",
+      "bytes": 59431793,
+      "allocatedBytes": 59432960
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/webpack/client-development-fallback/0.pack.gz",
+      "bytes": 33647725,
+      "allocatedBytes": 33648640
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/webpack/server-development/13.pack.gz",
+      "bytes": 31406217,
+      "allocatedBytes": 31408128
+    },
+    {
+      "path": "apps/web/.next/cache/turbopack/v16.3.8-b0fad0d4/00000010.sst",
+      "bytes": 27210349,
+      "allocatedBytes": 27213824
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/webpack/client-development/6.pack.gz",
+      "bytes": 24222006,
+      "allocatedBytes": 24223744
+    },
+    {
+      "path": "apps/api/.venv/bin/ruff",
+      "bytes": 23271152,
+      "allocatedBytes": 24178688
+    },
+    {
+      "path": "node_modules/@img/sharp-libvips-darwin-x64/lib/libvips-cpp.8.18.7.dylib",
+      "bytes": 20369624,
+      "allocatedBytes": 20373504
+    },
+    {
+      "path": "apps/web/.next/standalone/node_modules/@img/sharp-libvips-darwin-x64/lib/libvips-cpp.8.18.7.dylib",
+      "bytes": 20369624,
+      "allocatedBytes": 20373504
+    },
+    {
+      "path": "apps/web/.next-dev/dev/server/app/sitemaps/[shard]/route.js",
+      "bytes": 17041014,
+      "allocatedBytes": 17043456
+    },
+    {
+      "path": "apps/web/.next/standalone/apps/web/.next/server/chunks/8706.js",
+      "bytes": 16544697,
+      "allocatedBytes": 16547840
+    },
+    {
+      "path": "apps/web/.next/server/chunks/8706.js",
+      "bytes": 16544697,
+      "allocatedBytes": 16547840
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/turbopack/v16.3.8-b0fad0d4/00000108.sst",
+      "bytes": 16541833,
+      "allocatedBytes": 16543744
+    },
+    {
+      "path": "apps/web/.next-dev/dev/cache/webpack/client-development/2.pack.gz",
+      "bytes": 15907114,
+      "allocatedBytes": 15908864
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/17.pack",
+      "bytes": 15829475,
+      "allocatedBytes": 15831040
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/31.pack",
+      "bytes": 15197263,
+      "allocatedBytes": 15200256
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/15.pack",
+      "bytes": 14868682,
+      "allocatedBytes": 14872576
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/14.pack",
+      "bytes": 14348162,
+      "allocatedBytes": 14348288
+    },
+    {
+      "path": "content/editorial/first-500-inventory.json",
+      "bytes": 13894111,
+      "allocatedBytes": 13897728
+    },
+    {
+      "path": "apps/web/.next/standalone/content/editorial/first-500-inventory.json",
+      "bytes": 13894111,
+      "allocatedBytes": 13897728
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/11.pack",
+      "bytes": 13491866,
+      "allocatedBytes": 13492224
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/client-production/9.pack",
+      "bytes": 13266411,
+      "allocatedBytes": 13266944
+    },
+    {
+      "path": "apps/web/.next-dev/dev/static/chunks/main-app.js",
+      "bytes": 13256852,
+      "allocatedBytes": 13258752
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/index.pack",
+      "bytes": 12806773,
+      "allocatedBytes": 12808192
+    },
+    {
+      "path": "apps/web/.next/cache/webpack/server-production/index.pack.old",
+      "bytes": 12801306,
+      "allocatedBytes": 12804096
+    },
+    {
+      "path": "apps/web/.next-dev/dev/server/chunks/content_editorial_first-500-inventory_json_[json]_cjs_028mzcx._.js.map",
+      "bytes": 12657820,
+      "allocatedBytes": 12660736
+    },
+    {
+      "path": "apps/web/.next-dev/dev/server/chunks/ssr/content_editorial_first-500-inventory_json_[json]_cjs_0ukvyug._.js.map",
+      "bytes": 12657820,
+      "allocatedBytes": 12660736
+    }
+  ],
+  "classification": [
+    {
+      "path": ".ruff_cache",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/.pytest_cache",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/.ruff_cache",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/app/__pycache__",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/app/processing/__pycache__",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/app/providers/__pycache__",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/api/tests/__pycache__",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/web/.next-dev",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/web/.next/cache",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/web/test-results",
+      "classification": "UNUSED TEST ARTIFACT",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "apps/web/tsconfig.tsbuildinfo",
+      "classification": "REGENERATABLE",
+      "decision": "remove",
+      "reason": "No active app/build/test processes; regeneratable cache or output."
+    },
+    {
+      "path": "node_modules",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Active installed dependency environment; no reinstall needed."
+    },
+    {
+      "path": "apps/api/.venv",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Current backend dependency environment."
+    },
+    {
+      "path": "apps/api/.venv-phase1",
+      "classification": "UNCERTAIN",
+      "decision": "preserve",
+      "reason": "Older environment; keep without verified reproducibility/use history."
+    },
+    {
+      "path": "apps/web/.next",
+      "classification": "REGENERATABLE",
+      "decision": "preserve",
+      "reason": "Retain runtime build until the single requested rebuild; remove only cache now."
+    },
+    {
+      "path": "content",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "All published/draft records, approvals and translation records."
+    },
+    {
+      "path": "docs",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "SEO history, checkpoints and retained verification evidence; no duplicate deletion."
+    },
+    {
+      "path": "apps/android-status-saver",
+      "classification": "UNCERTAIN",
+      "decision": "preserve",
+      "reason": "Frozen unfinished source; preserve locally, exclude from releases."
+    },
+    {
+      "path": "releases",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Current validated deployment archive and receipt; no old redundant archive found."
+    },
+    {
+      "path": ".verification",
+      "classification": "UNCERTAIN",
+      "decision": "preserve",
+      "reason": "Saved verification metadata; preserve."
+    },
+    {
+      "path": "**/.env*",
+      "classification": "USER FILE",
+      "decision": "preserve",
+      "reason": "Never inspect values, delete or modify credentials."
+    },
+    {
+      "path": "apps/web/public",
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Required frontend assets."
+    }
+  ],
+  "media": [
+    {
+      "path": "apps/web/test-media/source.mov",
+      "bytes": 59431793,
+      "allocatedBytes": 59432960,
+      "classification": "USER FILE",
+      "decision": "preserve",
+      "reason": "Referenced by optional processing-repair tests; source provenance not sufficiently established for deletion. Preserve all four inputs."
+    },
+    {
+      "path": "apps/web/test-media/source.webm",
+      "bytes": 4362980,
+      "allocatedBytes": 4366336,
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Referenced by optional processing-repair tests; source provenance not sufficiently established for deletion. Preserve all four inputs."
+    },
+    {
+      "path": "apps/web/test-media/silent.mp4",
+      "bytes": 14676,
+      "allocatedBytes": 16384,
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Referenced by optional processing-repair tests; source provenance not sufficiently established for deletion. Preserve all four inputs."
+    },
+    {
+      "path": "apps/web/test-media/two-audio.mp4",
+      "bytes": 236197,
+      "allocatedBytes": 237568,
+      "classification": "ESSENTIAL",
+      "decision": "preserve",
+      "reason": "Referenced by optional processing-repair tests; source provenance not sufficiently established for deletion. Preserve all four inputs."
+    }
+  ],
+  "largeDuplicateGroups": [
+    {
+      "bytesEach": 4301622,
+      "sha256": "f56a4be6ec1284af9a429a35a915d787ee3d08a67743d60b2b7443c46f02516a",
+      "paths": [
+        "node_modules/next/dist/server/capsize-font-metrics.json",
+        "apps/web/.next/standalone/node_modules/next/dist/server/capsize-font-metrics.json"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 1540081,
+      "sha256": "1a20ee41e0ac0a702c4fa96a1b85530a14f8bc35a58c38df5cd0e3e738cc3c8e",
+      "paths": [
+        "node_modules/next/dist/compiled/babel-packages/packages-bundle.js",
+        "apps/web/.next/standalone/node_modules/next/dist/compiled/babel-packages/packages-bundle.js"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 1364777,
+      "sha256": "0cb0c45dae15d4080c022d6b60b88d27923ddfb29dd0a1e18aac4df39f4082b6",
+      "paths": [
+        "node_modules/next/dist/compiled/babel/bundle.js",
+        "apps/web/.next/standalone/node_modules/next/dist/compiled/babel/bundle.js"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 1378357,
+      "sha256": "6332e8ff5ef63cb18592370d4f799c8551d886c90b8563e1323fdabee2371e24",
+      "paths": [
+        "node_modules/next/dist/compiled/@vercel/og/resvg.wasm",
+        "apps/web/.next/standalone/node_modules/next/dist/compiled/@vercel/og/resvg.wasm"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 20369624,
+      "sha256": "fb2101ad991f683a46204ea0ac96a4269c4c93ecef023a0f841c93ebc9843353",
+      "paths": [
+        "node_modules/@img/sharp-libvips-darwin-x64/lib/libvips-cpp.8.18.7.dylib",
+        "apps/web/.next/standalone/node_modules/@img/sharp-libvips-darwin-x64/lib/libvips-cpp.8.18.7.dylib"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 13894111,
+      "sha256": "85f00fb22bac1fa08ac35378cc2c6b1ff40ed4af5ce602464681593f9cccbcae",
+      "paths": [
+        "content/editorial/first-500-inventory.json",
+        "apps/web/.next/standalone/content/editorial/first-500-inventory.json"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 5077747,
+      "sha256": "3449e536a293d1ab2c02de630b21a51d6ef2fb81ad529a1bf1118f724d73afb9",
+      "paths": [
+        "content/editorial/articles.json",
+        "apps/web/.next/standalone/content/editorial/articles.json"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 6331128,
+      "sha256": "d095c0c7762c8f5a13598372afce6e3f89c75da08ad25bd14ed970e9bf28a404",
+      "paths": [
+        "docs/5000-page-master-inventory.md",
+        "docs/4910-page-master-inventory.md"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 4653051,
+      "sha256": "ed51bf029c24802c8bd0df9cde8306f3a5ac0d200eb109c1fa60bf362c4423ba",
+      "paths": [
+        "apps/web/.next-dev/dev/server/chunks/content_editorial_articles_json_[json]_cjs_0a6uxf9._.js.map",
+        "apps/web/.next-dev/dev/server/chunks/ssr/content_editorial_articles_json_[json]_cjs_03-g9cd._.js.map"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 12657820,
+      "sha256": "3830509d5bd9c94a53b1b25f9aa38197abcde71d0b0540b7f6864736b01c9fae",
+      "paths": [
+        "apps/web/.next-dev/dev/server/chunks/content_editorial_first-500-inventory_json_[json]_cjs_028mzcx._.js.map",
+        "apps/web/.next-dev/dev/server/chunks/ssr/content_editorial_first-500-inventory_json_[json]_cjs_0ukvyug._.js.map"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 3444549,
+      "sha256": "edbe9fca0d9e1c073fabb9384af17ad44e8bcd2a1301f86f4436620cc7eb9a60",
+      "paths": [
+        "apps/web/.next/standalone/apps/web/.next/server/app/admin/content.rsc",
+        "apps/web/.next/standalone/apps/web/.next/server/app/admin/content.segments/_full.segment.rsc",
+        "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE/2c341866bd3c66f55b5e832409078437ff75e1facae6a4c74571914b87db1204/$/admin/content.rsc",
+        "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE/2c341866bd3c66f55b5e832409078437ff75e1facae6a4c74571914b87db1204/$/admin/content.segments/_full.segment.rsc",
+        "apps/web/.next/server/app/admin/content.rsc",
+        "apps/web/.next/server/app/admin/content.segments/_full.segment.rsc"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 3795784,
+      "sha256": "736d9f2f714b052a0cacd867136005b4f34daababf2859817f44d22378229daa",
+      "paths": [
+        "apps/web/.next/standalone/apps/web/.next/server/app/admin/content.html",
+        "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE/2c341866bd3c66f55b5e832409078437ff75e1facae6a4c74571914b87db1204/$/admin/content.html",
+        "apps/web/.next/server/app/admin/content.html"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 3434759,
+      "sha256": "eca4a6c07adc5c66f62de3075963eeec14143a3a9855723b0448c140806dd567",
+      "paths": [
+        "apps/web/.next/standalone/apps/web/.next/server/app/admin/content.segments/!KGVuZ2xpc2gp/admin/content/__PAGE__.segment.rsc",
+        "apps/web/.next/standalone/apps/web/.next/server/route-cache/APP_PAGE/2c341866bd3c66f55b5e832409078437ff75e1facae6a4c74571914b87db1204/$/admin/content.segments/!KGVuZ2xpc2gp/admin/content/__PAGE__.segment.rsc",
+        "apps/web/.next/server/app/admin/content.segments/!KGVuZ2xpc2gp/admin/content/__PAGE__.segment.rsc"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 16544697,
+      "sha256": "6e6ba360acadd125e4fa4987287cea694feb8231b1e3ecfbf5f8ae399ef84050",
+      "paths": [
+        "apps/web/.next/standalone/apps/web/.next/server/chunks/8706.js",
+        "apps/web/.next/server/chunks/8706.js"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 1052496,
+      "sha256": "33413bfc76bc9574a6f3f49e011026cb5238020d68e639f4078c87ed8980247a",
+      "paths": [
+        "apps/api/.venv-phase1/lib/python3.9/site-packages/psycopg_binary/.dylibs/libssl.3.dylib",
+        "apps/api/.venv/lib/python3.12/site-packages/psycopg_binary/.dylibs/libssl.3.dylib"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    },
+    {
+      "bytesEach": 5547776,
+      "sha256": "72712351038642d0bb788ee10af8cf3f5d471a63ad5ef6158107caf3662f9036",
+      "paths": [
+        "apps/api/.venv-phase1/lib/python3.9/site-packages/psycopg_binary/.dylibs/libcrypto.3.dylib",
+        "apps/api/.venv/lib/python3.12/site-packages/psycopg_binary/.dylibs/libcrypto.3.dylib"
+      ],
+      "decision": "preserve except separately approved build/cache paths"
+    }
+  ],
+  "removePaths": [
+    ".ruff_cache",
+    "apps/api/.pytest_cache",
+    "apps/api/.ruff_cache",
+    "apps/api/app/__pycache__",
+    "apps/api/app/processing/__pycache__",
+    "apps/api/app/providers/__pycache__",
+    "apps/api/tests/__pycache__",
+    "apps/web/.next-dev",
+    "apps/web/.next/cache",
+    "apps/web/test-results",
+    "apps/web/tsconfig.tsbuildinfo"
+  ],
+  "postVerificationCleanup": [
+    {
+      "path": "apps/web/.next/standalone/apps/web/.next/server/route-cache",
+      "classification": "REGENERATABLE",
+      "reason": "Created by this run\u2019s HTTP smoke/audits after fresh standalone build. Verification servers stopped before removal."
+    },
+    {
+      "path": "/private/tmp/svd-size-cleanup-20261015/clean",
+      "classification": "UNUSED TEST ARTIFACT",
+      "reason": "Isolated archive install/build checkout created for this task; verified build already copied back."
+    },
+    {
+      "path": "/private/tmp/svd-size-cleanup-20261015/clean-python",
+      "classification": "UNUSED TEST ARTIFACT",
+      "reason": "Temporary clean dependency verification environment; API stopped. Existing project environments preserved."
+    }
+  ]
+}

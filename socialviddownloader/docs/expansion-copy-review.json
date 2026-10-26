@@ -1,0 +1,16 @@
+{
+  "reviewType": "Agent editorial review plus automated copy screening; no independent human certification",
+  "newArticlesReviewed": 8,
+  "spellingGrammarFailuresFound": 0,
+  "repeatedLongBodySentences": {},
+  "checks": [
+    "Distinct task and gap compared with baseline before authoring",
+    "Primary-source technical review",
+    "No caption export or automatic translation product promise",
+    "Illustrative examples labelled",
+    "Natural answer-first wording",
+    "Punctuation and spelling",
+    "Related caption task links"
+  ],
+  "unreviewedCandidateCount": 56
+}

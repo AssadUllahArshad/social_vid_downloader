@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-10-09T05:36:35.472Z",
+  "routes": [
+    {
+      "path": "/admin/",
+      "status": 404,
+      "location": null,
+      "noindex": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/admin/content/",
+      "status": 404,
+      "location": null,
+      "noindex": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/api/admin/providers/",
+      "status": 401,
+      "location": null,
+      "noindex": false,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": null
+    },
+    {
+      "path": "/snapchat/",
+      "status": 308,
+      "location": "/snapchat-downloader/",
+      "noindex": false,
+      "csp": null,
+      "cache": null
+    },
+    {
+      "path": "/snapchat-story-downloader/",
+      "status": 404,
+      "location": null,
+      "noindex": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/snapchat-story-viewer/",
+      "status": 404,
+      "location": null,
+      "noindex": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/definitely-missing-launch-route/",
+      "status": 404,
+      "location": null,
+      "noindex": true,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "location": null,
+      "noindex": false,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "public, max-age=0, must-revalidate"
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "location": null,
+      "noindex": false,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "s-maxage=31536000"
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200,
+      "location": null,
+      "noindex": false,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'",
+      "cache": "public, max-age=0"
+    }
+  ],
+  "health": [
+    {
+      "path": "/health",
+      "status": 200,
+      "body": {
+        "status": "ok"
+      }
+    },
+    {
+      "path": "/ready",
+      "status": 200,
+      "body": {
+        "status": "ready",
+        "stateBackend": "sqlite"
+      }
+    }
+  ],
+  "errors": [],
+  "healthScope": "Development SQLite API serving the production web build; not PostgreSQL/Redis production verification."
+}

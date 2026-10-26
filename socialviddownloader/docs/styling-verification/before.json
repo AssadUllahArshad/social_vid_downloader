@@ -1,0 +1,66 @@
+{
+  "styles": {
+    "font": "Times",
+    "buttonBackground": "rgb(239, 239, 239)",
+    "stylesheets": [
+      "http://127.0.0.1:3000/_next/static/css/19a5f78b4b2b6639.css"
+    ],
+    "serviceWorkers": {}
+  },
+  "errors": [
+    "Refused to apply style from 'http://127.0.0.1:3000/_next/static/css/19a5f78b4b2b6639.css' because its MIME type ('text/plain') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+    "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+    "Refused to execute script from 'http://127.0.0.1:3000/_next/static/chunks/app/(english)/layout-17243120e8b83d9b.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+    "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+    "Refused to execute script from 'http://127.0.0.1:3000/_next/static/chunks/7112-203c2010cdf528a9.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+    "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+    "Refused to execute script from 'http://127.0.0.1:3000/_next/static/chunks/app/(english)/page-01b3043506cb9e6d.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+  ],
+  "assets": [
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/app/(english)/layout-17243120e8b83d9b.js",
+      "status": 500,
+      "type": "text/plain"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/main-app-d4aed082becfe45c.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/webpack-99360225e07f4440.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/7112-203c2010cdf528a9.js",
+      "status": 500,
+      "type": "text/plain"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/5587-4d713d181b163368.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/app/(english)/page-01b3043506cb9e6d.js",
+      "status": 500,
+      "type": "text/plain"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/3344-dfdcf64a6c1cb42c.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/87c73c54-fd33669cffb637e8.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/1968-d6850301d12787d8.js",
+      "status": 200,
+      "type": "application/javascript; charset=UTF-8"
+    }
+  ]
+}

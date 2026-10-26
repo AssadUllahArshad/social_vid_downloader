@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-08",
+  "passed": true,
+  "scope": "Synthetic local integer-PCM FLAC roundtrip, not provider or native GUI testing",
+  "flacVersion": "flac 1.5.0",
+  "channels": 1,
+  "sampleWidthBytes": 2,
+  "sampleRate": 44100,
+  "frameCount": 44100,
+  "decodedPCMSHA256": "54d3527a3d36445f312bdb10f3cae534f1d34bc031a367ac476aa84610217649",
+  "decodedSamplesMatch": true,
+  "wholeFileBytesMatch": false,
+  "sourceIncludesAncillaryJUNK": true,
+  "truncatedStreamRejected": true,
+  "originalRetained": true,
+  "commands": [
+    "flac -V -o retained.flac source.wav",
+    "flac -t retained.flac",
+    "flac -d -o restored.wav retained.flac"
+  ],
+  "metadataCaveat": "Default roundtrip omitted the deliberately supplied ancillary JUNK chunk; audio sample identity is not full-file/metadata identity"
+}

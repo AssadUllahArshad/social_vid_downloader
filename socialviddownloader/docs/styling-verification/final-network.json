@@ -1,0 +1,51 @@
+{
+  "css": [
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 200,
+      "type": "text/css; charset=UTF-8",
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/chunks/apps_web_src_app_globals_1wvyn-h.css",
+      "status": 304,
+      "cacheControl": "no-cache, must-revalidate"
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "cache": {
+    "font": "Arial, Helvetica, sans-serif",
+    "serviceWorkers": 0
+  }
+}

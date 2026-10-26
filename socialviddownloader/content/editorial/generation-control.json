@@ -1,0 +1,13 @@
+{
+  "status": "PAUSED_FOR_LAUNCH",
+  "frozenAt": "2026-10-09T10:10:50.605015+05:00",
+  "timezone": "Asia/Karachi",
+  "reason": "User requested final production readiness; no new candidates or pages.",
+  "indexablePages": 268,
+  "savedDrafts": 1228,
+  "merged": 1094,
+  "rejected": 15,
+  "lastProcessedCandidateID": "SVD-A-GEN-CRT-0848",
+  "registryRecords": 2589,
+  "publishedArticles": 252
+}

@@ -1,0 +1,13 @@
+# Production example for host Nginx -> loopback web -> private API.
+# Confirm this subnet does not overlap host/VPN/container networks before use.
+# If changed, change the web address AND TRUSTED_PROXY_IPS together.
+services:
+  web:
+    networks:
+      default:
+        ipv4_address: 172.30.90.10
+networks:
+  default:
+    ipam:
+      config:
+        - subnet: 172.30.90.0/24

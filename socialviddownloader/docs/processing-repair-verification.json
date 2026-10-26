@@ -1,0 +1,298 @@
+{
+  "verifiedAt": "2026-10-13T18:28:04.022566+00:00",
+  "origin": "http://127.0.0.1:3000",
+  "webPID": 62839,
+  "apiPID": 62840,
+  "buildID": "-F7VjDt9_-5BXzoBfsT-K",
+  "compiler": "Webpack",
+  "apiOrigin": "http://127.0.0.1:8001",
+  "stateBackend": "isolated development SQLite; no claim of production Redis/PostgreSQL integration",
+  "testOnlyWriteRatePerMinute": 1000,
+  "productionResourceLimitsUnchanged": true,
+  "publicPages": 1097,
+  "indexablePages": 1020,
+  "noindexPages": 77,
+  "sitemapURLs": 1020,
+  "restoredIndexableURLs": 383,
+  "removedPublicURLs": 0,
+  "articleCount": 525,
+  "remainingSEOCandidates": 448,
+  "newArticles": 0,
+  "tests": {
+    "toolDesktopMobile": 44,
+    "seoBrowser": 8,
+    "multilingualBrowser": 14,
+    "proxySecurityBrowser": 2,
+    "cancellationAndLocalizedErrors": 28,
+    "originalTrailerRemoveAudio": 2,
+    "apiUniquePassingChecks": 238,
+    "apiNote": "Initial full suite: 234 passed / 2 fixture failures. Corrected production-ingress fixtures; all 36 affected checks passed. Two added storage-admission regressions passed. No production protection weakened.",
+    "publication": 26,
+    "reportExporterRegressions": 3,
+    "typescript": "PASS",
+    "eslint": "PASS",
+    "ruff": "PASS",
+    "productionBuild": "PASS"
+  },
+  "tools": [
+    {
+      "operation": "converter",
+      "name": "Video Converter",
+      "route": "/video-converter/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "compressor",
+      "name": "Video Compressor",
+      "route": "/video-compressor/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "trimmer",
+      "name": "Video Trimmer",
+      "route": "/trim-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "splitter",
+      "name": "Video Splitter",
+      "route": "/split-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "merger",
+      "name": "Video Merger",
+      "route": "/merge-videos/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "video-to-gif",
+      "name": "Video to GIF",
+      "route": "/video-to-gif/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "gif-to-video",
+      "name": "GIF to Video",
+      "route": "/gif-to-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "thumbnail",
+      "name": "Thumbnail Extractor",
+      "route": "/video-thumbnail-extractor/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "thumbnail-grid",
+      "name": "Thumbnail Grid",
+      "route": "/thumbnail-grid-generator/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "mp3",
+      "name": "MP3 Audio Extractor",
+      "route": "/video-to-mp3/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "remove-audio",
+      "name": "Remove Audio",
+      "route": "/remove-audio-from-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "images",
+      "name": "Images to Video",
+      "route": "/images-to-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "image-watermark",
+      "name": "Image Watermark",
+      "route": "/add-image-watermark/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "text-watermark",
+      "name": "Text Watermark",
+      "route": "/add-text-watermark/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "burn-subtitles",
+      "name": "Burn Subtitles",
+      "route": "/burn-subtitles-into-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "extract-subtitles",
+      "name": "Extract Subtitles",
+      "route": "/extract-video-subtitles/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "information",
+      "name": "Video Information",
+      "route": "/video-metadata-viewer/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "filters",
+      "name": "Video Filters",
+      "route": "/video-filters/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "stabilizer",
+      "name": "Video Stabilizer",
+      "route": "/stabilize-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "trim-silence",
+      "name": "Trim Silence",
+      "route": "/remove-silence-from-video/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "storyboard",
+      "name": "Storyboard Creator",
+      "route": "/video-storyboard-generator/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    },
+    {
+      "operation": "speed",
+      "name": "Change Video Speed",
+      "route": "/change-video-speed/",
+      "desktop": "PASS",
+      "mobile": "PASS",
+      "status": "VERIFIED"
+    }
+  ],
+  "seo": {
+    "schemaErrors": 0,
+    "publicPages": 1097,
+    "indexablePages": 1020,
+    "noindexPages": 77,
+    "draftArticles": 0,
+    "plannedUnwrittenBriefs": 0,
+    "dispositions": {
+      "MERGE_WITH_EXISTING": 1416,
+      "APPROVED_TO_WRITE": 525,
+      "REJECTED_DUPLICATE": 1,
+      "REJECTED_LOW_VALUE": 199,
+      "DEFERRED_FEATURE_NOT_READY": 448
+    },
+    "brokenDispositionDestinations": 0,
+    "publishedArticles": 525,
+    "publishedPublicPages": 1097,
+    "sitemapURLs": 1020,
+    "duplicateTitles": 0,
+    "duplicateH1s": 0,
+    "duplicateDescriptions": 0,
+    "canonicalErrors": 0,
+    "noindexInSitemap": 0,
+    "missingIndexable": 0,
+    "duplicateSitemapURLs": 0,
+    "brokenPublicURLs": 0,
+    "orphanIndexablePages": 0,
+    "brokenInternalLinks": 0,
+    "robotsMismatch": 0,
+    "duplicatePagesBlocked": 0,
+    "cannibalizationConflictsBlocked": 0,
+    "unsupportedTopicsBlocked": 0,
+    "platforms": {
+      "general": 1026,
+      "youtube": 26,
+      "instagram": 11,
+      "facebook": 8,
+      "tiktok": 10,
+      "snapchat": 9,
+      "whatsapp": 7
+    },
+    "families": {
+      "home": 1,
+      "tool": 10,
+      "hub": 6,
+      "trust": 5,
+      "guides": 1,
+      "blog": 1,
+      "utility": 23,
+      "glossary": 23,
+      "audio": 70,
+      "platform-help": 31,
+      "troubleshooting": 30,
+      "device": 37,
+      "browser": 29,
+      "how-to": 9,
+      "formats": 34,
+      "faq": 1,
+      "comparison": 14,
+      "use-case": 2,
+      "captions": 37,
+      "codecs": 11,
+      "creator": 183,
+      "copyright": 14,
+      "directory": 57,
+      "translation": 468
+    },
+    "target": 5000,
+    "remaining": 3980,
+    "percentageComplete": 20.4
+  },
+  "requestRejections": {
+    "rateLimited": 0,
+    "storageBusy": 1,
+    "expectedCancelledDelivery": 2,
+    "expectedInvalidMedia": 26,
+    "storageNote": "One additional 1,615,059-byte upload requested a second job while the mobile speed workflow was running at 18:23:05 UTC. Conservative active-job reservations plus retained media exceeded 1 GiB; storage_busy was returned safely. All 44 named workflows passed."
+  },
+  "historicalEvidence": "processing-load-failure-evidence.json",
+  "exactRestoredURLs": "sitemap-route-mismatch.json",
+  "logsDirectory": "/private/tmp/svd-reconciliation",
+  "readiness": "READY FOR MANUAL DEPLOYMENT",
+  "remainingCriticalBlockers": []
+}

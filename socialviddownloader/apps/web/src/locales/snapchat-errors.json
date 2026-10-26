@@ -1,0 +1,119 @@
+{
+  "en": {
+    "snapchat_not_spotlight": "Use a link to one public Snapchat Spotlight video.",
+    "content_unsupported": "Snapchat Story downloading is not supported. Use a public Spotlight link.",
+    "snapchat_profile": "This is a Snapchat profile, not a Spotlight video.",
+    "snapchat_restricted": "Snapchat restricts access to this content. Private or login-required content is not supported.",
+    "snapchat_unavailable": "This Snapchat content is unavailable, deleted or expired.",
+    "snapchat_temporary": "Snapchat is temporarily unavailable or limiting requests. Try again later.",
+    "snapchat_extraction_failed": "This Spotlight link is recognized, but its public video cannot currently be extracted."
+  },
+  "hi": {
+    "snapchat_not_spotlight": "किसी एक सार्वजनिक Snapchat Spotlight वीडियो का लिंक दें।",
+    "content_unsupported": "Snapchat Story डाउनलोड करना समर्थित नहीं है। सार्वजनिक Spotlight लिंक दें।",
+    "snapchat_profile": "यह Snapchat प्रोफ़ाइल है, Spotlight वीडियो नहीं।",
+    "snapchat_restricted": "Snapchat ने इस सामग्री की पहुँच सीमित की है। निजी या लॉगिन वाली सामग्री समर्थित नहीं है।",
+    "snapchat_unavailable": "यह Snapchat सामग्री उपलब्ध नहीं है, हटाई गई है या समाप्त हो गई है।",
+    "snapchat_temporary": "Snapchat अभी उपलब्ध नहीं है या अनुरोध सीमित कर रहा है। बाद में कोशिश करें।",
+    "snapchat_extraction_failed": "यह Spotlight लिंक पहचाना गया है, लेकिन इसका सार्वजनिक वीडियो अभी निकाला नहीं जा सकता।"
+  },
+  "ur": {
+    "snapchat_not_spotlight": "کسی ایک عوامی Snapchat Spotlight ویڈیو کا لنک دیں۔",
+    "content_unsupported": "Snapchat Story ڈاؤن لوڈ کی سہولت دستیاب نہیں۔ عوامی Spotlight لنک دیں۔",
+    "snapchat_profile": "یہ Snapchat پروفائل ہے، Spotlight ویڈیو نہیں۔",
+    "snapchat_restricted": "Snapchat نے اس مواد تک رسائی محدود کی ہے۔ نجی یا لاگ ان والا مواد معاونت یافتہ نہیں۔",
+    "snapchat_unavailable": "یہ Snapchat مواد دستیاب نہیں، حذف ہو چکا ہے یا اس کی مدت ختم ہو گئی ہے۔",
+    "snapchat_temporary": "Snapchat عارضی طور پر دستیاب نہیں یا درخواستیں محدود کر رہا ہے۔ بعد میں کوشش کریں۔",
+    "snapchat_extraction_failed": "یہ Spotlight لنک پہچان لیا گیا ہے، لیکن اس کی عوامی ویڈیو فی الحال حاصل نہیں کی جا سکتی۔"
+  },
+  "ar": {
+    "snapchat_not_spotlight": "استخدم رابط فيديو Snapchat Spotlight عام واحد.",
+    "content_unsupported": "تنزيل قصص Snapchat غير مدعوم. استخدم رابط Spotlight عامًا.",
+    "snapchat_profile": "هذا ملف شخصي على Snapchat وليس فيديو Spotlight.",
+    "snapchat_restricted": "يقيد Snapchat الوصول إلى هذا المحتوى. المحتوى الخاص أو الذي يتطلب تسجيل الدخول غير مدعوم.",
+    "snapchat_unavailable": "محتوى Snapchat هذا غير متاح أو محذوف أو منتهي الصلاحية.",
+    "snapchat_temporary": "Snapchat غير متاح مؤقتًا أو يحد من الطلبات. حاول لاحقًا.",
+    "snapchat_extraction_failed": "تم التعرف على رابط Spotlight، لكن لا يمكن استخراج الفيديو العام حاليًا."
+  },
+  "bn": {
+    "snapchat_not_spotlight": "একটি সর্বজনীন Snapchat Spotlight ভিডিওর লিংক দিন।",
+    "content_unsupported": "Snapchat Story ডাউনলোড সমর্থিত নয়। সর্বজনীন Spotlight লিংক দিন।",
+    "snapchat_profile": "এটি Snapchat প্রোফাইল, Spotlight ভিডিও নয়।",
+    "snapchat_restricted": "Snapchat এই কনটেন্টে প্রবেশ সীমিত করেছে। ব্যক্তিগত বা লগইন প্রয়োজন এমন কনটেন্ট সমর্থিত নয়।",
+    "snapchat_unavailable": "এই Snapchat কনটেন্ট অনুপলব্ধ, মুছে ফেলা হয়েছে বা মেয়াদ শেষ।",
+    "snapchat_temporary": "Snapchat সাময়িকভাবে অনুপলব্ধ বা অনুরোধ সীমিত করছে। পরে চেষ্টা করুন।",
+    "snapchat_extraction_failed": "Spotlight লিংকটি শনাক্ত হয়েছে, কিন্তু সর্বজনীন ভিডিওটি এখন বের করা যাচ্ছে না।"
+  },
+  "id": {
+    "snapchat_not_spotlight": "Gunakan tautan ke satu video Snapchat Spotlight publik.",
+    "content_unsupported": "Unduhan Snapchat Story tidak didukung. Gunakan tautan Spotlight publik.",
+    "snapchat_profile": "Ini profil Snapchat, bukan video Spotlight.",
+    "snapchat_restricted": "Snapchat membatasi akses ke konten ini. Konten pribadi atau yang memerlukan login tidak didukung.",
+    "snapchat_unavailable": "Konten Snapchat ini tidak tersedia, dihapus, atau kedaluwarsa.",
+    "snapchat_temporary": "Snapchat sementara tidak tersedia atau membatasi permintaan. Coba lagi nanti.",
+    "snapchat_extraction_failed": "Tautan Spotlight dikenali, tetapi video publiknya belum dapat diekstrak."
+  },
+  "vi": {
+    "snapchat_not_spotlight": "Dùng liên kết đến một video Snapchat Spotlight công khai.",
+    "content_unsupported": "Không hỗ trợ tải Snapchat Story. Hãy dùng liên kết Spotlight công khai.",
+    "snapchat_profile": "Đây là hồ sơ Snapchat, không phải video Spotlight.",
+    "snapchat_restricted": "Snapchat hạn chế quyền truy cập nội dung này. Không hỗ trợ nội dung riêng tư hoặc cần đăng nhập.",
+    "snapchat_unavailable": "Nội dung Snapchat này không có sẵn, đã bị xóa hoặc hết hạn.",
+    "snapchat_temporary": "Snapchat tạm thời không khả dụng hoặc đang giới hạn yêu cầu. Hãy thử lại sau.",
+    "snapchat_extraction_failed": "Đã nhận diện liên kết Spotlight nhưng hiện chưa thể trích xuất video công khai."
+  },
+  "th": {
+    "snapchat_not_spotlight": "ใช้ลิงก์วิดีโอ Snapchat Spotlight สาธารณะหนึ่งรายการ",
+    "content_unsupported": "ไม่รองรับการดาวน์โหลด Snapchat Story โปรดใช้ลิงก์ Spotlight สาธารณะ",
+    "snapchat_profile": "นี่คือโปรไฟล์ Snapchat ไม่ใช่วิดีโอ Spotlight",
+    "snapchat_restricted": "Snapchat จำกัดการเข้าถึงเนื้อหานี้ ไม่รองรับเนื้อหาส่วนตัวหรือเนื้อหาที่ต้องเข้าสู่ระบบ",
+    "snapchat_unavailable": "เนื้อหา Snapchat นี้ไม่พร้อมใช้งาน ถูกลบ หรือหมดอายุแล้ว",
+    "snapchat_temporary": "Snapchat ไม่พร้อมใช้งานชั่วคราวหรือจำกัดคำขอ โปรดลองอีกครั้งภายหลัง",
+    "snapchat_extraction_failed": "รู้จักลิงก์ Spotlight นี้แล้ว แต่ยังไม่สามารถดึงวิดีโอสาธารณะได้ในขณะนี้"
+  },
+  "pt-br": {
+    "snapchat_not_spotlight": "Use o link de um único vídeo público do Snapchat Spotlight.",
+    "content_unsupported": "Não há suporte para baixar Stories do Snapchat. Use um link público do Spotlight.",
+    "snapchat_profile": "Este é um perfil do Snapchat, não um vídeo do Spotlight.",
+    "snapchat_restricted": "O Snapchat restringe o acesso a este conteúdo. Conteúdo privado ou que exige login não é compatível.",
+    "snapchat_unavailable": "Este conteúdo do Snapchat está indisponível, foi excluído ou expirou.",
+    "snapchat_temporary": "O Snapchat está temporariamente indisponível ou limitando solicitações. Tente mais tarde.",
+    "snapchat_extraction_failed": "O link do Spotlight foi reconhecido, mas o vídeo público não pode ser extraído no momento."
+  },
+  "es": {
+    "snapchat_not_spotlight": "Usa el enlace de un solo vídeo público de Snapchat Spotlight.",
+    "content_unsupported": "No se admite descargar Stories de Snapchat. Usa un enlace público de Spotlight.",
+    "snapchat_profile": "Este es un perfil de Snapchat, no un vídeo de Spotlight.",
+    "snapchat_restricted": "Snapchat restringe el acceso a este contenido. No se admite contenido privado ni que requiera iniciar sesión.",
+    "snapchat_unavailable": "Este contenido de Snapchat no está disponible, se eliminó o caducó.",
+    "snapchat_temporary": "Snapchat no está disponible temporalmente o limita las solicitudes. Inténtalo más tarde.",
+    "snapchat_extraction_failed": "Se reconoció el enlace de Spotlight, pero no se puede extraer su vídeo público en este momento."
+  },
+  "fr": {
+    "snapchat_not_spotlight": "Utilisez le lien d’une seule vidéo publique Snapchat Spotlight.",
+    "content_unsupported": "Le téléchargement des Stories Snapchat n’est pas pris en charge. Utilisez un lien Spotlight public.",
+    "snapchat_profile": "Il s’agit d’un profil Snapchat, pas d’une vidéo Spotlight.",
+    "snapchat_restricted": "Snapchat restreint l’accès à ce contenu. Les contenus privés ou nécessitant une connexion ne sont pas pris en charge.",
+    "snapchat_unavailable": "Ce contenu Snapchat est indisponible, supprimé ou expiré.",
+    "snapchat_temporary": "Snapchat est temporairement indisponible ou limite les requêtes. Réessayez plus tard.",
+    "snapchat_extraction_failed": "Le lien Spotlight est reconnu, mais sa vidéo publique ne peut pas être extraite actuellement."
+  },
+  "de": {
+    "snapchat_not_spotlight": "Verwende den Link zu einem einzelnen öffentlichen Snapchat-Spotlight-Video.",
+    "content_unsupported": "Snapchat-Stories können nicht heruntergeladen werden. Verwende einen öffentlichen Spotlight-Link.",
+    "snapchat_profile": "Dies ist ein Snapchat-Profil, kein Spotlight-Video.",
+    "snapchat_restricted": "Snapchat beschränkt den Zugriff auf diesen Inhalt. Private Inhalte oder Inhalte mit Anmeldepflicht werden nicht unterstützt.",
+    "snapchat_unavailable": "Dieser Snapchat-Inhalt ist nicht verfügbar, wurde gelöscht oder ist abgelaufen.",
+    "snapchat_temporary": "Snapchat ist vorübergehend nicht verfügbar oder begrenzt Anfragen. Versuche es später erneut.",
+    "snapchat_extraction_failed": "Der Spotlight-Link wurde erkannt, aber das öffentliche Video kann derzeit nicht extrahiert werden."
+  },
+  "tr": {
+    "snapchat_not_spotlight": "Tek bir herkese açık Snapchat Spotlight videosunun bağlantısını kullanın.",
+    "content_unsupported": "Snapchat Story indirme desteklenmiyor. Herkese açık bir Spotlight bağlantısı kullanın.",
+    "snapchat_profile": "Bu bir Snapchat profili, Spotlight videosu değil.",
+    "snapchat_restricted": "Snapchat bu içeriğe erişimi kısıtlıyor. Özel veya giriş gerektiren içerikler desteklenmiyor.",
+    "snapchat_unavailable": "Bu Snapchat içeriği kullanılamıyor, silinmiş veya süresi dolmuş.",
+    "snapchat_temporary": "Snapchat geçici olarak kullanılamıyor veya istekleri sınırlıyor. Daha sonra tekrar deneyin.",
+    "snapchat_extraction_failed": "Spotlight bağlantısı tanındı ancak herkese açık video şu anda çıkarılamıyor."
+  }
+}

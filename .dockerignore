@@ -1,0 +1,27 @@
+node_modules
+**/node_modules
+**/.next
+**/.venv
+**/__pycache__
+.git
+.env
+**/test-results
+**/.venv-*
+**/.pytest_cache
+**/.ruff_cache
+
+# Frozen launch: no Android prototype, secrets or local build output in context.
+apps/android-status-saver
+**/.next-dev
+**/.env
+**/.env.*
+**/*.sqlite
+**/*.sqlite-*
+**/*.db
+**/*.log
+.verification
+
+releases
+**/test-media
+**/playwright-report
+**/*.tsbuildinfo

@@ -1,0 +1,331 @@
+{
+  "scope": "Fresh manual smoke-command verification using authorized public samples. Client test copies removed; server copies expire by TTL. Does not establish worldwide reliability.",
+  "results": [
+    {
+      "tool": "instagram",
+      "platform": "instagram",
+      "contentType": null,
+      "url": "https://www.instagram.com/p/aye83DjauH/",
+      "checkedAt": "2026-10-09T05:54:00.245296+00:00",
+      "status": "PASS",
+      "title": "B E A U T Y  F O R  A S H E S on Instagram: \"If Abel was a booger, Luke would definitely pick him. See it in action by playing this video. Yes! That's right, folks. This is a video and Instagram made that possible! Read about this new capability and check out the promo video (with our cameo appearance) by clicking on the link in my profile. Also, be sure to download the latest version of Instagram and start sharing your videos!\"",
+      "creator": "naomipq",
+      "duration": 8.742075,
+      "formatCount": 1,
+      "audioTracks": [],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 59900,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "08cd5f0c067369c87ff8",
+        "quality": "640p",
+        "height": 640,
+        "width": 640,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": false,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "none",
+        "audio_track_ids": [],
+        "default_audio_track_id": null,
+        "audio_containers": {},
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 1017460,
+      "reportedBytes": 1017460,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 640,
+          "height": 640,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "8.742075",
+      "durationSeconds": 9.35
+    },
+    {
+      "tool": "youtube",
+      "platform": "youtube",
+      "contentType": null,
+      "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "checkedAt": "2026-10-09T05:58:30.447911+00:00",
+      "status": "PASS",
+      "title": "Me at the zoo",
+      "creator": "jawed",
+      "duration": 19,
+      "formatCount": 2,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "mp4a.40.2",
+          "bitrate": 129796
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 20969,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "0122088ccdfbb27f9d57",
+        "quality": "144p",
+        "height": 144,
+        "width": 192,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": 504566,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": true,
+        "videoCodec": "avc1.4D400B",
+        "audioCodec": "mp4a.40.2",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 506033,
+      "reportedBytes": 506033,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 192,
+          "height": 144,
+          "tags": {
+            "language": "und",
+            "handler_name": "ISO Media file produced by Google Inc.",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Original \u00b7 Default",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "19.063583",
+      "durationSeconds": 31.6
+    },
+    {
+      "tool": "youtube",
+      "platform": "youtube",
+      "contentType": null,
+      "url": "https://www.youtube.com/shorts/BGQWPY4IigY",
+      "checkedAt": "2026-10-09T05:58:30.449184+00:00",
+      "status": "PASS",
+      "title": "MET THE LOVE OF MY LIFE ON AN AIRPLANE *caught on camera*",
+      "creator": "Allie Schnacky",
+      "duration": 14,
+      "formatCount": 11,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": false,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original",
+          "codec": "mp4a.40.2",
+          "bitrate": 129878
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 49266,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "4772503881eaef506822",
+        "quality": "144p",
+        "height": 144,
+        "width": 82,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": 296920,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": true,
+        "videoCodec": "avc1.4D400B",
+        "audioCodec": "mp4a.40.2",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 303618,
+      "reportedBytes": 303618,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 82,
+          "height": 144,
+          "tags": {
+            "language": "und",
+            "handler_name": "ISO Media file produced by Google Inc.",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Original \u00b7 Default",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "14.396372",
+      "durationSeconds": 25.3
+    }
+  ]
+}

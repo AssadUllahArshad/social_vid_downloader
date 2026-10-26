@@ -1,0 +1,3045 @@
+{
+  "checkedAt": "2026-10-13T18:18:30.505Z",
+  "checkedPages": 506,
+  "localizedPages": 468,
+  "indexableTranslations": 456,
+  "errors": [],
+  "pages": [
+    {
+      "path": "/hi/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/ur/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/ar/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/bn/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/id/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/vi/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/th/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/pt-br/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/es/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/fr/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/de/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/tr/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/faq/",
+      "status": 200,
+      "indexable": false,
+      "alternates": 0
+    },
+    {
+      "path": "/hi/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/hi/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ur/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/ar/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/bn/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/id/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/vi/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/th/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/pt-br/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/es/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/fr/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/de/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/facebook/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/facebook-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/facebook-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/instagram/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/instagram-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/youtube/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/instagram-reels-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/youtube-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/youtube-shorts-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tiktok/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/guides/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-tools/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tr/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/tiktok-video-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/snapchat-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/snapchat-spotlight-downloader/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/merge-videos/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-converter/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-compressor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/split-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/trim-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-to-gif/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/gif-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-thumbnail-extractor/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/thumbnail-grid-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-to-mp3/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/remove-audio-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/add-text-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/add-image-watermark/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/images-to-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/burn-subtitles-into-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/extract-video-subtitles/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-metadata-viewer/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/stabilize-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-filters/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/remove-silence-from-video/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/video-storyboard-generator/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    },
+    {
+      "path": "/change-video-speed/",
+      "status": 200,
+      "indexable": true,
+      "alternates": 14
+    }
+  ]
+}

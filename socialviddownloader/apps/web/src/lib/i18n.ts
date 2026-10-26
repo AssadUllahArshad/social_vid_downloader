@@ -1,0 +1,16 @@
+import en from "@/locales/en.json";
+import hi from "@/locales/hi.json";
+import ur from "@/locales/ur.json";
+import ar from "@/locales/ar.json";
+import bn from "@/locales/bn.json";
+import id from "@/locales/id.json";
+import vi from "@/locales/vi.json";
+import th from "@/locales/th.json";
+import pt from "@/locales/pt-br.json";
+import es from "@/locales/es.json";
+import fr from "@/locales/fr.json";
+import de from "@/locales/de.json";
+import tr from "@/locales/tr.json";
+export const dictionaries = { en, hi, ur, ar, bn, id, vi, th, "pt-br": pt, es, fr, de, tr };
+export { locales, isLocale, languageTag, direction, splitLocale, localeDestination } from "./locale-routing";
+export type { Locale } from "./locale-routing";

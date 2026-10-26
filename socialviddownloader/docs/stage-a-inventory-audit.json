@@ -1,0 +1,6428 @@
+{
+  "status": "INVENTORY_IN_PROGRESS",
+  "target": 5000,
+  "currentIndexableRecords": 564,
+  "verifiedHTTPIndexable": 1020,
+  "canonicalRegistryRecords": 2589,
+  "stageARawCandidates": 1875,
+  "draftHypotheses": 0,
+  "merged": 956,
+  "rejectedLowValue": 198,
+  "approvedStageAPages": 273,
+  "rawCandidatesAreNotApprovedPages": true,
+  "nativeTopicOnlyDrafts": 0,
+  "semanticReviewComplete": false,
+  "targetInventoryComplete": false,
+  "routeChecks": [
+    {
+      "path": "/guides/general/premiere-speaker-filter-removal-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-essential-sound-tag-vs-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-pause-removal-action-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-offline-export-slates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-search-bin-vs-retained-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-background-export-project-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-motion-position-vs-crop/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-safe-margin-guide-vs-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-gpu-renderer-export-difference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-transparent-black-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-compound-clip-vs-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-optimized-media-vs-original/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-range-export-selected/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-keyword-range-vs-cut-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-multicam-active-audio-angle/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-library-backup-media-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-spatial-conform-fit-fill/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-motion-template-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-rate-conform-vs-retime/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-local-vs-network-project-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-media-pool-relink-vs-change-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-project-backup-vs-timeline-backup/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-deliver-render-cache-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-render-individual-vs-single-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-color-managed-input-interpretation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-gallery-still-vs-video-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-powergrade-external-lut-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-fusion-composition-media-dependencies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-fairlight-bus-delivery-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-compound-clip-decompose-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-timeline-resolution-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-multicam-source-audio-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-proxy-generator-relink/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-fusion-title-font-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-render-queue-stale-job/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-timeline-xml-roundtrip-limits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/resolve-drt-timeline-vs-drp-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/imovie-share-resolution-missing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/imovie-library-external-volume-format/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/imovie-theater-vs-library-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/imovie-detach-audio-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/imovie-picture-in-picture-overlay-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-aspect-ratio-crop-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-local-project-assets-reconnect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-export-range-duration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-project-mlt-vs-movie/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-auto-caption-review-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-proxy-vs-export-original/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-project-archive-missing-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-remux-recording-vs-transcode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-multiple-audio-recording-tracks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-stereo-split-vs-mono-mix/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-track-mute-export-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-export-multiple-label-naming/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-scene-source-vs-retained-asset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-sample-format-dither-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-plugin-missing-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webvtt-inline-timestamp-karaoke/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-edit-zero-crossing-stereo-limits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/subtitle-edit-frame-rate-conversion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-metadata-language-tag-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-safe-placement-vs-video-crop/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audacity-equalization-vs-noise-removal/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ass-karaoke-timing-vs-subtitle-cues/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ass-drawing-subtitles-vs-dialogue/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/scc-caption-timecode-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/subtitle-ocr-review-image-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/subtitle-language-vs-region-tags/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/subtitle-default-vs-forced-track-flags/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-export-after-retiming/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/cea-608-vs-708-caption-reception/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ebu-stl-caption-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-reading-order-two-speakers/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-line-length-vs-reading-speed/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-edit-list-trim-interpretation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/fragmented-mp4-vs-flat-mp4/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-non-speech-sound-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-cover-art-vs-video-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mov-reference-movie-media-dependencies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-track-uid-vs-index/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mov-timescale-vs-frame-rate/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/avi-large-file-opendml/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-discontinuity-timestamps/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-vs-mp4-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webm-alpha-receiver-support/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vfr-average-rate-vs-packet-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-timestamp-wraparound/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-matrix-coefficients-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/display-aspect-ratio-clean-aperture/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/interlace-field-order-reversal/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/anamorphic-desqueeze-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/pulldown-cadence-vs-frame-duplication/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hevc-hvc1-vs-hev1/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-b-frames-decode-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/intra-only-vs-long-gop-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/prores-proxy-vs-hq-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/av1-film-grain-synthesis/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/dnxhr-profile-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vp9-profile-alpha-color-depth/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hevc-tier-level-bitrate-constraints/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/all-keyframe-output-file-size/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/media-time-base-vs-timecode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-extradata-missing-remux/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/packet-vs-frame-media-inspection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/media-hash-vs-perceptual-match/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/two-pass-encode-vs-two-audio-tracks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-buffer-vs-file-cache/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-export-location-metadata-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-low-data-mode-video-transfer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ipad-split-view-file-drag-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-media-scan-gallery-delay/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-work-profile-video-transfer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-nearby-quick-share-receiving/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/pixel-video-backup-mobile-data-policy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-gallery-onedrive-sync-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-file-extension-hidden-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-long-path-video-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-removable-drive-eject-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-hibernate-transfer-interruption/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-finder-tag-vs-filename/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-quarantine-video-open-warning/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-spotlight-video-search-index/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-photos-referenced-video-consolidate/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chromebook-linux-container-video-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-mount-option-video-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-case-sensitive-video-sidecar/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-flatpak-player-folder-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/safari-site-download-permission/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/firefox-pdf-like-inline-media-save/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/edge-download-location-per-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-download-resume-validity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-download-open-automatically/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-save-link-vs-page/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-extension-file-access-player/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-replace-song-audio-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-premiere-replay-vs-event/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-custom-thumbnail-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-end-screen-vs-video-pixels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-cards-vs-source-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-cover-edit-vs-retime/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-related-video-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-checks-pending/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-self-certification-vs-visibility/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-thumbnail-frame-owner/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-remix-permission-owner-control/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-comment-pinned-link-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-subscription-membership-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-embed-disabled-watch-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-remix-original-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-clip-source-trim-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-language-caption-dub-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-collab-post-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-crosspost-facebook-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-archive-vs-delete/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-pin-vs-backup/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-restore-recently-deleted/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-added-music-owner-save/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-download-owner-control/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-saved-audio-vs-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-video-close-friends-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-draft-device-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-cover-image-vs-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-edit-description-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-native-save-vs-bookmark/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-owner-reel-delete-recovery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-embed-restriction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-page-role-media-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-live-ended-recording-processing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-remix-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-live-retention-owner-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-messenger-video-vs-public-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-stitch-vs-complete-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-premiere-old-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-duet-picture-audio-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-repost-vs-local-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-edit-vs-movie-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-favorites-vs-downloads/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-privacy-after-sharing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-text-to-speech-vs-source-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-auto-captions-owner-edit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-series-paywall-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-sound-removed-post-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-remix-vs-source-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-comments-vs-media-content/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-sound-vs-original-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-send-video-document-vs-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/snapchat-memories-export-owner-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-chat-export-media-inclusion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-hd-video-vs-original-bytes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-auto-download-network-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-media-visibility-vs-local-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-save-to-photos-permission/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/music-license-scope-edited-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-linked-device-video-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-status-own-video-before-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/participant-consent-vs-upload-ownership/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-retention-expiry-manifest/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blur-mask-vs-audio-identification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/embedded-location-vs-visible-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/watermark-attribution-vs-license/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-review-comments-time-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shared-drive-link-revocation-copies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/archive-permission-source-evidence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-unicode-filenames/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-duplicate-content-different-cuts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-export-naming-version-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-case-collision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-checksum-manifest-move/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-external-sidecar-inventory/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-readonly-verification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/analysis-ok-preparation-expired/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-integrity-vs-playability/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/download-preparation-vs-browser-transfer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/preparation-retry-vs-parallel-jobs/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/filename-extension-html-error-response/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/download-progress-size-unknown/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-output-audio-longer-than-picture/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-output-picture-longer-than-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-duration-first-frame-negative-pts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-playback-colored-blocks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-playback-audio-pops-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-file-random-seek-crash/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-playback-black-picture-audible/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-wrong-display-refresh/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-audio-track-switch-offset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-subtitle-switch-resume/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-hardware-decoding-artifacts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-default-track-persistence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-file-permission-after-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-partial-cloud-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-save-destination-disconnected/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-export-invalid-temp-extension/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-export-two-pass-first-pass-only/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-file-audio-sample-discontinuity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/media-player-unsupported-subtitle-codec/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/stereo-video-layout-metadata-mismatch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vr180-vs-360-viewing-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/spherical-projection-reframe-derivative/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-lens-distortion-vs-aspect-stretch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-rolling-shutter-vs-stabilization-warp/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-shutter-angle-vs-playback-rate/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-banding-vs-block-compression/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-denoise-temporal-smear/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-grain-vs-digital-noise/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-ringing-vs-sharpening-halos/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-deblocking-vs-detail-recovery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-dither-vs-added-source-detail/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-gamut-map-saturated-colors/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-sdr-white-level-vs-hdr/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-alpha-straight-vs-premultiplied/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-letterbox-pixels-vs-player-bars/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-green-screen-vs-alpha-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-pan-scan-vs-letterbox/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-alpha-luma-matte-vs-channel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-thumbnail-contact-sheet/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-poster-frame-vs-first-presented-frame/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-map-chapters-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-shortest-termination-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-video-sync-frame-dup-drop/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-no-overwrite-existing-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-progress-complete-vs-partial-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffprobe-count-frames-vs-nb-frames/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffprobe-selected-packet-inspection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mediainfo-general-vs-stream-fields/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkvtoolnix-track-order-language/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkvtoolnix-font-attachments-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkvtoolnix-split-chapter-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-subtitle-burn-vs-passthrough/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-convert-selected-audio-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-crop-auto-source-edges/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-passthrough-vs-audio-encode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-record-button-vs-original-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/airdrop-video-photos-vs-files-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/quicktime-save-vs-export-encoding/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-snapshot-saved-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/airdrop-everyone-contacts-receiving/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/google-drive-shortcut-vs-original-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-icloud-shared-link-expiry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/google-drive-video-processing-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/google-drive-offline-video-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/onedrive-files-on-demand-pin-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/onedrive-shared-video-owner-move/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/dropbox-online-only-video-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/icloud-photos-optimize-storage-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/google-photos-account-switch-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/photos-shared-library-vs-shared-album/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-file-history-video-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/time-machine-video-restore-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-disk-image-video-mount/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/external-drive-fat32-video-size/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/network-share-video-copy-verification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/external-drive-apfs-exfat-video-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/smart-tv-usb-video-subtitle-support/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/media-server-direct-play-vs-transcode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/media-server-metadata-poster-vs-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/nas-video-transcoding-vs-original/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/projector-video-resolution-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/smart-tv-usb-multiple-audio-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/bluetooth-audio-headset-profile-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hdmi-audio-output-video-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-owner-audio-track-replacement/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-original-language-field/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-audio-track-language-notice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-title-description-translation-vs-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-auto-dub-review-before-publication/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-auto-dub-unpublish-vs-delete/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-caption-auto-sync-vs-uploaded-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-scheduled-live-vs-upload-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-caption-edit-new-video-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-live-stream-key-is-not-url/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-captions-draft-vs-published/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-live-dvr-vs-complete-replay/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-processing-abandoned-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-channel-handle-vs-video-id/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-playlist-order-vs-single-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-source-removal-retained-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-location-restriction-not-codec/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-restricted-mode-vs-owner-age-setting/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-aspect-classification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-watch-history-vs-retained-movie/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-post-share-to-dm-vs-copy-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-post-audience-change-existing-share/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-template-vs-source-assets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-grid-preview-crop-vs-reel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-comment-link-vs-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-series-collection-vs-item/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-voiceover-vs-original-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-effects-export-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-location-tag-vs-file-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-crosspost-permission-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-publication-page-vs-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-share-dialog-url-vs-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-translation-vs-sound/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-post-translation-vs-caption-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-page-unpublish-source-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-music-mix-vs-stem/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-group-member-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-live-replay-comment-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-profile-link-vs-single-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-collection-favorites-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-share-qr-vs-direct-video-url/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-age-country-audience/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-source-removed-shared-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-photo-slideshow-generated-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-reply-video-vs-comment/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-private-account-public-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-creator-download-disabled/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-duet-stitch-owner-permission/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-processing-pending/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-public-profile-clip-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-draft-sound-resource-missing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-short-share-expansion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/snapchat-memories-export-format-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-backup-restore-account-requirements/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-forwarded-video-source-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-owner-download-original-vs-published/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-backup-include-video-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-delete-for-me-vs-everyone/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-status-audience-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-web-download-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-desktop-video-preview-save/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-media-auto-delete-storage-manager/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-offline-proxy-only/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-archive-custom-plugin-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-missing-font-title/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-render-preview-vs-master/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-consolidate-trim-handles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-audio-conform-cache/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-thumbnail-cache-only/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-remote-review-vs-source-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-reference-audio-temp-music/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-watermark-review-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-review-audio-bus-muted/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-multiple-sequences-name-collision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-export-color-management-note/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-caption-companion-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-source-audio-split-channels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-save-before-media-move/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-roundtrip-speed-loss/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/editing-project-export-receiving-reimport/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/aac-adts-vs-latm-transport/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/aac-stereo-vs-parametric-stereo/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/aac-lc-vs-he-aac-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-lossy-generation-cascade/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-mono-sum-vs-single-channel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-time-stretch-vs-pitch-shift/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-stereo-width-vs-channel-language/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-phase-delay-vs-polarity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-silence-detection-vs-quiet-speech/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-export-mute-solo-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/av1-hardware-bit-depth-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-crossfade-repeated-word/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/h264-10bit-decoder-path/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-metadata-mastering-display-vs-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vp9-superframe-packet-count/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hevc-dolby-vision-base-layer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-pixel-format-vs-codec-name/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/raw-video-no-container-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/image-sequence-missing-frame-gap/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/image-sequence-alpha-associated-resources/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/platform-overlay-vs-encoded-picture/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-project-backward-compatibility/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-project-locking-conflict/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-import-selected-sequences/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-project-shortcut-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-photoshop-layered-image-import/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-blackmagic-raw-interpretation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-illustrator-image-rasterization/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-record-voiceover-track-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-audio-conform-every-open/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-hdr-iphone-import-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-mute-input-monitoring-record/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-project-specific-export-failure/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-custom-export-preset-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-render-export-preset-target/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-export-washed-out-color-path/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-smart-rendering-vs-transcode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-preview-files-final-render/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-export-caption-track-vs-burn/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-export-transcript-vs-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-aaf-audio-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-motion-graphics-text-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-edl-limited-timeline-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-omf-media-embedding-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-content-credentials-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-export-hdr-youtube-representation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-srt-transport-vs-subtitle/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-preroll-postroll-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-match-frame-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-dynamic-link-media-dependencies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-after-effects-roundtrip-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-photoshop-graphic-update-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-team-project-media-ownership/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-avid-interchange-source-references/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-audition-edit-original-vs-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-team-project-publish-vs-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-review-frameio-time-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-productions-project-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-team-project-conflict-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-productions-move-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-caption-style-track-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-frameio-upload-vs-original-storage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-caption-track-to-graphics/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-caption-track-format-limit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-caption-ripple-edit-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-caption-speaker-label-correction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-captions-visible-track-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-media-intelligence-result-vs-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-audio-search-uncertain-word/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-source-metadata-overlay-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-source-timecode-manual-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-marker-copy-sequence-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-detach-proxy-original-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-offline-clips-placeholder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-export-proxy-vs-final-master/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-ingest-copy-verify-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-source-camera-file-structure/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-backup-autosave-vs-creative-cloud/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-removable-network-media-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-color-space-export-override/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-lumetri-secondary-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-color-match-reference-scene/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-white-balance-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-exposure-clipped-highlight/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-scopes-monitor-vs-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-lut-file-move-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-hdr-monitoring-output-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-burnin-timecode-review-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-spanned-camera-clip-import/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-optical-flow-render-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-reverse-speed-sound/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-rate-stretch-duration-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-source-analysis-generated-keywords/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-photos-import-library-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-media-representation-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-import-canceled-media-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-library-storage-location-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-relink-original-vs-proxy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-library-cache-vs-backup-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-library-consolidate-motion-content/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-event-copy-media-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-optimized-proxy-delete-recreate/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-find-unused-media-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-browser-range-vs-project-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-clip-name-vs-source-filename/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-favorites-rejected-source-ranges/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-fcpxml-version-compatibility/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-custom-metadata-view-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-sync-audio-reference-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-break-apart-synchronized-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-multicam-sync-drift-later/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-multicam-angle-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-compound-reference-parent-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-backtimed-edit-source-end/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-compound-clip-audio-role-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-detached-audio-source-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-reference-role-export-names/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-loudness-meter-vs-normalize/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-voice-isolation-noise-overlap/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-audio-component-channel-config/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-title-safe-area-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-effects-missing-share-result/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-mask-effect-tracking-loss/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-chroma-key-spill-edge-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-luma-key-vs-alpha-channel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-stabilization-tripod-choice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-optical-flow-retime-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-360-reorient-vs-flat-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-stereoscopic-metadata-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-export-audio-role-container/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-share-batch-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-share-export-xml-vs-movie/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-share-frame-size-vs-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-library-repair-recoverable-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-roles-subroles-owner-map/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-padding-end-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-share-background-process-completion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-delay-channel-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-pan-channel-routing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-channelsplit-rejoin-layout/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-join-audio-common-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-loudnorm-analysis-vs-apply/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-reverse-audio-separate-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-crossfade-duration-accounting/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-sidechain-gate-trigger/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-volumedetect-measurement-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-clip-restoration-limits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-limiter-lookahead-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-spectral-statistics/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-subtitle-asr-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-filtergraph-split-copy-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-ass-render-font-resources/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-filtergraph-format-before-overlay/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-crop-detection-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-pad-output-background/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-scale-aspect-ratio-sar/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-rotate-expanded-canvas/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-motion-interpolation-edge-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-stack-resolution-cadence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-flip-mirrored-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-freeze-detect-content-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-field-order-correction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-video-trim-audio-consistency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-decimate-static-scenes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-alpha-merge-channel-interpretation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-tone-map-sdr-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-premultiply-alpha-edges/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-color-matrix-vs-gamut/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-colorspace-conversion-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-contact-sheet-time-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-psnr-ssim-limits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-vmaf-reference-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-waveform-vectorscope-companion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-video-signature-similarity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-credit-video-source-vs-permission/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-playlist-view-vs-video-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ffmpeg-signalstats-clipping-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-auto-captions-vs-creator-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-screen-reader-text-vs-video-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-photosensitive-content-notice/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-cast-source-vs-local-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-music-add-external-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-record-speed-vs-published-playback/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-sound-volume-original-mix/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-photo-alt-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-cover-text-vs-caption-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-preview-vs-final-published/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-effect-resource-vs-rendered-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-delete-draft-retained-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-studio-post-management-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-reuse-source-permission-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-browser-login-view-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-featured-places-vs-movie-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-recording-date-vs-publish-date/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-corrections-card-vs-movie-edit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-altered-content-label-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-channel-permissions-video-owner-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-daily-limit-owner-retry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-format-container-constraints/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-private-upload-window-close/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-own-audio-file-video-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-source-audio-recording-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-language-certification-vs-subtitles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-thumbnail-auto-selected-vs-custom/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-short-remix-attribution-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-offline-premium-device-expiry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-quality-label-source-encode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-chapter-timestamps-after-owner-trim/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-caption-search-vs-audio-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-submit-from-retained-camera-roll/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-save-favorite-vs-movie/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-description-source-permission-note/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-caption-overlay-vs-source-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-removal-shared-recipient-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-automatic-multiple-downloads/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-download-settings-managed-extension/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-audio-attribution-vs-separated-stem/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-download-dangerous-vs-uncommon/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-guest-download-lifetime/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-site-storage-reset-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/safari-download-list-removal-vs-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/safari-private-window-download-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/firefox-private-download-history/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/safari-cross-site-auth-session/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chrome-offline-page-vs-media-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/firefox-download-panel-open-folder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/edge-work-personal-profile-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/edge-efficiency-tab-background-work/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/edge-smart-screen-warning-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/brave-tor-window-media-limitations/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/brave-shields-site-request-diagnostic/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-internet-download-manager-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ios-browser-same-engine-different-download-ui/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-popup-block-vs-download-request/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/embedded-inapp-browser-external-open/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-internet-secret-mode-download-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-mixed-content-media-request/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-range-request-video-seeking/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-cors-preview-vs-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-data-url-vs-source-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-device-timezone-vs-link-expiry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-save-video-photos-incompatible/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-files-downloads-provider-location/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-photos-limited-library-app-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-external-drive-power-availability/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/iphone-files-uncompress-video-package/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ipad-keyboard-space-preview-vs-open/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-scoped-storage-picker-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-sd-card-move-app-media-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-usb-mtp-large-copy-interruption/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-recent-files-vs-download-directory/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-usb-mtp-transfer-mode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-secure-folder-video-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-files-trash-video-recovery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-photo-picker-cloud-item/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-gallery-trash-vs-cloud-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/samsung-dex-video-file-app-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-controlled-folder-access-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-file-blocked-zone-mark/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/pixel-photos-locked-folder-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-explorer-thumbnail-cache-file-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-default-app-per-extension/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-bitlocker-external-video-unlock/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-known-folder-redirect-downloads/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-usb-device-removal-queued-write/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-finder-alias-broken-media-target/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-files-full-disk-vs-folder-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-quick-look-vs-player-codec/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-photos-repair-vs-media-recovery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-tcc-permission-after-app-update/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-network-volume-sleep-video-relink/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chromebook-android-app-files-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chromebook-drive-offline-storage-limit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-portal-file-picker-media-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-snap-removable-media-interface/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/chromebook-usb-readonly-video-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-fuse-network-mount-video-seek/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/linux-xdg-download-folder-localization/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/bluetooth-delay-vs-file-sync/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/casting-mirroring-vs-remote-media-playback/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/smart-tv-usb-partition-recognition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hdmi-handshake-vs-black-video-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/download-error-stage-support-report/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/analysis-network-timeout-vs-source-gone/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/format-selection-stale-analysis/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/merge-failed-disk-space-temporary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/merge-failed-stream-parameter-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/download-request-rate-limit-retry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ready-file-filename-disposition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ready-file-zero-byte-check/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-progressive-faststart-vs-complete/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/download-hash-changes-between-preparations/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-audio-start-offset-vs-drift/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-one-channel-silent-speaker-map/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-index-seek-table-damage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-edited-file-container-duration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-seek-start-audio-missing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-first-frame-green-decoder-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-last-frame-hang-vs-duration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-fps-label-vs-motion-duplicates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-intermittent-chroma-flash/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-color-tags-missing-source-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-audio-channel-order-wrong/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-range-limited-full-washed/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-audio-downmix-phase-cancel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-audio-sample-rate-header-mismatch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-pitch-after-frame-rate-conform/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-subtitle-after-cut-overlap/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-subtitle-tag-rendered-literal/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-subtitle-font-missing-glyphs/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-subtitle-track-selected-blank/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-captions-mobile-desktop-different/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-caption-direction-numbers/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-subtitle-position-offscreen/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-file-locked-during-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-captions-audio-description-confusion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-file-zero-disk-allocation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-copy-name-normalization-collision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-readonly-project-export-overwrite/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-download-antivirus-quarantine/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-network-copy-source-changing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-network-share-credential-expiry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-external-drive-health-read-errors/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-checksum-read-error-vs-mismatch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-export-missing-linked-still/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-export-no-graphics-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-export-different-audio-bus/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/movie-export-missing-nested-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-nonspeech-sound-description/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-speaker-label-vs-voice-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-readability-background-contrast/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-music-lyrics-rights-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-placement-obscured-interface/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-safe-area-cropped-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-reading-speed-lower-third/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-translation-proper-name-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-ellipses-continuation-meaning/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-foreign-dialogue-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-unintelligible-speech-label/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-profanity-edited-version-match/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-singular-plural-transcription-error/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-code-snippet-transcription/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-language-switch-cue-label/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-live-delay-vs-archived-sync/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-numeric-unit-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-speaker-name-consent/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-pause-preserving-clean-transcript/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-source-text-revision-ledger/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-track-provenance-owner-vs-community/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-translated-track-quality-verification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-rtl-ltr-mixed-script-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-ruby-annotations-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-style-inheritance-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-region-rollup-vs-popon/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-duplicate-language-different-purpose/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-audio-description-transcript-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-automatic-translation-source-chain/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-download-no-source-resource/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-screen-reader-player-control/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-keyboard-toggle-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-burn-font-license/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-sdh-vs-dialogue-translation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caption-transcript-search-match-timestamp/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-studio-editor-save-processing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-studio-revert-original-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-live-chat-replay-vs-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-premiere-countdown-vs-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-clips-feature-source-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-channel-membership-public-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-sound-page-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-children-comment-caption-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-draft-owner-device/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-audio-library-license-record/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-scheduled-owner-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-live-trim-owner-replay-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-original-audio-attribution-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-crosspost-original-delete-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-page-renamed-video-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-draft-owner-device/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-group-audience-video-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-trial-reel-publication-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-scheduled-owner-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-accessibility-caption-owner/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-collab-remove-account-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-promotion-vs-source-item/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-professional-personal-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-profile-deactivation-public-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-remix-remove-original/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-caption-automatic-language/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-grid-remove-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-account-region-availability/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-pin-remove-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-owner-account-data-export-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-studio-upload-vs-native-draft/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-owner-account-data-export-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-playback-speed-viewer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-location-tag-removal/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-public-profile-association/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-age-content-warning-public-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/snapchat-memories-export-multiple-items/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-channel-video-vs-status/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-submission-review-appeal/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-view-once-video-retention-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-track-title-vs-language/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-default-forced-disposition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-multiple-video-streams-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-chapter-timebase-rounding/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-chapter-language-labels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-data-stream-preservation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/container-attached-picture-vs-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-edit-list-empty-leading-time/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-fragmented-vs-flat-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-sample-description-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-moov-box-missing-finalization/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-moov-multiple-track-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-hevc-tag-hvc1-hev1/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-timescale-versus-frame-rate/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-brand-vs-enclosed-codec/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mov-reference-movie-external-resources/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp4-audio-only-m4a-extension/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mov-timecode-track-vs-video-clock/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mov-metadata-location-track-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkv-track-uid-vs-number/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkv-linked-segments-archive-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkv-ordered-chapters-playback-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkv-tags-scope-specific-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mkv-attachment-mime-filename-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webm-subset-vs-matroska-capability/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-program-vs-stream-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-pid-change-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-pcr-vs-pts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mpeg-ts-188-192-packet-layout/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mxf-operational-pattern-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/avi-index-large-file-seeking/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mxf-sidecar-package-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ogg-chained-audio-streams/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/wav-riff-size-vs-rf64/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/wav-channel-mask-layout/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/caf-audio-handoff-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/playlist-manifest-vs-media-segments/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/aiff-aifc-compression-distinction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/dash-adaptation-set-audio-language/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hls-discontinuity-segment-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/dash-period-boundary-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/h264-avcc-annexb-packaging/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/h265-hvcc-annexb-packaging/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-bframe-reorder-delay/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-extradata-versus-packet-payload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-idr-cra-random-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-open-closed-gop-cut-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-intra-refresh-vs-keyframe/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-reference-frame-loss/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-dnxhr-profile-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-prores-profile-alpha/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-hevc-dolby-vision-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-av1-film-grain-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-hdr10-static-metadata-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-captions-sei-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-hdr10plus-dynamic-metadata-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-color-metadata-bitstream-container/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-crf-qp-bitrate-decision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-hardware-encoder-vs-decoder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-lossless-mode-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-encoder-quality-preset-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-vbv-receiver-buffer-constraint/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-chroma-subsampling-text-edges/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/codec-bit-depth-dither-conversion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/opus-pre-skip-end-trim/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-pcm-signed-float-format/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/opus-input-rate-versus-coded-clock/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mp3-xing-vbri-duration-seeking/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-pcm-endianness-raw-import/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-spatial-metadata-rendering/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-channel-mask-ambisonic-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-true-peak-versus-sample-peak/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-normalization-target-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-resampling-antialiasing-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-channel-language-role-manifest/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-clock-drift-long-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-consolidate-and-archive-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-your-own-project-templates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-move-project-to-another-computer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-still-images/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-images-as-image-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-photoshop-and-illustrator-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-record-audio-using-the-audio-track-mixer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-a-premiere-elements-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-record-a-voice-over-on-an-audio-track-from-the-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-mute-input-during-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-and-export-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-selected-premiere-sequences/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-avid-media-composer-project-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-for-media-using-ai-powered-media-intelligence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-for-similar-visuals-using-media-intelligence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-manage-media-intelligence-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-for-audio-using-media-intelligence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-relink-offline-media-automatically/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-locate-and-link-offline-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-a-marker-to-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-and-paste-sequence-markers/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-share-markers-with-after-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-view-source-timecode-in-the-program-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-timecode-display-format/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-view-sequence-timecode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-set-clip-timecode-manually/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-transfer-projects-from-one-computer-to-another/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-transfer-assets-from-file-based-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-transcode-or-archive-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-reconnect-full-resolution-media-to-proxies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-attach-proxies-to-full-resolution-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-relink-offline-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-offline-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-offline-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-xmp-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-convert-online-clips-to-offline-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-xmp-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-save-switch-or-delete-metadata-sets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-link-clip-data-to-xmp-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-view-clip-data-in-the-metadata-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-metadata-schemas-and-properties/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-display-metadata-as-overlays/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-video-in-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-export-or-delete-overlay-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-or-remove-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-subclip-from-the-project-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-subclip-from-the-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-convert-subclip-to-master-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-media-to-the-timeline-using-source-patching/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-adjust-media-start-and-end-times-of-subclip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-apply-multi-transitions-across-audio-and-video-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-set-the-aspect-ratio-of-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-video-using-the-properties-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-clips-to-the-timeline-using-text-based-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-sequences-using-text-based-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-low-resolution-clips-for-offline-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-sequence-with-paper-edit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-transcripts-using-text-based-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-clip-speed-using-the-speedduration-option/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-clip-speed-and-duration-using-the-rate-stretch-tool/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-trim-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-apply-time-interpolation-methods-to-adjust-clip-speed/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-remove-time-remapping-from-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-sequence-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-custom-sequence-preset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-clip-speed-and-duration-using-time-remapping/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-and-paste-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-find-clips-in-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-enable-or-disable-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-remove-clips-from-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-the-field-order-of-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-the-frame-rate-of-a-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-interlaced-or-non-interlaced-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-and-edit-a-multi-camera-target-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-multi-camera-source-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-manage-multi-camera-thumbnails-in-the-project-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-motion-graphic-templates-to-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-compare-edits-to-clips-in-the-program-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-data-driven-motion-graphics-templates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-linked-and-track-styles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-organize-motion-graphics-templates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-customize-motion-graphics-templates/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-apply-linked-and-track-styles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-text-styles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-color-fonts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-responsive-graphics/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-clip-layer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-source-graphics/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-graphic-as-a-motion-graphics-template/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-find-and-replace-text-using-the-graphics-tab/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-text-in-graphics-tab/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-markers-in-the-effect-controls-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-find-and-replace-text-in-transcription/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-styles-for-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-extract-audio-from-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-caption-file-from-third-party-service/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-single-word-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-synchronize-audio-and-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-link-audio-and-video-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-synchronize-clips-in-the-timeline-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-the-timecode-from-an-audio-primary-clip-to-create-a-merged-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-metadata-of-merged-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-view-audio-and-video-waveforms-in-the-source-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-merged-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-audio-using-the-properties-panel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-audio-clips-in-the-source-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-source-audio-channel-mapping/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-mono-clips-as-stereo-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-a-multi-clip-link-in-the-source-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-reverb-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-automatically-duck-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-adjust-track-volume/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-audio-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-adjust-gain-in-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-apply-loudness-meter-to-a-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-set-automation-modes-for-audio-clip-mixer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-record-changes-to-sound-tracks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-apply-effects-using-audio-track-mixer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-adjust-audio-track-effects-in-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-and-move-effects-in-audio-track-mixer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-and-paste-audio-effects-in-the-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-and-edit-multiple-lumetri-color-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-save-or-export-look-up-tables/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-auto-color/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-customize-color-setup-presets-for-new-or-existing-sequences/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-manage-source-media-colors-in-program-monitor/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-render-a-section-of-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-configure-sequence-output-color-space/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-replace-rendered-clips-with-original-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-render-and-replace-media-in-a-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-use-preview-files-when-rendering/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-delete-preview-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-a-still-image/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-caption-tracks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-a-still-frame/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-text-from-motion-graphics/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-videos-for-social-media-channels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-a-project-as-an-edl-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-a-project-as-a-final-cut-pro-xml-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-videos-with-content-credentials/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-video-and-audio-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-directly-to-adobe-media-encoder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-omf-files-for-pro-tools/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-options-in-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-aaf-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-and-export-hdr-videos-for-youtube-on-mac/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-from-avid-media-composer-to-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-a-visual-watermark-during-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-linked-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-remove-collaborators-from-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-and-filter-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-archive-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-delete-archived-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-view-versions-of-a-team-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-restore-archived-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-new-team-project-from-a-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-convert-premiere-projects-to-team-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-comments-on-shared-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-share-for-review-with-frame-io/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-move-clips-and-sequences-between-projects-in-a-production/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-add-projects-to-a-production/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-find-and-edit-source-clips-in-a-production/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-clips-across-projects-in-a-production/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-incorporate-branded-graphics-and-audio-elements/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-change-project-lock-status-in-production/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-automatically-manage-your-media-cache-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-manage-media-cache/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-for-viewing-platforms/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-delete-media-cache-files-manually/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-export-is-very-slow/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-recover-projects-after-a-crash/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-premiere-audio-clips-in-audition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-replace-clips-with-a-dynamically-linked-after-effects-composition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-premiere-sequences-in-audition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-search-for-clips-without-sound/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-after-effects-compositions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-delete-dynamically-linked-compositions-or-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-make-a-dynamically-linked-composition-offline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-relink-a-dynamically-linked-composition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-clips-from-premiere-to-after-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-photoshop-files-into-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-copy-from-after-effects-to-premiere/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-photoshop-file-in-a-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-share-assets-between-after-effects-and-premiere-using-dynamic-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-create-a-dynamically-linked-composition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-edit-still-images-in-premiere-using-photoshop/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-import-an-after-effects-composition/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-delete-a-dynamicaly-linked-composition-or-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/premiere-native-modify-a-dynamically-linked-composition-in-after-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-from-file-based-cameras/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-spanned-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-organize-files-during-import/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-from-an-archive-or-disk-image/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-from-music/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-using-media-extensions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-sony-x-ocn-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-prores-raw-camera-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-redcode-raw-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-compare-two-video-frames/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-canon-cinema-raw-light-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-duplicate-projects-and-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-delete-items-from-libraries/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-clip-and-project-notes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-find-clips-and-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-organize-clips-by-roles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-a-projects-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-square-vertical-versions-a-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-restore-a-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-save-and-back-up-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-copy-a-project-to-another-mac/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-still-images/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-clips-from-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-freeze-frames/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-only-a-clips-video-or-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-timeline-clip-appearance/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-find-a-project-clips-source-clip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-your-project-in-the-timeline-index/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-source-and-project-timecode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-show-clips-with-duplicate-ranges/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-music-and-sound/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-and-change-audio-levels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-configure-audio-channels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-audio-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-audio-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-audio-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-the-default-audio-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-save-audio-effects-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-keyframe-audio-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-sync-audio-and-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-the-default-title/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-apply-preset-text-styles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-find-and-replace-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-titles-in-motion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-3d-titles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-convert-text-to-3d-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-move-titles-in-3d-space/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-materials-to-3d-text-facets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-basic-3d-text-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-3d-text-lighting/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-closed-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-closed-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-closed-caption-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-and-arrange-closed-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-multilingual-closed-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-convert-closed-captions-to-subtitles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-closed-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-transitions-in-the-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-transitions-and-fades/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-set-the-default-duration-for-transitions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-transitions-inspector-viewer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-transitions-with-multiple-images/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-transitions-in-motion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-trim-the-edges-of-the-video-frame/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-video-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-built-in-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-the-default-video-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-an-auto-mask-to-a-video-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-a-magnetic-mask-to-a-video-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-a-shape-mask-to-a-video-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-a-color-mask-to-a-video-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-copy-effects-between-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-change-clip-effect-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-copy-and-paste-keyframes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-save-video-effects-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-or-turn-off-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-effects-in-motion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-adjustment-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-timecode-counters/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-video-effect-keyframes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-groups-of-keyframes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-and-reassign-roles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-effect-curves/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-custom-roles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-organize-the-timeline-with-audio-lanes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-show-audio-components-in-audio-lanes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-compound-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-compound-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-show-video-role-colors/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-media-for-multicam-edits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-multicam-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-clips-to-auditions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-multicam-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-change-clip-speed/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-variable-speed-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-speed-transitions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-cinematic-mode-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-xml-to-transfer-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-depth-of-field-in-cinematic-mode-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-the-focus-in-cinematic-mode-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-360-degree-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-enable-cinematic-mode-video-adjustments/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-and-navigate-360-degree-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-360-degree-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-360-degree-video-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-360-degree-clips-to-standard-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-360-degree-titles-and-generators/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-standard-clips-to-360-degree-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-the-360-degree-patch-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-the-tiny-planet-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-share-360-degree-clips-and-projects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-a-stereo-video-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-import-stereo-and-spatial-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-record-spatial-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-adjust-stereo-video-properties/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-stereo-and-spatial-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-or-share-stereo-and-spatial-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-green-screen-keyer-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-luma-keyer-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-magnetic-masks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-simple-shape-masks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-magnetic-masks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-scene-removal-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-auto-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-complex-masks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-multiple-masks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-change-a-clips-opacity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-motion-tracks-manually/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-color-correction-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-color-correction-effects/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-color-wheels-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-color-board-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-color-curves-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-huesaturation-curves-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-auto-mask-or-magnetic-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-color-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-the-color-adjustments-effect/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-a-color-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-edit-a-color-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-a-shape-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-remove-a-color-or-shape-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-shape-masks-to-a-color-mask/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-wide-gamut-hdr-color-processing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-hdr-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-display-video-scopes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-hdr-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-add-transitions-between-color-corrections/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-keyframe-color-corrections/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-save-color-correction-presets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-compare-color-corrections/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-mxf-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-final-mastering-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-still-images/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-files-for-http-live-streaming/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-image-sequences/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-share-roles-as-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-send-a-video-frame-to-pixelmator-pro/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-share-stereo-or-spatial-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-a-clips-information/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-override-a-clips-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-change-metadata-for-shared-items/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-locate-source-media-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-relink-clips-to-media-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-optimized-and-proxy-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-consolidate-projects-and-libraries/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-a-proxy-only-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-manage-render-files/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-create-a-new-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-copy-or-move-items-between-libraries/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-copy-or-move-a-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-modify-metadata-views/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-export-file-and-apple-devices-destinations/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-view-and-change-clip-metadata/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-batch-rename-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/final-cut-native-use-expanded-color-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-license-version-evidence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-third-party-elements-in-permission/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-permission-scope-internal-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-public-domain-source-verification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-permission-scope-commercial-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-creative-commons-adaptation-license/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-creative-commons-music-exception/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-attribution-link-offline-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-personal-data-export-sharing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-source-url-signed-token-report/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-error-report-screenshot-redaction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-review-link-access-expiry/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-filename-person-name-public-share/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-location-background-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-child-participant-sharing-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-production-contract-source-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-accessibility-reviewer-sharing-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-license-audit-expired-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-model-release-versus-copyright/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-stock-asset-license-project-transfer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-font-license-package-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-clean-aperture-versus-crop/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-platform-native-reuse-external-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-display-matrix-versus-pixels/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-bitstream-versus-elementary-stream/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-demux-versus-decode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-nominal-rate-versus-timebase/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-muxer-versus-encoder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-packet-versus-frame/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-filter-versus-bitstream-filter/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-source-id-versus-filename/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-source-language-versus-viewer-locale/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-master-versus-distribution-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-proxy-versus-mezzanine/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-restoration-versus-preservation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-render-cache-versus-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/audio-track-selection-versus-source-separation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/source-camera-archive-versus-edit-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/lossless-audio-copy-versus-lossy-stream-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-preferred-language-versus-source-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-transcript-panel-resource-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-video-audio-enhancement-source-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-tv-captions-receiver-setting/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-project-media-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-save-versus-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-upload-failure-stage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-caption-export-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-animation-timing-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-template-asset-dependencies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-generated-content-provenance/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-create-audio-track-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-short-generated-soundtrack-label/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-short-template-vs-source-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-generated-picture-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-source-video-owner-excerpt/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-owner-add-audio-description/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-subtitle-editor-authorized-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-caption-file-receiver-supported-format/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-translated-title-versus-caption/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-auto-caption-native-delete/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-source-language-update-role/",
+      "status": 404
+    },
+    {
+      "path": "/guides/youtube/youtube-copyright-music-panel-resource/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sequencer-scene-resource-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sound-strip-movie-association/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-movie-strip-source-start/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-video-editing-directory-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-image-sequence-strip-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-mask-strip-source-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-clip-strip-versus-movie-strip/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-scene-strip-nested-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-adjustment-strip-coverage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-compositor-strip-render-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-multicam-selector-source-alignment/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-cross-versus-gamma-cross/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-speed-control-audio-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-alpha-over-under-layer-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sound-crossfade-overlap/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-color-balance-source-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-wipe-transition-source-boundaries/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-audio-pitch-modifier-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-tone-map-view-versus-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-white-balance-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-mask-modifier-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-audio-echo-tail-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-storyboard-versus-sequencer-delivery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sound-equalizer-receiver-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-meta-strip-nested-edit-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-macos-desktop-audio-native-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-advanced-recording-track-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-expander-quiet-speech-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-audio-polarity-route-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-surround-recording-channel-map/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-encoding-overload-versus-source-damage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-wrong-gpu-native-capture/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/obs-game-capture-blank-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-project-bin-versus-library/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-archive-package-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-autosave-backup-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-effect-clip-track-master-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-effect-zone-keyframe-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-custom-effect-stack-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-render-preset-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-render-complete-open-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/picture-in-picture-window-vs-retained-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-fullscreen-permission-video-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-hardware-decoder-local-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-video-touch-controls-hidden/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-video-rate-setting-vs-file-speed/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/browser-background-audio-os-suspension/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/icloud-windows-video-hydration-progress/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/icloud-video-edit-windows-sync-direction/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-photos-remove-library-vs-delete-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/icloud-browser-video-export-representation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/apple-photos-video-date-export-filesystem/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/apple-photos-video-album-membership-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/windows-video-folder-junction-copy-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/mac-video-folder-symlink-backup-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-reflink-copy-vs-independent-backup/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/nas-video-user-quota-vs-free-capacity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-cloud-reserved-filename-rejection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/nas-video-snapshot-vs-download-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/android-usb-locked-screen-file-list/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-mtp-copy-size-still-growing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-file-names-unicode-normalization/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-copy-completed-size-check-mismatch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-player-end-time-vs-file-completion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-zip-extraction-name-collision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-drag-drop-browser-upload-stalled/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-download-temp-folder-cross-volume/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-open-dialog-extension-filter-hidden/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-cloud-preview-stale-after-replacement/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-cold-storage-restore-verification/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-dedup-before-delete/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-restore-drill-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-offline-index-vs-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-manifest-path-renaming/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-archive-checksum-algorithm-migration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-review-access-log-vs-view-proof/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-share-password-separate-channel/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-retained-copy-account-deletion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-thumbnail-catalog-vs-proxy-archive/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-filesystem-sparse-file-accounting/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-reels-unified-creation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-owner-remix-controls/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-caption-language-file-name/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-desktop-vs-mobile-editing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-remix-side-by-side-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-saved-collection-source-gone/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-video-thumbnail-owner-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-share-group-audience-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-template-vs-source-download/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-align-native-recording/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-cover-change-existing-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-download-watermark-attribution/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-save-owner-music-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-carousel-reel-native-representation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-remix-layout-derivative/",
+      "status": 404
+    },
+    {
+      "path": "/guides/instagram/instagram-reel-reshare-story-source-link/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-original-sound-remove-other-posts/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-search-history-source-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-series-vs-public-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-native-ai-voice-label-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-native-trim-segment-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-native-video-cover-text-post/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-remix-source-versus-composite/",
+      "status": 404
+    },
+    {
+      "path": "/guides/tiktok/tiktok-post-download-vs-creator-studio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-snap-comment-vs-original-video/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-upload-camera-roll-orientation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-owner-comment-moderation-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/snapchat/spotlight-timed-text-versus-transcript/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-status-hd-label-source-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-linked-device-video-local-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-live-preview-versus-final-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-source-title-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-queue-import-missing-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-subtitle-default-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-queue-retry-single-item/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-foreign-audio-search-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-burned-and-soft-caption-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-rotation-dimension-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-upscale-source-detail/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-import-srt-native-encoding/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-surround-passthrough-fallback/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-audio-gain-headroom/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-metadata-passthrough-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-drc-versus-loudness/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-activity-log-source-versus-encode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-process-isolation-worker/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-hdr-metadata-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-bit-depth-output-check/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-filter-chain-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-hardware-versus-software-encode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-auto-file-naming-collision/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-native-container-track-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-stream-versus-save-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-source-supported-but-encode-fails/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-batch-output-overwrite/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/handbrake-cli-preset-import-native/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-audio-extraction-selected-stream/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-remux-versus-convert-profile/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-record-playback-range/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-merge-order-output-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-recording-folder-discovery/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-subtitle-delay-session/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-audio-delay-session/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-snapshot-vs-cover-art/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-subtitle-selection-encoding/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-video-crop-session/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-deinterlace-playback-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-volume-above-reference/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-android-native-subtitle-file-picker/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-android-native-library-rescan/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-playlist-external-media/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-android-native-video-grouping/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-android-native-audio-track-name/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-ios-native-video-app-storage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-ios-native-delete-media-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-spherical-projection-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-ios-native-group-movie-identity/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-ios-native-playlist-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/vlc-native-stereo-display-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-slip-edit-source-window/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-ripple-delete-aligned-tracks/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-edit-insert-versus-overwrite/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-spacer-selected-track-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-three-point-source-target/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-multiple-item-resize-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-linked-audio-video-split/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-nested-sequence-source-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-sequence-copy-project-dependencies/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-sequence-duplicate-version-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-sequence-timecode-offset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-sequence-specific-output-settings/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-subtitle-style-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-subtitle-layer-order/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-nested-waveform-update/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-subtitle-import-export-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-subtitle-line-split-timing/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-subtitle-mkv-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-speech-recognition-model/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-silence-detection-selection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-native-transcript-created-clips/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-render-selected-zone-versus-full/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-render-marker-multi-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/kdenlive-render-parallel-resource-limits/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-locate-files-cache-versus-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-content-backup-completion/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-temp-storage-clear-relink/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-project-second-computer-assets/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-unsaved-change-state/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-recovery-export-versus-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-onedrive-project-asset-folder/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-missing-stock-asset-derivative/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-unsupported-input-representation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-unsupported-hardware-browser/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-export-output-size-change/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-source-import-vs-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-exported-file-vs-youtube-upload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-iphone-import-preparation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-export-download-destination/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-google-drive-source-import-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-remove-asset-versus-instance/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-gif-timeline-duration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-still-duration-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-voice-recorder-source-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-ai-voice-source-label/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-webcam-mirrored-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-group-edit-resource-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-screen-recording-two-resources/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-multi-item-trim-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-picture-in-picture-layer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-green-screen-edge-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-separated-audio-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-noise-suppression-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-caption-sidecar-vs-render/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-silence-removal-sync/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-autocaption-source-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-template-source-dependency/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-transition-source-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-generated-background-layer/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-auto-composition-source-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-aspect-ratio-crop-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-watermark-stock-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-alternate-audio-resource/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/clipchamp-native-resolution-source-limit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-transcript-owner-edit/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-transcript-delete-retained-copy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-trim-versus-retained-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-custom-thumbnail-vs-file/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-chapters-vs-embedded-markers/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-noise-suppression-session/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-player-embed-recipient-access/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-native-screen-recording-permission-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-native-video-share-copy-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-native-playlist-source-availability/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/m365-native-meeting-chapters-transcript-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-external-manifest-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-ingredient-resources/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-remux-derivative/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-signer-vs-creator/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-sharing-privacy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/video-content-credentials-missing-versus-invalid/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hls-webvtt-segment-crossing-cues/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/hls-webvtt-empty-segment-versus-missing-captions/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-region-coordinate-viewport/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-profile-required-feature-reception/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-clock-frame-tick-expression/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-namespace-validation-versus-caption-support/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-whitespace-preservation-dialogue/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/ttml-image-caption-versus-editable-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webvtt-cue-identifier-versus-visible-text/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-mlt-nested-clip-resource-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-export-source-playlist-timeline/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-backup-save-recovery-version/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webvtt-note-style-region-payload/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-resource-dialog-missing-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/webvtt-cue-settings-unsupported-receiver/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-export-edl-resource-loss/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-filter-trim-duration-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-export-failure-timeline-region/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-edit-friendly-conversion-resource/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-project-audio-channel-layout/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-vfr-source-edit-sync/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-hdr-processing-receiving-output/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-video-mode-change-layout/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-nearest-neighbor-seeking-accuracy/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-realtime-preview-drops-vs-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-adjustment-clip-filter-coverage/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-align-reference-track-offset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-ripple-all-tracks-sync-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-auto-duck-reference-track/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-source-player-versus-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-replace-clip-filter-time-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-voiceover-take-resource-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-filter-copy-scope-keyframes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-transition-overlap-source-handles/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-speech-text-transcript-review/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-subtitles-panel-track-export/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-custom-wipe-resource-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-export-preset-versus-project-mode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-caption-tts-generated-narration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-hardware-encode-failed-fallback/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-export-metadata-versus-project-notes/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-filter-set-external-plugin-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-time-remap-audio-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/shotcut-command-line-export-source-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-slip-source-boundary/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-overlap-edit-mode/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-gap-removal-selection-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-retiming-transition-source-audio/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-freeze-retiming-slide-duration/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-hold-split-source-offset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-linked-strip-duplicate-data-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-image-strip-separate-sequence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-effect-input-reassignment/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-mute-render-scope/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-movie-set-render-size-project/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sequencer-fit-fill-stretch/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sequencer-crop-vs-transform/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-strip-color-space-source/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sound-strip-mono-representation/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sound-waveform-cache-vs-resource/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-proxy-timecode-source-seek/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-sequencer-cache-stale-preview/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/blender-custom-proxy-directory-handoff/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-stream-copy-element-retention/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-laced-block-versus-frame/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-timestamp-scale-clock-inspection/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-seek-preroll-versus-timeline-offset/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-track-language-precedence/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-discard-padding-trim-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-default-flags-player-preferences/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-forced-flag-versus-caption-content/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-accessibility-track-flags/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-virtual-track-subresource-support/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-negative-timestamp-decode-context/",
+      "status": 404
+    },
+    {
+      "path": "/guides/general/matroska-segment-title-versus-filename/",
+      "status": 404
+    }
+  ],
+  "errors": [],
+  "shortlist": []
+}

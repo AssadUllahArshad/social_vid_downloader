@@ -1,0 +1,612 @@
+{
+  "date": "2026-10-14",
+  "status": "VERIFIED",
+  "rootCause": [
+    "Share redirects use creator-qualified /@creator/spotlight/ID routes, rejected by the old validator before extraction.",
+    "The installed Spotlight extractor truncated IDs at hyphens."
+  ],
+  "providedURL": "https://snapchat.com/t/2mjmfV1D",
+  "providedClassification": "public Spotlight",
+  "resolvedPublicURL": "https://www.snapchat.com/@teranirmaan/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2RpcmF6YW9nAaB-ty4LAaB-trvXAAAAAw",
+  "liveAPIDownloads": [
+    {
+      "tool": "snapchat",
+      "platform": "snapchat",
+      "contentType": null,
+      "url": "https://snapchat.com/t/2mjmfV1D",
+      "checkedAt": "2026-10-14T06:24:54.825376+00:00",
+      "status": "PASS",
+      "title": "Welcome to America 🇺🇸  guys 👀",
+      "creator": "teranirmaan",
+      "duration": 4.7,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original · Default",
+          "codec": "aac",
+          "bitrate": 66785
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 25972,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "5feceb66ffc86f38d952",
+        "quality": "960p",
+        "height": 960,
+        "width": 540,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 794705,
+      "reportedBytes": 794705,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 540,
+          "height": 960,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.733333",
+      "durationSeconds": 16.67
+    },
+    {
+      "tool": "snapchat",
+      "platform": "snapchat",
+      "contentType": null,
+      "url": "https://www.snapchat.com/t/2mjmfV1D",
+      "checkedAt": "2026-10-14T06:26:27.681665+00:00",
+      "status": "PASS",
+      "title": "Welcome to America 🇺🇸  guys 👀",
+      "creator": "teranirmaan",
+      "duration": 4.7,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original · Default",
+          "codec": "aac",
+          "bitrate": 66785
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 25972,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "5feceb66ffc86f38d952",
+        "quality": "960p",
+        "height": 960,
+        "width": 540,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 794705,
+      "reportedBytes": 794705,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 540,
+          "height": 960,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.733333",
+      "durationSeconds": 19.23
+    },
+    {
+      "tool": "snapchat",
+      "platform": "snapchat",
+      "contentType": null,
+      "url": "https://snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYZ2RpcmF6YW9nAaB-ty4LAaB-trvXAAAAAw",
+      "checkedAt": "2026-10-14T06:26:27.682664+00:00",
+      "status": "PASS",
+      "title": "Welcome to America 🇺🇸  guys 👀",
+      "creator": "teranirmaan",
+      "duration": 4.7,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original · Default",
+          "codec": "aac",
+          "bitrate": 66785
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 25972,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "5feceb66ffc86f38d952",
+        "quality": "960p",
+        "height": 960,
+        "width": 540,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 794705,
+      "reportedBytes": 794705,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 540,
+          "height": 960,
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.733333",
+      "durationSeconds": 10.31
+    },
+    {
+      "tool": "snapchat",
+      "platform": "snapchat",
+      "contentType": null,
+      "url": "https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYYWtidGhudGZpAX1TKn0JAX1TKnXJAAAAAA",
+      "checkedAt": "2026-10-14T06:26:37.995914+00:00",
+      "status": "PASS",
+      "title": "Views 💕",
+      "creator": "shreypatel57",
+      "duration": 4.665,
+      "formatCount": 1,
+      "audioTracks": [
+        {
+          "id": "119add189cca2750fb13",
+          "language_code": null,
+          "language_name": "Unknown",
+          "is_default": true,
+          "is_original": false,
+          "is_descriptive": false,
+          "is_dubbed": false,
+          "origin": "source",
+          "label": "Original · Default",
+          "codec": "aac",
+          "bitrate": 121723
+        }
+      ],
+      "thumbnail": {
+        "status": 200,
+        "bytes": 23634,
+        "contentType": null
+      },
+      "selectedFormat": {
+        "id": "5feceb66ffc86f38d952",
+        "quality": "880p",
+        "height": 880,
+        "width": 480,
+        "extension": "mp4",
+        "filesize": null,
+        "estimatedFilesize": null,
+        "hasAudio": true,
+        "hasVideo": true,
+        "requiresMerge": false,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "audio_track_ids": [
+          "119add189cca2750fb13"
+        ],
+        "default_audio_track_id": "119add189cca2750fb13",
+        "audio_containers": {
+          "119add189cca2750fb13": "mp4"
+        },
+        "supports_dual_audio": false
+      },
+      "stage": "verified_file",
+      "bytes": 583698,
+      "reportedBytes": 583698,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 480,
+          "height": 880,
+          "tags": {
+            "language": "und",
+            "handler_name": "Core Media Audio",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "tags": {
+            "language": "und",
+            "handler_name": "Core Media Audio",
+            "vendor_id": "[0][0][0][0]"
+          },
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          }
+        }
+      ],
+      "probedDuration": "4.641995",
+      "durationSeconds": 14.64
+    }
+  ],
+  "liveBrowserDownloads": [
+    {
+      "project": "desktop",
+      "status": "passed",
+      "verifiedMedia": [
+        {
+          "bytes": 794705,
+          "duration": "4.733333",
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "width": 540,
+              "height": 960
+            },
+            {
+              "type": "audio",
+              "codec": "aac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "project": "mobile",
+      "status": "passed",
+      "verifiedMedia": [
+        {
+          "bytes": 794705,
+          "duration": "4.733333",
+          "streams": [
+            {
+              "type": "video",
+              "codec": "h264",
+              "width": 540,
+              "height": 960
+            },
+            {
+              "type": "audio",
+              "codec": "aac"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "inaccessiblePublicShare": {
+    "url": "https://snapchat.com/t/WhWPtAb9",
+    "source": "https://www.snapchat.com/tag/https",
+    "httpStatus": 404,
+    "code": "snapchat_unavailable",
+    "downloaded": false
+  },
+  "unsupportedCases": {
+    "story": "rejected without extraction; controlled API and redirect fixtures",
+    "profile": "rejected without extraction; controlled API and redirect fixtures",
+    "restricted": "HTTP 401/403 and restricted public-page flag tested with fixtures; no authentication attempted",
+    "notSpotlight": "download landing page and unresolved short-link fixtures rejected",
+    "temporaryFailure": "HTTP 429/503 and connection failure fixtures distinguished",
+    "missingTargetMedia": "no recommendation-feed fallback"
+  },
+  "tests": {
+    "snapchatAPI": 43,
+    "existingSecurityAndProviderAPI": 52,
+    "processingFormatsAudioRegressions": 120,
+    "browserRegressions": 58,
+    "liveBrowserWorkflows": 2,
+    "publication": 29,
+    "typescript": "PASS",
+    "eslint": "PASS",
+    "ruff": "PASS",
+    "productionBuild": "PASS"
+  },
+  "preserved": {
+    "snapchatStatus": "BETA",
+    "storySupport": false,
+    "indexableURLs": 1020,
+    "sitemapURLs": 1020,
+    "languages": 13,
+    "processingTools": 22,
+    "transportAllowlistChanged": false,
+    "resourceLimitsChanged": false,
+    "credentialsCollected": false
+  },
+  "filesChanged": [
+    "apps/api/app/security.py",
+    "apps/api/app/providers/snapchat.py",
+    "apps/api/app/extractor.py",
+    "apps/api/tests/test_snapchat.py",
+    "apps/web/src/components/downloader.tsx",
+    "apps/web/src/locales/snapchat-errors.json",
+    "apps/web/e2e/snapchat-share.spec.ts"
+  ],
+  "buildID": "5Ebdy2Pcw9etr2mX4Qy45",
+  "localOrigin": "http://127.0.0.1:3000",
+  "logsDirectory": "/private/tmp/svd-snapchat-share"
+}

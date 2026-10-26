@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-10-08",
+  "passed": true,
+  "scope": "Local Chromium VTTCue.getCueAsHTML parsing only; not visual rendering, format conversion, native editor behavior or downloader subtitle export.",
+  "result": {
+    "annotationHTML": "<span title=\"Presenter\">Check the switch.</span>",
+    "annotationName": "Presenter",
+    "annotationText": "Check the switch.",
+    "visibleLabelText": "Presenter: Check the switch."
+  }
+}

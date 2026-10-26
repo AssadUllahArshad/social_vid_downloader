@@ -1,0 +1,112 @@
+[
+  {
+    "width": 390,
+    "styles": {
+      "body": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      },
+      "main": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "30px 0px 70px",
+        "margin": "0px 16px",
+        "maxWidth": "850px"
+      },
+      "h1": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "34px",
+        "lineHeight": "40.8px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 20px",
+        "maxWidth": "none"
+      },
+      "h2": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "26px",
+        "lineHeight": "31.2px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "35px 0px 15px",
+        "maxWidth": "none"
+      },
+      "main section p": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(99, 112, 116)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "12px 0px",
+        "maxWidth": "none"
+      }
+    }
+  },
+  {
+    "width": 1366,
+    "styles": {
+      "body": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      },
+      "main": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "45px 0px 70px",
+        "margin": "0px 258px",
+        "maxWidth": "850px"
+      },
+      "h1": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "42px",
+        "lineHeight": "50.4px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 20px",
+        "maxWidth": "none"
+      },
+      "h2": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "26px",
+        "lineHeight": "31.2px",
+        "color": "rgb(23, 33, 36)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "35px 0px 15px",
+        "maxWidth": "none"
+      },
+      "main section p": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "lineHeight": "25.6px",
+        "color": "rgb(99, 112, 116)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "12px 0px",
+        "maxWidth": "none"
+      }
+    }
+  }
+]

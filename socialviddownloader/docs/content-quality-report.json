@@ -1,0 +1,3167 @@
+{
+  "inventoryCount": 2589,
+  "dispositions": {
+    "MERGE_WITH_EXISTING": 1416,
+    "APPROVED_TO_WRITE": 525,
+    "REJECTED_DUPLICATE": 1,
+    "REJECTED_LOW_VALUE": 199,
+    "DEFERRED_FEATURE_NOT_READY": 448
+  },
+  "approvedIntentCount": 525,
+  "unwrittenBriefCount": 0,
+  "writtenCount": 525,
+  "inventoryIssues": [],
+  "quality": [
+    {
+      "path": "/guides/general/video-container-vs-codec/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/dual-audio-vs-stereo/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/missing-source-language/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/original-vs-default-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/subtitle-language-vs-audio-language/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/temporary-analysis-session/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/local-file-vs-expired-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/opaque-format-identifiers/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/verified-file-readiness/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/source-provided-format-inventory/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/iphone-files-vs-photos/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-preview-vs-save/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-video-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-video-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-reels-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/facebook/facebook-video-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/facebook/facebook-reels-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/snapchat-spotlight-copy-direct-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/android-downloads-folder/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/windows-downloads-folder/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mac-downloads-folder/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/chromebook-local-files/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/icloud-drive-vs-local-storage/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/windows-cloud-vs-local-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/copy-video-to-usb/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/storage-space-check/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/chrome-download-history/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/firefox-download-history/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/edge-download-history/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/safari-download-history/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/in-app-browser-vs-external-browser/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/safe-browser-download-warning/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/downloaded-file-has-no-sound/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-will-not-open/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/zero-byte-download/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/incomplete-video-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-freezes-during-playback/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-out-of-sync/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/downloaded-file-is-html/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/multiple-audio-track-player/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/av1-video-codec/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/vp9-video-codec/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-bitrate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-bitrate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/frame-rate-vs-resolution/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/muxing-vs-transcoding/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-sample-rate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/drm-access-boundary/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/source-audio-language-selection/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/descriptive-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/dubbed-source-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/does-4k-upscale-improve-detail/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mp4-vs-webm/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mp4-vs-mkv/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/h264-vs-hevc/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/aac-vs-opus/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/permissioned-video-archive/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/organize-language-track-copies/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/source-changes-after-analysis/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-video-temporary-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-video-temporary-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/facebook/facebook-video-temporary-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-video-temporary-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/snapchat-spotlight-temporary-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/captions-vs-subtitles/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/open-vs-closed-captions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/srt-vs-webvtt/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-sidecar-not-showing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-timing-offset/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-character-encoding/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/downloaded-video-without-captions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/automatic-caption-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hdr-vs-sdr-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hdr-video-washed-out/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-color-range/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-color-depth/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-aspect-ratio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-rotation-metadata/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-pixel-aspect-ratio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/interlaced-vs-progressive/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/variable-frame-rate-editor-drift/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/keyframes-and-seeking/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/codec-profile-and-level/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hardware-vs-software-decoding/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/lossy-vs-lossless-media/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mp4-vs-mov/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/m4a-vs-aac/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-channel-downmix/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-clipping/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-loudness-vs-peak/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mono-vs-stereo-dialogue/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hls-vs-dash/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-page-vs-cdn-url/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/http-403-vs-404/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/http-429-rate-limits/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/media-mime-type/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/content-disposition-filename/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/byte-range-playback/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/thumbnail-vs-video-frame/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/multiple-downloads-browser-permission/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/samsung-internet-download-location/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/brave-download-history/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/linux-video-download-location/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/phone-to-computer-video-transfer/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/android-usb-file-transfer/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/iphone-mac-video-transfer/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/quicktime-file-compatibility/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/editor-import-no-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-editing-proxy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/archive-checksums/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/archive-manifest/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-backup-restore-test/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/cloud-sync-vs-backup/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/archive-source-vs-edit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/public-url-vs-permission/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-permission-request/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-file-location-privacy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/safe-error-report/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/download-notification-uncertainty/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/choose-source-video-resolution/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-live-premiere-availability/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-dub-origin/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/chroma-subsampling/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/overlapping-caption-cues/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/muted-video-preview/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/resume-interrupted-browser-download/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-status-visibility-and-expiry/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-exported-video-vs-chat-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/language-tag-region-and-script/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/pcm-bit-depth-vs-compressed-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/fat32-video-file-limit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/windows-n-media-feature-pack/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-own-upload-backup-options/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/inspect-local-video-with-ffprobe/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/encrypted-video-backup-recovery/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/creative-commons-video-license-check/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-view-once-vs-retained-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-content-id-claim-vs-strike/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-line-breaks-and-meaning/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-import-authorized-srt/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-relink-moved-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-offline-download-vs-media-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-save-video-controls/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-data-export-vs-video-backup/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/meta-account-export-vs-public-video-link/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-drafts-before-device-change/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-clip-vs-source-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/descriptive-transcript-from-captions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/inspect-video-metadata-before-sharing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mp4-faststart-index-placement/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-chapters-vs-separate-files/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/apple-shared-album-video-copy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/photos-video-export-original-vs-edited/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/clipchamp-project-vs-media-backup/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ttml-caption-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/image-subtitles-vs-editable-text/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/private-browsing-saved-video-files/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/playback-speed-vs-retimed-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-studio-caption-file-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/google-photos-locked-folder-retention/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-collect-project-media/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/google-photos-video-backup-quality/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/forced-subtitles-vs-full-captions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/spherical-video-vs-flat-playback/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-alpha-channel-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/source-timecode-vs-sequence-position/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/media-bitrate-vs-download-throughput/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/screen-recording-vs-retained-media/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/photo-library-selected-video-access/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/windows-video-file-in-use/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/recover-recently-deleted-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-visibility-for-video-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-audio-library-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/google-photos-stop-video-sharing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-shortcut-vs-retained-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-inside-zip-archive/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-customization-download-page-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/captive-wifi-video-download/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/cast-retained-video-vs-screen-mirroring/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-studio-edit-version-retention/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/linux-video-file-access-permissions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mac-video-files-folders-access/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/windows-protected-folder-video-save/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mac-external-drive-video-read-only/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/google-drive-video-download-permission/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/onedrive-restore-video-version/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-upload-quality-processing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-playback-enhancement-vs-source/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-reuse-history-before-removal/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-library-media-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-project-vs-audio-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-text-contrast-changing-scenes/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/spotlight-owner-retention-before-delete/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/facebook/facebook-reel-audience-for-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/whatsapp/whatsapp-disappearing-chat-video-retention/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/prores-vs-prores-raw-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/retimed-video-interpolation-artifacts/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-bidirectional-text-order/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/long-wav-export-size-limit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/tiktok/tiktok-recover-own-deleted-post/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/android-sd-card-portable-vs-internal-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/samsung-secure-folder-video-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/copy-selected-local-audio-stream/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/resolve-project-file-vs-media-archive/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/live-photo-save-as-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-clip-notes-vs-xmp-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/join-compatible-retained-video-segments/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-viewer-transcript-navigation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/voice-memos-editable-narration-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-shorts-remix-source-removal/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-incomplete-camera-import/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-numbered-image-sequence-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-click-at-edit-boundary/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/steady-audio-noise-profile-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/stabilized-video-crop-and-warp-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/drop-frame-timecode-vs-dropped-pictures/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-music-ducking-dialogue-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/animated-image-vs-video-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/verify-flac-audio-roundtrip/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-scheduled-publication-access/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/speech-sibilance-deesser-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/apple-hidden-video-library-location/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/cinematic-focus-editable-video-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-multicam-angle-sync-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-dc-offset-before-editing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-automatic-chapter-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/local-h264-aac-review-transcode/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/apple-photos-duplicate-video-merge-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-auto-reframe-action-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-scene-edit-detection-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/speech-dynamics-compressor-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-voice-isolation-component-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-camera-lut-vs-creative-look/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-role-stems-vs-mixed-soundtrack/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/webvtt-voice-annotation-vs-speaker-label/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-age-restriction-vs-made-for-kids/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/aac-priming-vs-audio-timeline/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/export-still-frame-vs-video-screenshot/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/stereoscopic-video-vs-spherical-projection/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/replaygain-tags-vs-normalized-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-frame-hold-selected-moment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/speech-noise-gate-quiet-word-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-repost-vs-retained-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-transition-insufficient-handles/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/tracked-video-blur-handoff-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-pitch-shift-vs-playback-speed/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-trial-reel-sharing-state/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-erase-song-vs-mute-all-audio/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-punch-roll-replacement-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ass-subtitle-font-attachment-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/recording-latency-vs-monitoring-delay/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-resample-vs-set-track-rate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/pcm-endianness-raw-import/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-rumble-highpass-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-hum-notch-harmonics/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/integrated-vs-short-term-loudness/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/float-audio-export-integer-clipping/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-map-required-vs-optional-stream/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-concat-demuxer-vs-filter/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-trim-reset-timestamps/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-filtergraph-error-versus-partial-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-fingerprint-vs-watermark/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-accurate-seek-input-vs-output/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/constant-quality-vs-target-bitrate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/encoder-preset-vs-quality-control/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-drawtext-font-dependency/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-subtitle-burn-version-match/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-sharpen-halo-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-silencedetect-selected-ranges/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-silenceremove-video-sync/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-thumbnail-selection-vs-contact-sheet/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-atempo-retiming-limit-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-overlay-input-duration/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/pts-vs-dts-video-timestamps/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/demuxer-vs-decoder/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/account-video-bookmark-vs-retained-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-raster-versus-active-picture/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-capture-time-versus-file-time/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-content-credentials-validation-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/image-sequence-versus-video-editing-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/embedded-subtitle-versus-sidecar-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/container-chapters-versus-caption-navigation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/local-file-review-versus-hosted-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/subtitle-conversion-versus-caption-translation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-cloud-sync-vs-backup-restore/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-service-worker-old-page/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-managed-download-policy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-clock-certificate-media-error/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-csp-console-media-request/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-user-gesture-download-trigger/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-blob-url-session-lifetime/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-session-history-back-job-state/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-os-open-file-picker-permission/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/firefox-container-account-video-context/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-media-key-wrong-tab/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/firefox-handler-system-default-video/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/container-track-id-vs-stream-index/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mkv-attachments-vs-subtitle-streams/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/duration-stream-vs-container/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-decoder-error-concealment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-motion-blur-vs-low-frame-rate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-row-stride-vs-raster-size/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-cloud-name-collision-case-folding/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/linux-video-hardlinks-storage-accounting/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-raw-pcm-no-header/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-limiter-vs-compressor/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-crossfade-equal-power-vs-linear/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-normalization-channel-linking/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-dither-bit-depth-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-dual-mono-vs-stereo-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-mid-side-vs-left-right/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/true-peak-vs-sample-peak/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/h264-avcc-vs-annex-b/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/codec-tag-vs-real-bitstream/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/webvtt-header-missing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/aac-adts-vs-container-config/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/opus-pre-skip-output-rate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/matroska-codec-delay-versus-added-silence/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/mp3-gapless-delay-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/wav-extensible-channel-mask/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-color-primaries-vs-transfer/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hdr-static-vs-dynamic-metadata/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/chroma-siting-color-edge-shift/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-tone-map-highlight-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-player-network-share-stall/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/movie-archive-extraction-crc-error/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-archive-audit-sampling-limits/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-usb-exfat-repair-first-copy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hls-master-playlist-vs-variant/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/hls-webvtt-timestamp-map-local-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ttml-relative-container-timing-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ttml-external-font-image-resource-retention/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/vlc-native-external-audio-playback/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/vlc-native-multiple-instances-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/vlc-native-transcode-save-destination/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/editing-project-relative-vs-absolute-paths/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/editing-project-roundtrip-transition-loss/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/kdenlive-render-zone-vs-project/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/kdenlive-render-script-source-dependencies/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-dns-resolution-media-host/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/browser-download-disk-quota-vs-web-storage/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/safari-reader-view-video-missing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/srt-millisecond-separator-parse/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ass-override-tags-visible-text/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/captions-separate-language-files/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-language-script-transliteration/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/matroska-cues-seek-index/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/matroska-ordered-chapters-editions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/matroska-reader-version-versus-document/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/closed-vs-open-gop-trim/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/codec-parameter-change-midstream/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/codec-two-pass-scene-allocation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffv1-archive-vs-viewing-copy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-amerge-vs-amix/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-sidechain-dialogue-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-astats-channel-evidence/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-permission-revocation-archive-plan/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-shared-folder-inherited-access/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-caption-personal-data-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-trim-sample-boundaries/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-delay-filter-vs-timestamp-offset/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-format-negotiation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-picture-comparison-alignment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-ocr-video-text-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-black-frame-detection-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-filtergraph-labelled-output-map/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-crop-coordinate-frame-bounds/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-transpose-rotation-metadata/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-waveform-picture/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/blender-scene-frame-range-sequencer/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-selection-vs-entire-project-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-label-track-export-alignment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-envelope-vs-amplify/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/speech-reverb-reduction-limits/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-resampling-aliasing-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-loudness-range-vs-integrated/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-default-track-selection-native/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-queue-item-setting-snapshot/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-framerate-peak-vs-constant/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-application-audio-capture-source/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-monitor-output-routing-distinction/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-recording-encoder-overload/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/opus-channel-mapping-surround/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-comb-filter-vs-echo/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audio-formant-shift-vs-note-pitch/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-reverse-video-memory-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-fade-selected-interval/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-loop-audio-boundary/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-cue-end-exclusivity/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-karaoke-timing-vs-simple-cues/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-time-reference-wall-clock/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-copy-metadata-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-stream-disposition-default/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-frame-rate-filter-vs-interpolation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-rnnoise-model-dependency/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/blender-video-sequencer-project-media/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-dcshift-headroom/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-deemphasis-source-context/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-frequency-shift-vs-pitch/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-dynamic-audio-normalization/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-impulse-click-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ass-script-resolution-layout/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/webvtt-region-layout-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/flac-channel-layout-metadata/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/wav-broadcast-time-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-read-embedded-caption-data/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-project-recovery-backup-version/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-delete-generated-media-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-snapshot-vs-project-duplicate/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-share-destination-vs-render-file/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-constant-quality-target-size/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-source-scan-versus-encode/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-alpha-extract-companion/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-video-stabilization-two-step-context/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-scene-change-threshold-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-smart-collection-vs-folder-copy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-camera-archive-vs-library/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-native-convert-closed-captions-to-another-format/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-share-captions-format/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-vfr-detection-interval/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-interlace-detection-evidence/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-video-end-padding-freeze/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-hardware-frame-transfer-filter/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-filter-threading-repeatability/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-lut3d-source-context/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-deflicker-meaningful-light-changes/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-deband-detail-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-convolution-impulse-response-resource/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-band-split-recombine/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-stack-input-time-alignment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-xfade-overlap-duration/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-overlay-time-origin/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/quicktime-trim-vs-split-rearrange/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/quicktime-export-audio-only-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/snapchat-memories-backup-completion/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/snapchat-my-data-vs-media-backup/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/snapchat/spotlight-owner-publication-state/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/instagram/instagram-post-caption-edit-vs-video-version/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/linux-open-file-deleted-still-playing/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-transcript-cut-vs-word-correction/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-render-replace-recovery/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-cache-cleanup-vs-source-delete/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-filter-color-conversion-explicit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-soft-clipping-derivative/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-correlation-alignment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-export-in-out-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-audio-dynamic-equalization/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-temporal-denoise-trailing-edges/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-perspective-reframe-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-chroma-key-spill-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-luma-key-picture-loss/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-detelecine-source-cadence/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-mask-merge-source-alignment/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-destructive-vs-realtime-effect/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-sync-lock-group-edit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-truncate-silence-selection/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/audacity-recover-project-crash/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-point-range-native-selection/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-native-custom-preset-version/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-chapter-import-source-range/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-native-crop-auto-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/handbrake-native-hardware-encoder-unavailable/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-vertical-writing-receiver/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/webvtt-ruby-pronunciation-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-batch-download-one-failure-isolation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-export-service-temporary-output-leftover/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/ffmpeg-drawtext-timecode-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/movie-cloud-conflict-two-versions/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-archive-missing-empty-folders/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-media-source-close-reopen-state/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-image-source-file-update/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-video-capture-resolution-source/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-hybrid-recording-finalization/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/obs-recording-encoder-preset-receiver/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/firefox-picture-in-picture-caption-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/youtube/youtube-screen-reader-video-navigation/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-autosave-project-recovery/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-linked-selection-edit-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-adjustment-layer-effect-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-ripple-vs-rolling-edit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/published-remix-vs-editable-source/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-slip-vs-slide-edit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-video-track-enable-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-nested-sequence-audio-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-effect-order-picture-review/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-merge-clips-vs-multicam/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/premiere-markers-comment-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/iphone-external-drive-files-video-copy/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/caption-owner-update-retained-sidecar/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/video-caption-cue-empty-after-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/service-maintenance-versus-provider-failure/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-audition-choice-export/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-connected-clip-anchor/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-magnetic-timeline-gap/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-multichannel-component-mute/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-audio-keyframe-level-transition/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-audio-detach-vs-break-apart/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-three-point-edit-range/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-replace-from-start-vs-end/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-synchronized-clip-source-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-overwrite-vs-insert-edit/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-extend-edit-keyframe-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-ipad-project-mac-handoff/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-delete-event-source-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-imovie-project-import/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-fcpxml-media-references/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-match-audio-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-audio-effect-order/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-white-balance-auto-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-color-match-shot-reference/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-color-mask-vs-shape-mask/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-audio-enhancement-analysis/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-freeze-frame-duration-insert/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-distort-vs-transform-shape/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-title-template-edit-in-motion/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-share-chapter-markers/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-pan-mode-surround-output/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-keyframe-interpolation-motion/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-speed-ramp-audio-transition/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-multicam-cut-vs-angle-editor/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-color-wheels-vs-curves/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-wide-gamut-library-output/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    },
+    {
+      "path": "/guides/general/final-cut-hdr-tools-tone-map-scope/",
+      "passed": true,
+      "score": 100,
+      "errors": []
+    }
+  ],
+  "published": 525
+}
