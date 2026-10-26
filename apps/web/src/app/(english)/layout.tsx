@@ -4,6 +4,9 @@ import { SiteShell } from "@/components/site-shell";
 import "../globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(site),
+  verification: {
+    google: "8ElT4TSYUCfL74tNmQVNwZtIsmcO50zQztzCpcREaPA",
+  },
   title: {
     default: "SocialVidDownloader - Download Social Media Videos Online",
     template: "%s | SocialVidDownloader",
