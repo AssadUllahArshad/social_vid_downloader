@@ -5,7 +5,7 @@ import "../globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(site),
   verification: {
-    google: "8ElT4TSYUCfL74tNmQVNwZtIsmcO50zQztzCpcREaPA",
+    google: ["8ElT4TSYUCfL74tNmQVNwZtIsmcO50zQztzCpcREaPA", "nZGKtrCudfVIUamVCQqmvJPfpdDHXtntJ0wbelNaEdA"],
   },
   title: {
     default: "SocialVidDownloader - Download Social Media Videos Online",
