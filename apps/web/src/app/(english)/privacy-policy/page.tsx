@@ -9,7 +9,8 @@ export default function Page() {
         {operator.name} operates SocialVidDownloader. The service uses submitted public links to prepare authorized downloads. It does not offer user accounts, permanent download history, or advertising profiles. AI dubbing is not enabled in this release.
       </p>
       <h2>Website analytics</h2>
-      <p>We use Ahrefs Analytics to understand visits and interactions with the website. Your browser sends page URLs, referrer information, language, screen information, and interaction events to Ahrefs. See <a href="https://ahrefs.com/privacy-policy" rel="noreferrer">Ahrefs? privacy policy</a> for information about its processing.</p>
+      <p>We use Ahrefs Analytics to understand visits and interactions with the website. Your browser sends page URLs, referrer information, language, screen information, and interaction events to Ahrefs. See <a href="https://ahrefs.com/privacy-policy" rel="noreferrer">Ahrefs privacy policy</a> for information about its processing.</p>
+      <p>We also use Google Analytics to measure website usage. Google receives information about page visits, browser and device details, and interactions, and may use cookies to distinguish visits. See <a href="https://policies.google.com/privacy" rel="noreferrer">Google privacy policy</a> for details.</p>
       <h2>Submitted links</h2>
       <p>
         Submitted links are checked and temporarily cached to process the
