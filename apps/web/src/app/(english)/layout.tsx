@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(site),
   verification: {
     google: ["8ElT4TSYUCfL74tNmQVNwZtIsmcO50zQztzCpcREaPA", "nZGKtrCudfVIUamVCQqmvJPfpdDHXtntJ0wbelNaEdA"],
+    other: {
+      "msvalidate.01": "4CBA24802AF5D42BEA67CED85396296C",
+    },
   },
   title: {
     default: "SocialVidDownloader - Download Social Media Videos Online",
