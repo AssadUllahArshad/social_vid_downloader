@@ -169,9 +169,9 @@
     "path": "/contact/",
     "type": "trust",
     "title": "Contact",
-    "description": "Contact details and support channels for SocialVidDownloader are not yet configured.",
+    "description": "Contact SocialVidDownloader for support, privacy questions and copyright reports. Find the operator and the right email address for your request.",
     "indexable": false,
-    "reason": "Operator and support contacts are placeholders."
+    "reason": "Support page is available to visitors; excluded from search results."
   },
   {
     "path": "/copyright/",
